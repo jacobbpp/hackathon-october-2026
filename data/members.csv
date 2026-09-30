@@ -1,0 +1,2884 @@
+member_id,join_date,plan,age_band,home_area,status,cancelled_date,last_updated
+M00001,14/04/2024,Monthly ,65+,Southside,Active,,2024-07-30
+M00002,2026-05-26,Annual ,45-54,Westgate,active,,2026-06-17
+M00003,2025-06-04,Monthly,55-64,Hillcrest,Active,,2025-09-19
+M00004,08/02/2024,Monthly,25-34,Westgate,cancelled,2025-04-17,2025-04-17
+M00005,07/06/2026,MONTHLY,25-34,Westgate,active,,2026-06-09
+M00006,2024-05-01,Monthly ,25-34,Westgate,Active,,2025-08-23
+M00007,05/06/2026,Monthly,25-34,Waterside,ACTIVE,,2026-07-02
+M00008,15 Oct 2024,Monthly,45-54,Southside,active,,2026-01-15
+M00009,2024-11-08,Monthly,25 - 34,Northfield,active,,2025-07-23
+M00010,2026-01-31,Annual,35-44,Westgate,Cancelled,2026-07-18,2026-07-18
+M00011,7 May 2026,Monthly,35-44,Southside,active,,2026-05-20
+M00012,10 Jul 2024,Annual,45-54,Westgate,active,,2025-03-09
+M00013,2025-03-01,Monthly,25-34,Northfield,ACTIVE,,2026-03-21
+M00014,2025-04-02,monthly,35-44,Southside,Active,,2025-09-25
+M00015,2025-08-04,Annual,45 - 54,Eastside,cancelled,2026-08-29,2026-08-29
+M00016,2025-04-24,Annual ,16-24,Southside,Cancelled,2025-10-30,2025-10-30
+M00017,19 Jul 2026,Annual,,City Centre,active,,2026-08-16
+M00018,2025-09-03,Monthly,16-24,Westgate,Active,,2026-05-14
+M00019,2025-03-09,Monthly,16-24,University,active,,2026-04-02
+M00021,4 Apr 2026,Monthly,45-54,Northfield,Active,,2026-06-03
+M00023,07/05/2026,Annual,16-24,Northfield,active,,2026-06-16
+M00024,2024-12-01,Monthly ,35-44,Waterside,active,,2026-06-02
+M00025,2026-04-19,Monthly,55-64,Southside,active,,2026-08-04
+M00026,09/06/2025,Annual,45-54,Eastside,active,,2026-03-24
+M00027,2025-01-15,Monthly,16-24,Hillcrest,cancelled,2026-03-11,2026-03-11
+M00028,2026-04-22,Monthly,25-34,City Centre,active,,2026-08-29
+M00029,2025-03-14,Monthly,16-24,University,active,,2026-01-31
+M00030,25 Jun 2025,Annual,25-34,Westgate,cancelled,2025-08-17,2025-08-17
+M00031,3 Oct 2025,Monthly,16-24,University,active,,2026-03-13
+M00032,2026-04-29,Annual,25-34,Hillcrest,ACTIVE,,2026-07-23
+M00033,06/03/2024,Annual,45-54,Southside,cancelled,2025-01-07,2025-01-07
+M00034,2026-08-16,ANNUAL,25-34,Southside,Active,,2026-08-25
+M00035,6 Jul 2025,Monthly,55-64,Northfield,CANCELLED,2026-06-02,2026-06-02
+M00036,2024-02-18,annual,25-34,Westgate,ACTIVE,,2024-09-17
+M00038,23/07/2026,Annual,55-64,Eastside,active,,2026-08-01
+M00039,2026-03-27,Monthly,16-24,Westgate,active,,2026-05-03
+M00040,2026-06-13,Monthly,25-34,Northfield,active,,2026-08-15
+M00041,18/09/2024,Annual,45-54,Eastside,active,,2026-05-06
+M00042,30/09/2025,Monthly,16-24,City Centre,ACTIVE,,2025-12-01
+M00043,10 May 2024,Monthly ,45-54,City Centre,cancelled,2025-11-27,2025-11-27
+M00044,2024-08-26,Monthly,25-34,Northfield,active,,2026-03-16
+M00045,19 May 2026,Annual ,55-64,City Centre,active,,2026-05-24
+M00046,27/01/2025,monthly,35-44,Northfield,cancelled,2026-03-15,2026-03-15
+M00047,18 Dec 2024,Monthly,25-34,Westgate,Active,,2025-12-22
+M00048,31 Jul 2025,Annual,45 - 54,Northfield,CANCELLED,2026-08-16,2026-08-16
+M00049,07/12/2025,Annual,45-54,Northfield,active,,2025-12-08
+M00051,2 Mar 2025,Monthly,25-34,Northfield,active,,2025-03-09
+M00052,2025-04-24,Annual,65+,Northfield,cancelled,2025-06-22,2025-06-22
+M00053,2026-05-03,Annual,55-64,City Centre,active,,2026-05-31
+M00054,2025-05-17,annual,25-34,Eastside,Cancelled,2026-04-19,2026-04-19
+M00055,18 Dec 2025,Annual ,35-44,Northfield,CANCELLED,2026-01-26,2026-01-26
+M00056,2024-01-28,Annual,25-34,University,active,,2025-07-22
+M00057,2026-05-14,Monthly,25-34,Northfield,active,,2026-05-29
+M00058,2025-10-24,Monthly,45-54,Southside,cancelled,2025-12-23,2025-12-23
+M00059,2025-11-10,Annual,25-34,Southside,Active,,2026-07-16
+M00060,8 Aug 2024,annual,45-54,Northfield,active,,2026-03-22
+M00061,2026-04-10,Monthly,16-24,University,ACTIVE,,2026-04-18
+M00062,16/11/2024,Monthly,35-44,Northfield,Cancelled,2026-08-02,2026-08-02
+M00064,2026-01-05,Monthly,16-24,University,Active,,2026-04-21
+M00065,2025-05-12,Monthly,55-64,Eastside,active,,2025-12-05
+M00067,2024-06-04,Monthly,45-54,Northfield,cancelled,2026-05-27,2026-05-27
+M00068,2025-07-24,Annual,35-44,Southside,active,,2025-09-08
+M00069,2025-04-12,Annual,45-54,Southside,Active,,2025-06-08
+M00070,2026-06-25,Annual,45-54,Hillcrest,active,,2026-08-31
+M00071,2024-05-31,Monthly,16 - 24,Northfield,active,,2025-10-18
+M00072,2024-04-17,Monthly,16-24,City Centre,active,,2024-09-05
+M00073,2026-08-01,Monthly,,Southside,active,,2026-08-17
+M00074,2026-05-15,Annual,65+,Southside,active,,2026-07-13
+M00075,2026-02-25,Monthly,45-54,Eastside,active,,2026-04-08
+M00077,09/12/2024,Annual,35-44,Northfield,ACTIVE,,2026-02-03
+M00078,04/12/2025,Monthly,35-44,Westgate,active,,2026-04-28
+M00079,13/02/2025,Monthly,,Hillcrest,active,,2025-04-12
+M00080,28/04/2026,annual,35-44,City Centre,active,,2026-05-18
+M00081,16/01/2026,MONTHLY,45-54,Southside,active,,2026-03-24
+M00082,2024-09-13,Annual,35-44,Eastside,active,,2025-11-30
+M00083,2025-02-19,Monthly,16-24,Hillcrest,cancelled,2026-07-16,2026-07-16
+M00084,15/02/2026,Annual,45-54,Westgate,active,,2026-06-05
+M00085,2026-03-15,Monthly,55-64,Hillcrest,active,,2026-03-31
+M00086,2026-07-28,Annual,65+,Northfield,active,,2026-08-21
+M00087,24/08/2026,Monthly,,Hillcrest,active,,2026-08-31
+M00088,2026-03-10,ANNUAL,45-54,Eastside,ACTIVE,,2026-08-20
+M00089,5 Jul 2026,Monthly,16 - 24,University,active,,2026-07-20
+M00090,10/02/2024,Monthly,55-64,Eastside,active,,2024-09-01
+M00091,2024-07-22,Monthly,55-64,Waterside,cancelled,2024-09-09,2024-09-09
+M00092,2025-06-26,Monthly,16-24,University,cancelled,2026-03-29,2026-03-29
+M00093,2025-11-19,Annual,,Eastside,active,,2025-12-31
+M00094,2024-07-07,Monthly,55-64,Fernhill,cancelled,2026-05-02,2026-05-02
+M00095,27/05/2026,Annual,45-54,Fernhill,Active,,2026-07-28
+M00096,2026-08-18,Monthly,25-34,Northfield,ACTIVE,,2026-08-24
+M00097,2026-05-20,Annual,25-34,Northfield,ACTIVE,,2026-08-16
+M00098,2026-05-17,Annual,35-44,Northfield,ACTIVE,,2026-08-16
+M00099,22 Dec 2025,Monthly,25-34,Northfield,active,,2026-04-25
+M00100,29 May 2025,Monthly,,Northfield,Cancelled,2026-03-08,2026-03-08
+M00101,2026-02-13,MONTHLY,35-44,Eastside,active,,2026-03-14
+M00102,6 Aug 2024,Monthly,65+,Eastside,active,,2025-03-31
+M00103,06/08/2024,Monthly,16-24,Westgate,active,,2026-07-19
+M00104,24/03/2026,Annual,16-24,Hillcrest,active,,2026-06-05
+M00105,27/02/2025,Monthly,16-24,University,cancelled,2025-10-11,2025-10-11
+M00106,2026-05-22,Monthly,25 - 34,Northfield,active,,2026-06-29
+M00107,21/09/2024,Monthly,25-34,Westgate,cancelled,2025-03-19,2025-03-19
+M00108,2024-01-11,Annual,25-34,Southside,active,,2024-04-08
+M00109,2024-12-05,Monthly,16-24,University,cancelled,2025-05-07,2025-05-07
+M00110,2024-02-29,Annual,25-34,City Centre,active,,2024-09-13
+M00111,2026-08-10,Monthly,35-44,Westgate,active,,2026-08-16
+M00112,10/04/2026,MONTHLY,35-44,City Centre,active,,2026-07-13
+M00113,2026-07-01,Monthly,65+,Southside,Active,,2026-07-24
+M00114,2024-01-28,Annual,45-54,Eastside,Active,,2024-11-23
+M00115,2026-05-12,monthly,45-54,Westgate,active,,2026-08-09
+M00116,9 Nov 2024,Annual,16-24,Eastside,active,,2026-05-13
+M00117,2024-06-23,Annual,45-54,Eastside,cancelled,,2025-07-15
+M00119,2025-02-18,Annual,45-54,Northfield,active,,2026-03-10
+M00120,2024-06-12,Monthly ,35-44,Southside,cancelled,2026-02-17,2026-02-17
+M00121,2024-11-23,Monthly,55-64,Westgate,cancelled,2026-05-17,2026-05-17
+M00122,2024-12-05,Monthly,35-44,Eastside,active,,2025-12-06
+M00123,2025-11-20,monthly,55-64,Westgate,Active,,2026-04-07
+M00124,2024-01-06,Monthly,35-44,Southside,ACTIVE,,2026-03-05
+M00125,2024-09-16,Monthly,35-44,Eastside,cancelled,2025-11-10,2025-11-10
+M00126,20/04/2026,Annual,16-24,University,active,,2026-05-13
+M00127,2026-05-26,Monthly,25-34,Hillcrest,Active,,2026-06-25
+M00128,30 Sep 2024,Monthly,35-44,Westgate,ACTIVE,,2025-12-01
+M00129,23/08/2026,Monthly,16 - 24,Westgate,ACTIVE,,2026-08-28
+M00130,06/04/2026,Monthly,,Hillcrest,active,,2026-07-29
+M00131,21/06/2025,Annual,35-44,Northfield,ACTIVE,,2025-06-25
+M00132,17 Mar 2026,Monthly,25-34,Southside,active,,2026-05-15
+M00133,2025-11-22,Monthly,55-64,Eastside,Active,,2025-11-23
+M00134,2024-05-28,Monthly,25-34,Westgate,active,,2025-03-07
+M00135,13/01/2024,annual,55-64,Hillcrest,CANCELLED,2025-10-25,2025-10-25
+M00136,2025-05-13,Annual,35-44,Southside,active,,2026-06-11
+M00137,3 Jan 2025,Monthly ,45-54,Hillcrest,cancelled,2025-04-19,2025-04-19
+M00138,08/08/2024,Monthly,65+,Eastside,cancelled,2024-12-13,2024-12-13
+M00139,2025-06-09,Annual,25-34,Westgate,active,,2025-06-19
+M00140,18/11/2025,Monthly,25-34,University,active,,2026-05-29
+M00141,2025-08-15,Monthly,16-24,Westgate,active,,2026-01-29
+M00142,2024-12-08,Monthly,35-44,Southside,active,,2025-12-18
+M00143,2025-02-20,Annual ,35-44,Westgate,cancelled,2026-06-22,2026-06-22
+M00144,2026-06-20,Monthly,25-34,Southside,active,,2026-07-01
+M00145,09/08/2026,Monthly ,55-64,Northfield,ACTIVE,,2026-08-18
+M00146,9 Jun 2024,Monthly,25-34,Southside,active,,2024-06-09
+M00146,9 Jun 2024,Annual,25-34,Southside,active,,2025-10-31
+M00147,2026-08-02,Monthly,25-34,Eastside,ACTIVE,,2026-08-16
+M00148,2025-04-30,Monthly,55-64,Westgate,CANCELLED,2026-05-18,2026-05-18
+M00149,1 Aug 2026,MONTHLY,25-34,Northfield,Active,,2026-08-07
+M00150,2025-11-10,Monthly,25-34,Eastside,active,,2025-12-12
+M00151,2026-04-15,Monthly,35-44,Northfield,active,,2026-07-03
+M00152,13 Jan 2025,Annual ,45-54,Westgate,cancelled,2025-11-05,2025-11-05
+M00153,2025-05-25,Monthly,55-64,Northfield,Active,,2026-08-17
+M00154,01/04/2025,ANNUAL,25-34,Northfield,active,,2025-06-18
+M00155,12/01/2026,Annual,25-34,Eastside,Active,,2026-03-13
+M00156,2024-02-11,Monthly,35-44,Westgate,Cancelled,2025-04-11,2025-04-11
+M00157,20/04/2026,annual,25-34,Westgate,active,,2026-08-09
+M00158,2026-05-03,Monthly,25-34,Southside,active,,2026-05-31
+M00159,19/07/2025,ANNUAL,35-44,Westgate,active,,2026-01-02
+M00160,2025-09-01,Annual,35-44,Northfield,active,,2025-12-27
+M00161,2025-05-10,Annual,16-24,Northfield,CANCELLED,2025-11-14,2025-11-14
+M00162,16/03/2025,Monthly,25-34,Northfield,Active,,2026-01-04
+M00163,23/05/2026,Annual,65+,Northfield,active,,2026-05-28
+M00164,28 Jul 2024,Monthly ,35-44,Southside,active,,2026-05-09
+M00165,2025-08-14,Monthly,45-54,Eastside,cancelled,2026-06-13,2026-06-13
+M00166,22 Jun 2024,Monthly,55-64,Northfield,CANCELLED,2026-06-06,2026-06-06
+M00167,2024-07-25,Monthly ,16-24,Southside,active,,2026-06-25
+M00168,18/05/2024,ANNUAL,65+,Fernhill,active,,2024-11-27
+M00169,16/03/2026,Annual,16-24,Hillcrest,active,,2026-07-01
+M00170,2025-04-22,Monthly,35-44,Northfield,cancelled,2026-05-10,2026-05-10
+M00171,14/05/2025,monthly,55 - 64,Eastside,cancelled,2026-05-18,2026-05-18
+M00172,18/02/2026,Monthly ,65+,Hillcrest,active,,2026-04-12
+M00173,21/07/2026,Annual,25-34,Northfield,active,,2026-08-13
+M00174,29 Nov 2025,Monthly,16-24,University,cancelled,2026-02-11,2026-02-11
+M00175,2026-05-16,Monthly,25 - 34,Northfield,active,,2026-08-27
+M00176,05/03/2024,Annual,65+,Southside,active,,2025-05-29
+M00177,07/11/2025,MONTHLY,45-54,Northfield,active,,2026-02-10
+M00178,23 Aug 2024,ANNUAL,35-44,Southside,active,,2024-12-11
+M00179,2026-08-06,MONTHLY,35 - 44,City Centre,cancelled,2026-08-28,2026-08-28
+M00180,6 Feb 2026,Monthly,45-54,Northfield,active,,2026-07-30
+M00181,2026-05-02,Monthly,16-24,University,cancelled,2026-07-30,2026-07-30
+M00182,2026-06-19,Annual,45-54,Southside,ACTIVE,,2026-07-30
+M00183,02/07/2025,Monthly,35-44,Westgate,cancelled,2026-07-04,2026-07-04
+M00184,2026-01-16,Monthly,25-34,Eastside,cancelled,2026-05-03,2026-05-03
+M00185,2025-03-25,monthly,35-44,Fernhill,active,,2026-01-08
+M00186,2026-08-19,Annual,35-44,Southside,Active,,2026-08-27
+M00187,2025-06-25,Annual,25-34,Southside,active,,2025-09-16
+M00188,2025-02-21,Monthly,65+,Southside,Active,,2025-10-05
+M00189,2024-01-06,Monthly,45-54,Westgate,Active,,2025-02-11
+M00190,2025-03-22,Annual,45-54,Southside,ACTIVE,,2026-05-04
+M00191,01/01/2025,Monthly,35-44,Westgate,active,,2025-11-02
+M00192,02/12/2024,annual,25-34,Eastside,ACTIVE,,2025-03-02
+M00193,2026-04-02,annual,35-44,Northfield,active,,2026-08-01
+M00194,2026-03-29,Annual,,Southside,active,,2026-06-02
+M00195,2025-02-05,MONTHLY,45-54,Westgate,active,,2025-10-28
+M00196,16 Oct 2024,Annual,,Westgate,active,,2025-11-22
+M00197,2025-04-21,Monthly,25-34,Hillcrest,ACTIVE,,2025-07-06
+M00198,25 Feb 2024,Monthly,,Westgate,cancelled,2024-09-26,2024-09-26
+M00199,2025-10-26,Monthly,16-24,Hillcrest,active,,2026-04-07
+M00200,2025-09-07,Monthly,45-54,Southside,ACTIVE,,2026-01-24
+M00201,05/10/2024,Monthly ,35-44,Southside,ACTIVE,,2025-09-20
+M00202,2026-05-24,Monthly,35-44,Southside,cancelled,2026-07-21,2026-07-21
+M00203,17/06/2024,Monthly,16-24,City Centre,active,,2024-09-02
+M00204,2024-04-01,Annual,35-44,City Centre,active,,2024-06-02
+M00205,20/04/2026,Monthly,55-64,Eastside,ACTIVE,,2026-05-16
+M00206,13/10/2025,Annual,35-44,Northfield,ACTIVE,,2026-04-15
+M00207,27/08/2026,Monthly,45-54,Northfield,active,,2026-08-27
+M00208,23/08/2026,Annual,35-44,Westgate,active,,2026-08-23
+M00209,2026-08-24,Monthly,45-54,Fernhill,ACTIVE,,2026-08-29
+M00210,2025-05-02,Annual,25-34,City Centre,CANCELLED,2025-10-14,2025-10-14
+M00211,23/06/2025,Annual,25-34,University,active,,2026-04-22
+M00212,2024-02-06,Annual,16-24,Northfield,cancelled,2024-04-30,2024-04-30
+M00213,10 Aug 2024,Annual,,Westgate,active,,2025-10-30
+M00214,2026-04-24,monthly,35-44,Hillcrest,ACTIVE,,2026-08-13
+M00215,2026-03-18,Annual,45-54,Northfield,active,,2026-08-20
+M00216,2026-03-08,Annual,65+,Eastside,active,,2026-06-20
+M00217,2026-01-18,Monthly,16-24,Southside,active,,2026-05-06
+M00218,2024-03-20,Annual,25-34,Northfield,active,,2024-10-22
+M00219,2026-08-11,Annual,35-44,Fernhill,ACTIVE,,2026-08-22
+M00220,2025-12-22,Monthly,55-64,Southside,active,,2026-08-27
+M00221,28/01/2025,Monthly,25-34,Northfield,Active,,2026-08-22
+M00222,8 Nov 2024,Annual,45-54,Westgate,active,,2025-01-04
+M00223,6 May 2024,Annual ,25-34,Westgate,ACTIVE,,2026-06-01
+M00224,2025-08-03,Annual,45-54,Northfield,Active,,2026-02-06
+M00225,2025-03-31,Monthly,16-24,University,cancelled,2026-02-23,2026-02-23
+M00226,2026-02-25,Monthly,45-54,Northfield,Active,,2026-04-06
+M00227,24/06/2026,MONTHLY,,Waterside,active,,2026-08-24
+M00228,28 May 2024,Annual,35-44,Southside,active,,2025-08-26
+M00229,2026-04-20,Monthly,16-24,University,Active,,2026-06-27
+M00230,2025-05-04,Annual,45-54,Eastside,CANCELLED,2026-06-08,2026-06-08
+M00231,02/06/2025,Monthly,25-34,Southside,CANCELLED,2025-11-11,2025-11-11
+M00232,2024-04-01,Annual,45-54,Northfield,active,,2024-11-11
+M00233,2024-04-30,Monthly,35-44,Westgate,cancelled,2026-03-01,2026-03-01
+M00234,12/07/2025,Annual,45-54,Fernhill,cancelled,,2026-08-03
+M00235,22 Jun 2025,Annual,65+,Eastside,active,,2025-08-23
+M00236,2024-07-08,Monthly,16-24,Westgate,Cancelled,2026-03-28,2026-03-28
+M00237,2025-05-08,MONTHLY,,City Centre,active,,2025-10-26
+M00238,2024-08-16,Monthly,55 - 64,Northfield,cancelled,2026-04-24,2026-04-24
+M00239,2024-05-18,Monthly ,45-54,Southside,active,,2025-09-25
+M00240,24/01/2025,Monthly,55-64,City Centre,CANCELLED,2026-06-21,2026-06-21
+M00241,2024-05-10,MONTHLY,25-34,Fernhill,active,,2024-06-15
+M00242,2026-05-10,Annual ,45-54,Fernhill,active,,2026-05-23
+M00243,2026-02-16,Monthly,,Fernhill,cancelled,2026-04-08,2026-04-08
+M00244,2024-06-12,Monthly,16-24,University,Active,,2026-03-25
+M00245,2026-05-25,Monthly,25-34,Northfield,cancelled,2026-06-25,2026-06-25
+M00246,27/06/2024,Monthly,,University,cancelled,2024-09-05,2024-09-05
+M00247,2026-03-07,Monthly,16 - 24,University,Cancelled,2026-06-29,2026-06-29
+M00248,23 Jun 2026,Annual,,Northfield,active,,2026-08-05
+M00249,12/02/2025,Monthly,35-44,Eastside,cancelled,2026-08-12,2026-08-12
+M00250,2024-01-19,Monthly,55-64,Westgate,cancelled,2026-04-17,2026-04-17
+M00252,2026-06-27,Monthly,55 - 64,Westgate,Active,,2026-07-17
+M00253,09/10/2024,Monthly,65+,Westgate,active,,2026-05-08
+M00254,2026-04-02,Monthly,35-44,Southside,active,,2026-04-20
+M00255,2024-02-04,Annual,55-64,Southside,Active,,2025-03-28
+M00256,2024-04-23,Annual,45-54,Northfield,Active,,2026-05-27
+M00257,07/04/2026,Monthly ,25-34,Westgate,cancelled,2026-06-13,2026-06-13
+M00258,3 Jan 2026,Monthly,16-24,Eastside,active,,2026-05-11
+M00259,28/01/2025,Annual ,16-24,University,active,,2026-04-03
+M00260,12 Jun 2026,Annual,25-34,Eastside,active,,2026-07-11
+M00261,17/03/2026,Annual,35-44,Southside,active,,2026-07-11
+M00262,19 Mar 2026,Monthly,,Westgate,active,,2026-03-24
+M00263,2024-07-03,Monthly,35-44,Southside,cancelled,2026-05-01,2026-05-01
+M00264,2025-01-29,Monthly,16-24,Eastside,cancelled,2025-11-29,2025-11-29
+M00266,2026-03-13,Monthly,45-54,Southside,cancelled,,2026-04-24
+M00267,03/01/2025,Monthly,35-44,Northfield,active,,2025-11-17
+M00268,05/08/2026,annual,45-54,City Centre,active,,2026-08-27
+M00269,1 May 2024,monthly,,Northfield,active,,2025-12-21
+M00270,2026-04-13,Monthly,35-44,City Centre,active,,2026-05-15
+M00271,2024-10-28,Annual,55-64,Northfield,cancelled,2025-05-20,2025-05-20
+M00272,12/04/2026,Monthly,35-44,Hillcrest,active,,2026-04-20
+M00274,2024-11-22,Annual,,Southside,active,,2024-12-19
+M00275,31 Jan 2025,Monthly,,Southside,ACTIVE,,2025-12-05
+M00276,2026-08-09,Monthly ,16-24,University,active,,2026-08-27
+M00277,2024-08-14,annual,35 - 44,City Centre,ACTIVE,,2025-09-25
+M00278,26/10/2024,Annual,45-54,Eastside,active,,2025-09-25
+M00279,2026-05-31,MONTHLY,35-44,Westgate,active,,2026-08-08
+M00280,2024-06-27,Monthly,45-54,City Centre,ACTIVE,,2025-07-21
+M00281,2026-04-25,Monthly,16-24,Eastside,Active,,2026-05-23
+M00282,26/03/2026,Annual,55-64,Southside,active,,2026-06-18
+M00283,26 Apr 2026,annual,55-64,Westgate,Active,,2026-07-24
+M00284,2025-05-04,Monthly,35-44,Southside,active,,2025-10-17
+M00285,2026-07-19,Monthly,16-24,Westgate,active,,2026-08-23
+M00286,2026-03-20,monthly,16-24,University,cancelled,2026-07-09,2026-07-09
+M00287,2026-05-15,monthly,,Eastside,active,,2026-08-14
+M00288,2025-04-09,Monthly,55-64,Southside,active,,2026-03-28
+M00289,2025-12-01,ANNUAL,25-34,Westgate,ACTIVE,,2026-03-24
+M00290,2026-03-16,Monthly,35-44,Northfield,active,,2026-05-23
+M00291,2024-05-24,monthly,25-34,Fernhill,active,,2025-08-22
+M00292,10 May 2025,Annual ,65+,Westgate,cancelled,2026-08-26,2026-08-26
+M00293,24/01/2024,ANNUAL,45-54,Fernhill,active,,2025-08-24
+M00294,16/07/2025,Annual,16-24,University,active,,2026-08-09
+M00295,2025-05-03,Annual,35-44,Westgate,active,,2026-08-07
+M00296,11 Jun 2026,monthly,55-64,Northfield,active,,2026-06-17
+M00297,2025-01-15,Monthly,25-34,Eastside,active,,2025-02-18
+M00299,11/11/2024,Annual,35-44,Southside,CANCELLED,2026-07-15,2026-07-15
+M00300,15 Apr 2025,monthly,25-34,University,cancelled,2026-07-02,2026-07-02
+M00302,2025-11-02,Annual,25-34,Northfield,active,,2026-08-10
+M00303,2026-01-16,Annual,65+,Southside,Active,,2026-02-09
+M00304,13/08/2026,Annual,,Eastside,active,,2026-08-23
+M00305,2026-08-20,Annual,25-34,Northfield,active,,2026-08-24
+M00306,29/06/2025,Monthly,45-54,City Centre,Cancelled,2026-05-29,2026-05-29
+M00307,20 Jul 2026,Monthly,35-44,Northfield,active,,2026-08-29
+M00308,2024-10-15,Annual,45-54,Northfield,Active,,2026-05-27
+M00309,22/06/2025,Annual ,35-44,Southside,Active,,2026-08-05
+M00310,2025-11-16,Monthly ,,Northfield,CANCELLED,2026-04-28,2026-04-28
+M00311,2026-01-22,annual,25-34,Westgate,active,,2026-06-02
+M00312,2025-09-29,Monthly,45-54,Eastside,ACTIVE,,2025-12-26
+M00313,2025-09-07,Monthly,16-24,University,ACTIVE,,2026-08-21
+M00314,2024-02-01,annual,45-54,Southside,active,,2026-08-14
+M00315,06/01/2024,monthly,25-34,Northfield,ACTIVE,,2024-04-29
+M00316,2026-03-19,Monthly,55-64,Fernhill,cancelled,2026-05-14,2026-05-14
+M00317,2024-04-26,Monthly,35-44,City Centre,active,,2025-01-26
+M00318,2025-02-05,Monthly,16-24,Hillcrest,ACTIVE,,2026-08-01
+M00319,25 Jul 2024,Annual,45-54,City Centre,cancelled,2024-11-17,2024-11-17
+M00320,14 Jun 2025,monthly,25-34,Southside,active,,2026-08-14
+M00321,04/06/2024,Monthly,25 - 34,Northfield,active,,2024-07-14
+M00322,2026-08-08,Annual,55-64,Southside,active,,2026-08-30
+M00323,2024-10-30,Monthly,25-34,Southside,Active,,2025-01-09
+M00324,21 Aug 2024,Monthly,55-64,Southside,cancelled,2024-10-27,2024-10-27
+M00325,2024-06-16,Monthly ,65+,Waterside,ACTIVE,,2026-06-04
+M00326,25/02/2025,Monthly,35-44,Northfield,ACTIVE,,2026-03-18
+M00327,2024-07-31,Monthly,,University,active,,2026-07-13
+M00328,2026-05-31,annual,25-34,Southside,active,,2026-07-03
+M00329,2025-03-02,MONTHLY,25-34,Southside,cancelled,,2026-05-07
+M00330,3 Feb 2025,Monthly,16-24,Westgate,ACTIVE,,2025-02-03
+M00331,6 Sep 2024,Monthly,25-34,Northfield,CANCELLED,2024-11-28,2024-11-28
+M00332,2024-04-12,MONTHLY,,Hillcrest,cancelled,2025-05-15,2025-05-15
+M00333,2026-03-07,Monthly,,Northfield,active,,2026-06-22
+M00334,28 Feb 2025,monthly,35-44,Fernhill,active,,2026-06-29
+M00335,03/05/2024,Annual,65+,Northfield,cancelled,2026-08-11,2026-08-11
+M00336,24/06/2026,Monthly,55-64,Northfield,active,,2026-08-26
+M00337,2024-09-20,Annual,35-44,Eastside,active,,2025-02-03
+M00338,13 Feb 2024,Monthly,55-64,Southside,active,,2024-10-14
+M00339,2024-12-31,Monthly,25-34,Southside,active,,2025-03-28
+M00340,2025-09-02,Monthly ,25-34,Hillcrest,cancelled,2026-02-16,2026-02-16
+M00341,31 Jul 2024,Monthly,,Eastside,cancelled,2026-02-25,2026-02-25
+M00342,05/07/2025,Monthly,16-24,University,cancelled,2026-03-10,2026-03-10
+M00344,2025-10-21,Monthly,55 - 64,Southside,Active,,2026-04-02
+M00345,14/01/2024,Monthly ,35-44,Fernhill,Cancelled,2026-03-04,2026-03-04
+M00346,2024-03-17,Monthly,25-34,Fernhill,Active,,2024-07-02
+M00347,2024-10-03,Monthly,25-34,Northfield,ACTIVE,,2025-02-11
+M00349,23/12/2024,Monthly,,Northfield,active,,2026-07-08
+M00350,23 Apr 2025,Annual,25-34,Northfield,Active,,2025-06-16
+M00351,18 Sep 2024,Monthly,16-24,Westgate,cancelled,2026-03-02,2026-03-02
+M00352,2024-02-11,Monthly,16-24,University,Cancelled,2026-07-08,2026-07-08
+M00353,22/12/2024,Monthly,,Southside,cancelled,2025-12-02,2025-12-02
+M00354,2024-06-20,MONTHLY,35-44,Westgate,cancelled,2025-01-18,2025-01-18
+M00355,2025-10-27,Annual,,Waterside,active,,2025-11-23
+M00356,2024-04-20,Annual,55-64,Eastside,active,,2026-02-09
+M00357,2025-01-03,monthly,55-64,Southside,ACTIVE,,2026-05-16
+M00358,15/04/2026,Monthly,16-24,Hillcrest,Active,,2026-05-08
+M00359,6 Jan 2026,Annual,65+,Northfield,active,,2026-02-02
+M00360,2024-11-01,Monthly ,,Eastside,active,,2026-07-20
+M00361,2025-01-05,ANNUAL,16-24,Eastside,CANCELLED,2026-08-22,2026-08-22
+M00362,28 Nov 2025,Monthly ,35 - 44,Fernhill,cancelled,2026-02-02,2026-02-02
+M00363,15 Mar 2026,Monthly,45-54,Northfield,ACTIVE,,2026-06-18
+M00364,2025-09-18,Annual,25-34,Southside,cancelled,2026-02-15,2026-02-15
+M00365,13/05/2026,Monthly,45-54,Eastside,active,,2026-08-27
+M00366,2024-02-16,Annual,35-44,Westgate,cancelled,2024-05-21,2024-05-21
+M00367,2026-01-09,Annual,,Eastside,active,,2026-01-09
+M00368,18 Mar 2024,MONTHLY,16-24,University,cancelled,2026-03-04,2026-03-04
+M00369,11/05/2025,Annual,35-44,Northfield,ACTIVE,,2025-11-13
+M00370,02/09/2025,Annual,16-24,Westgate,Active,,2025-12-01
+M00371,2024-06-19,Monthly,35-44,Southside,cancelled,2026-08-31,2026-08-31
+M00372,2025-11-20,Annual,55-64,Eastside,Cancelled,2025-12-25,2025-12-25
+M00373,2024-10-19,Annual,35-44,Southside,Active,,2026-08-22
+M00374,19/04/2024,Monthly ,16-24,University,Active,,2025-06-22
+M00375,2025-02-24,Annual,35-44,Northfield,CANCELLED,,2026-01-20
+M00376,05/04/2026,Monthly ,55-64,Eastside,active,,2026-06-12
+M00378,1 Aug 2026,Monthly,16-24,Hillcrest,active,,2026-08-29
+M00379,2026-03-24,Monthly,35-44,Eastside,ACTIVE,,2026-07-14
+M00380,03/02/2024,Annual,45-54,Eastside,active,,2026-05-12
+M00381,14/06/2025,Annual,16-24,University,active,,2025-06-14
+M00383,2024-06-21,Annual,35-44,City Centre,Active,,2026-07-15
+M00384,2026-05-04,Monthly,,City Centre,Active,,2026-05-08
+M00385,2026-07-30,Monthly,25-34,Southside,ACTIVE,,2026-08-17
+M00386,2024-08-04,Annual ,35-44,Eastside,active,,2025-06-14
+M00387,2025-09-03,Monthly,25 - 34,Northfield,cancelled,2025-12-07,2025-12-07
+M00388,1 May 2024,Monthly,,Eastside,active,,2026-04-05
+M00389,22 Mar 2024,MONTHLY,16-24,Westgate,Cancelled,2026-05-26,2026-05-26
+M00390,07/06/2026,Monthly,35-44,Northfield,active,,2026-07-07
+M00391,4 Mar 2026,Annual,45-54,Westgate,ACTIVE,,2026-05-07
+M00392,2024-05-26,Monthly,65+,Eastside,Active,,2025-06-02
+M00393,2025-05-19,Monthly,55-64,Northfield,active,,2025-10-22
+M00394,2026-04-24,Annual,25-34,Hillcrest,ACTIVE,,2026-06-23
+M00395,12 Jul 2026,Monthly,35-44,Hillcrest,ACTIVE,,2026-08-20
+M00396,2024-07-13,Annual,45-54,Fernhill,Active,,2025-08-09
+M00397,2026-02-17,monthly,25-34,Westgate,cancelled,2026-04-18,2026-04-18
+M00398,2024-03-15,Monthly,35-44,Westgate,ACTIVE,,2026-02-08
+M00399,24 Jan 2024,Monthly,35-44,City Centre,active,,2024-02-02
+M00400,2025-11-16,Monthly,25-34,Northfield,active,,2026-03-10
+M00401,2025-01-26,Annual,25-34,Southside,active,,2026-03-22
+M00402,02/11/2024,Monthly,65+,Northfield,active,,2026-06-25
+M00403,2026-08-29,Monthly,25-34,Southside,Active,,2026-08-31
+M00404,27 Mar 2026,Annual,45-54,Waterside,active,,2026-07-23
+M00405,2024-02-08,Monthly,35-44,Southside,active,,2026-06-07
+M00406,27 Mar 2025,Annual,25-34,Eastside,Active,,2025-11-27
+M00407,2025-10-26,Monthly,16-24,University,CANCELLED,2026-02-14,2026-02-14
+M00408,2026-02-20,MONTHLY,16-24,University,active,,2026-08-15
+M00409,2024-07-28,Annual,16-24,University,ACTIVE,,2025-07-24
+M00410,2026-02-25,Annual,25-34,Fernhill,active,,2026-03-25
+M00411,20/01/2025,Monthly,25-34,Northfield,active,,2025-10-15
+M00412,24/01/2024,Monthly,55-64,Southside,Active,,2025-10-02
+M00413,2026-06-27,Monthly,16-24,University,cancelled,2026-08-15,2026-08-15
+M00414,2025-03-24,Annual,16-24,Fernhill,Cancelled,2025-12-29,2025-12-29
+M00415,2024-10-01,Annual,55-64,City Centre,CANCELLED,2025-04-30,2025-04-30
+M00416,2024-11-04,Monthly,25-34,Eastside,active,,2024-11-04
+M00416,2024-11-04,annual,25-34,Eastside,Active,,2024-12-26
+M00417,01/04/2026,Annual,16-24,University,Active,,2026-08-17
+M00418,20 Mar 2025,Annual,35-44,Westgate,active,,2026-01-26
+M00420,2025-02-21,Annual,45-54,City Centre,active,,2026-07-01
+M00421,14/07/2024,annual,45 - 54,Southside,cancelled,,2026-06-13
+M00422,2025-02-08,Monthly,16-24,Westgate,cancelled,2026-06-04,2026-06-04
+M00423,2025-05-06,monthly,45 - 54,Southside,cancelled,2026-03-09,2026-03-09
+M00424,18/04/2025,Annual,35-44,Northfield,Active,,2025-12-31
+M00425,2 Dec 2025,Monthly,25-34,Westgate,cancelled,2026-06-15,2026-06-15
+M00426,19/10/2025,MONTHLY,35-44,Northfield,Cancelled,2026-05-22,2026-05-22
+M00427,2026-08-04,Annual,65+,City Centre,active,,2026-08-17
+M00428,2026-06-04,Annual,35-44,Southside,Active,,2026-06-18
+M00429,2026-02-01,Annual,35-44,Westgate,active,,2026-03-06
+M00430,2026-05-21,Annual,45-54,Northfield,active,,2026-07-17
+M00431,27/04/2024,Annual,45-54,Southside,active,,2024-05-03
+M00433,2024-09-27,Monthly,55-64,Southside,ACTIVE,,2025-11-15
+M00434,20/07/2024,Monthly,16-24,University,CANCELLED,2026-03-14,2026-03-14
+M00435,2025-02-14,Monthly,45-54,Fernhill,cancelled,2026-02-14,2026-02-14
+M00436,11 Jan 2025,Annual,35-44,Northfield,active,,2026-01-14
+M00437,2024-04-02,Annual,55-64,Eastside,active,,2025-12-10
+M00438,2026-03-11,Monthly,,Southside,cancelled,,2026-07-07
+M00439,2026-07-20,Annual,45-54,Fernhill,active,,2026-07-27
+M00440,2025-11-01,Annual,16-24,Hillcrest,cancelled,2026-06-24,2026-06-24
+M00441,2024-11-30,Annual,55-64,Westgate,cancelled,2025-11-16,2025-11-16
+M00442,2024-08-22,Monthly,16-24,Hillcrest,cancelled,2026-07-16,2026-07-16
+M00443,2025-03-29,Monthly,45-54,Fernhill,active,,2026-04-27
+M00444,2025-08-27,Monthly ,45-54,Eastside,cancelled,2026-01-22,2026-01-22
+M00445,05/02/2026,Monthly,16-24,Westgate,active,,2026-02-09
+M00446,2026-04-30,Monthly,35-44,City Centre,ACTIVE,,2026-08-10
+M00447,2026-05-12,annual,25-34,Northfield,active,,2026-07-23
+M00448,2024-02-13,annual,45 - 54,Hillcrest,Cancelled,2026-07-10,2026-07-10
+M00450,27 Nov 2025,Monthly,25-34,Waterside,active,,2026-02-25
+M00451,10/03/2026,Monthly,25-34,Fernhill,active,,2026-05-31
+M00452,2026-01-16,Annual,25-34,Southside,active,,2026-07-22
+M00453,2025-01-19,Monthly,25-34,City Centre,active,,2025-08-27
+M00454,2025-04-12,Monthly,16-24,University,cancelled,2025-07-31,2025-07-31
+M00455,2026-06-03,Monthly,35 - 44,Eastside,Active,,2026-07-15
+M00456,2025-05-15,Monthly,16-24,Northfield,active,,2025-05-15
+M00456,2025-05-15,Annual,16-24,Northfield,Active,,2026-06-30
+M00457,2024-10-31,Monthly,45-54,Southside,Active,,2025-10-28
+M00458,28/08/2024,Annual,25-34,Fernhill,active,,2025-12-31
+M00459,12/09/2025,monthly,25-34,Southside,cancelled,,2026-02-02
+M00460,2024-08-02,Monthly,55-64,City Centre,cancelled,2025-12-22,2025-12-22
+M00461,2024-10-13,Annual,35-44,Southside,cancelled,2025-07-27,2025-07-27
+M00463,2026-07-17,Monthly,25-34,Westgate,Active,,2026-07-19
+M00464,2026-07-11,Annual,25-34,Southside,ACTIVE,,2026-08-12
+M00465,2026-08-03,Monthly,45-54,Eastside,active,,2026-08-19
+M00466,2025-09-28,Annual ,35-44,Northfield,cancelled,2026-03-10,2026-03-10
+M00467,2026-02-26,Monthly ,,Southside,active,,2026-04-29
+M00468,18/03/2024,Annual,35-44,Waterside,active,,2024-06-04
+M00469,27/05/2026,Monthly,25-34,Hillcrest,ACTIVE,,2026-08-25
+M00470,2025-04-21,MONTHLY,16-24,Northfield,active,,2025-09-14
+M00471,26 Jul 2025,Monthly ,35-44,Eastside,Cancelled,2026-04-13,2026-04-13
+M00472,2026-03-13,Monthly,25-34,Southside,active,,2026-08-29
+M00473,03/08/2025,Monthly,25-34,Northfield,ACTIVE,,2026-02-14
+M00474,2025-09-22,Monthly,,Northfield,active,,2026-06-16
+M00475,07/12/2025,Annual,55-64,Westgate,active,,2026-08-21
+M00476,01/04/2024,Monthly,25-34,Eastside,cancelled,2025-08-28,2025-08-28
+M00477,03/08/2025,MONTHLY,55-64,City Centre,active,,2026-05-26
+M00478,2024-04-30,Monthly,35-44,Northfield,active,,2025-02-02
+M00479,04/10/2024,Monthly,16-24,University,active,,2025-09-28
+M00480,2025-11-21,MONTHLY,16-24,Westgate,cancelled,2026-07-31,2026-07-31
+M00482,03/08/2026,Annual,25-34,Eastside,Active,,2026-08-21
+M00483,2025-12-11,Monthly,45-54,Northfield,active,,2026-01-31
+M00484,2025-02-24,Annual,35-44,Southside,active,,2025-03-13
+M00487,3 Feb 2026,Monthly,45-54,City Centre,Cancelled,2026-03-07,2026-03-07
+M00488,29/06/2024,Annual,45 - 54,Hillcrest,active,,2024-12-19
+M00489,2025-03-13,Monthly,45-54,Eastside,cancelled,2025-09-10,2025-09-10
+M00490,01/06/2026,Monthly,55-64,Waterside,active,,2026-08-21
+M00491,26/02/2024,Monthly ,,Southside,cancelled,2026-05-22,2026-05-22
+M00492,2024-01-18,ANNUAL,35-44,Southside,active,,2025-12-13
+M00493,2024-02-10,Monthly,25-34,City Centre,active,,2025-05-04
+M00494,2025-12-18,Annual,65+,Eastside,ACTIVE,,2026-02-20
+M00495,2026-03-20,Monthly,,Westgate,active,,2026-07-28
+M00496,2 Aug 2026,Monthly,35-44,Southside,active,,2026-08-28
+M00497,2024-11-07,Monthly,45-54,Fernhill,cancelled,2025-06-15,2025-06-15
+M00498,2026-05-10,Annual,25-34,Northfield,ACTIVE,,2026-07-08
+M00499,05/05/2024,Monthly,45-54,City Centre,active,,2025-03-15
+M00500,21/11/2025,monthly,,University,active,,2026-02-04
+M00501,04/08/2026,Monthly ,45-54,Southside,active,,2026-08-06
+M00502,27 Apr 2026,MONTHLY,65+,Northfield,active,,2026-07-29
+M00503,2025-05-07,Monthly,55-64,Westgate,Active,,2025-07-08
+M00504,11/10/2025,Monthly,25-34,Westgate,cancelled,2026-08-29,2026-08-29
+M00505,9 May 2025,Annual,45-54,City Centre,active,,2025-09-20
+M00506,2024-09-22,Monthly,16-24,Westgate,Active,,2025-05-27
+M00507,15 Sep 2024,Monthly,16-24,University,ACTIVE,,2025-06-22
+M00508,2025-02-12,annual,45-54,City Centre,cancelled,2026-07-28,2026-07-28
+M00509,09/07/2026,Monthly,25-34,Westgate,active,,2026-08-17
+M00510,26/08/2026,ANNUAL,25-34,Northfield,active,,2026-08-29
+M00511,2025-01-28,Annual,55-64,Northfield,ACTIVE,,2026-01-07
+M00512,2024-02-15,monthly,16-24,Westgate,active,,2024-12-07
+M00513,15/09/2025,Monthly,35-44,Eastside,Cancelled,2026-04-21,2026-04-21
+M00514,1 Aug 2025,Annual,45-54,Northfield,active,,2026-03-31
+M00515,29/06/2025,Annual,45-54,Northfield,cancelled,2026-03-19,2026-03-19
+M00516,24/03/2026,Monthly ,35-44,City Centre,Cancelled,2026-08-04,2026-08-04
+M00517,2026-04-07,Annual,25-34,Westgate,active,,2026-05-31
+M00518,10 Sep 2024,Monthly,25-34,Hillcrest,Active,,2025-02-22
+M00519,2025-10-13,Monthly,16-24,Westgate,active,,2025-11-30
+M00520,17 May 2026,Monthly,35 - 44,City Centre,active,,2026-05-22
+M00521,2024-02-06,Annual,45-54,Fernhill,Active,,2025-11-10
+M00522,04/05/2026,Monthly,25-34,Eastside,active,,2026-06-13
+M00523,2024-04-20,Monthly,45 - 54,Northfield,active,,2026-04-10
+M00524,2024-08-01,Monthly,16-24,Northfield,active,,2024-10-22
+M00525,25/05/2025,Monthly,25-34,Fernhill,Active,,2025-09-23
+M00526,2026-06-01,Monthly,65+,Southside,active,,2026-08-02
+M00527,2026-06-15,Monthly,16-24,City Centre,active,,2026-07-14
+M00528,2026-05-29,Monthly,16-24,University,active,,2026-08-01
+M00529,11 Nov 2024,Annual,35-44,Northfield,active,,2026-07-01
+M00530,02/08/2026,Annual,35-44,Eastside,active,,2026-08-07
+M00531,11 Dec 2024,Monthly ,16-24,Westgate,Cancelled,2025-06-09,2025-06-09
+M00532,2024-12-07,Monthly,35-44,City Centre,active,,2026-06-04
+M00533,21/04/2025,Annual,45-54,Northfield,ACTIVE,,2026-07-05
+M00534,2024-11-30,Annual,25-34,Hillcrest,active,,2026-08-11
+M00535,2024-09-01,Annual,45-54,Westgate,active,,2026-07-28
+M00536,30/08/2026,Monthly ,16-24,Eastside,active,,2026-08-30
+M00537,17/04/2024,Monthly,25-34,Eastside,Active,,2026-03-15
+M00538,7 May 2026,Monthly,65+,Eastside,active,,2026-07-08
+M00539,2025-03-18,Monthly,35-44,Westgate,active,,2025-09-19
+M00540,2026-08-15,Annual,25-34,Westgate,active,,2026-08-25
+M00541,2025-09-29,Annual,25-34,Eastside,active,,2026-06-01
+M00542,2024-04-30,Monthly,16-24,Westgate,cancelled,2026-04-14,2026-04-14
+M00543,2025-11-29,Annual,55-64,Eastside,active,,2025-12-16
+M00544,2024-04-19,Monthly,16-24,Westgate,cancelled,2025-09-03,2025-09-03
+M00545,27/04/2026,Monthly,35-44,Northfield,active,,2026-07-12
+M00546,22/03/2025,Annual,35-44,Northfield,Active,,2025-07-31
+M00547,17 Jan 2024,Annual,55-64,Eastside,active,,2025-11-02
+M00548,2026-03-04,Annual,45-54,City Centre,active,,2026-04-11
+M00550,2025-10-31,Monthly,55-64,Hillcrest,cancelled,2026-07-12,2026-07-12
+M00551,1 Aug 2024,Monthly,55-64,Westgate,cancelled,2026-05-14,2026-05-14
+M00552,11/04/2026,Monthly,25-34,Southside,active,,2026-05-08
+M00553,15/04/2026,Monthly ,45-54,Northfield,Active,,2026-05-13
+M00554,2024-10-03,Monthly,35-44,Westgate,Active,,2024-11-14
+M00555,2025-04-27,Monthly,16 - 24,Hillcrest,cancelled,2026-04-26,2026-04-26
+M00556,2024-02-25,Monthly,,Northfield,cancelled,2026-07-06,2026-07-06
+M00557,28 Nov 2024,Monthly,,University,cancelled,2026-07-28,2026-07-28
+M00558,02/06/2026,Annual ,45 - 54,Eastside,active,,2026-08-17
+M00559,23 May 2026,Monthly ,35-44,Northfield,Active,,2026-06-25
+M00560,2024-03-22,monthly,16-24,Westgate,cancelled,2026-07-01,2026-07-01
+M00561,23/08/2024,Annual ,35-44,Southside,active,,2024-09-18
+M00562,2026-06-26,monthly,35-44,Eastside,ACTIVE,,2026-07-17
+M00563,18/07/2026,Monthly,25-34,Hillcrest,ACTIVE,,2026-07-25
+M00564,2024-02-24,ANNUAL,16-24,Westgate,active,,2026-08-17
+M00565,2024-01-30,ANNUAL,25-34,Northfield,Cancelled,2024-10-15,2024-10-15
+M00566,2026-06-21,Annual,65+,Waterside,Active,,2026-08-31
+M00567,17 Apr 2025,Monthly,35-44,City Centre,active,,2025-05-10
+M00568,2025-09-30,Monthly,25-34,Southside,CANCELLED,2026-04-13,2026-04-13
+M00569,03/04/2025,annual,45-54,Westgate,active,,2025-06-08
+M00570,2025-09-28,Annual,45-54,Northfield,active,,2026-05-14
+M00571,2024-04-13,Monthly,16-24,Westgate,cancelled,2026-03-18,2026-03-18
+M00572,8 Feb 2026,Monthly,55-64,Westgate,active,,2026-04-01
+M00573,6 May 2024,ANNUAL,25-34,Northfield,active,,2025-05-12
+M00574,23/06/2026,Annual,16-24,University,active,,2026-08-02
+M00575,15 Aug 2026,Monthly,25-34,Eastside,active,,2026-08-17
+M00576,2024-06-05,Monthly,16-24,Southside,active,,2024-11-29
+M00577,2025-02-28,Monthly,35-44,Hillcrest,active,,2026-06-15
+M00578,16/03/2026,Monthly,16-24,Hillcrest,ACTIVE,,2026-06-25
+M00579,2026-05-26,Annual,65+,City Centre,active,,2026-06-04
+M00580,2025-04-05,Monthly,35-44,Eastside,Cancelled,,2026-06-25
+M00581,17/07/2024,Annual,25-34,Northfield,Active,,2026-07-06
+M00582,2024-08-02,Monthly,35-44,Northfield,active,,2026-02-11
+M00583,3 Jan 2024,Annual ,35-44,Waterside,active,,2024-10-12
+M00584,10/08/2024,Annual ,,Waterside,cancelled,2024-10-05,2024-10-05
+M00585,2025-03-20,monthly,35-44,Eastside,active,,2025-08-09
+M00586,01/03/2026,Annual,,Hillcrest,active,,2026-07-20
+M00587,2026-07-16,Monthly,35-44,Southside,active,,2026-08-01
+M00588,12/05/2026,Monthly,16-24,Northfield,Active,,2026-07-05
+M00589,30/11/2025,Annual,55 - 64,Hillcrest,cancelled,2026-02-23,2026-02-23
+M00590,17/01/2026,Annual,16-24,Northfield,active,,2026-04-21
+M00591,19/08/2026,MONTHLY,35-44,Southside,active,,2026-08-25
+M00592,2026-04-16,Monthly,,Westgate,cancelled,2026-07-03,2026-07-03
+M00593,03/07/2024,Monthly,55-64,Hillcrest,active,,2024-12-20
+M00594,15 Apr 2025,monthly,16-24,Eastside,cancelled,2026-01-19,2026-01-19
+M00595,2026-04-14,annual,25-34,Eastside,active,,2026-06-17
+M00596,2025-12-14,Monthly,35-44,Eastside,cancelled,2026-07-12,2026-07-12
+M00597,9 Dec 2024,Annual ,35-44,Southside,cancelled,2025-03-24,2025-03-24
+M00598,15/04/2024,Monthly,55-64,Southside,active,,2026-07-02
+M00599,2024-10-12,Annual ,16-24,Hillcrest,cancelled,,2025-12-09
+M00600,2025-11-21,Monthly,25-34,University,cancelled,2026-02-17,2026-02-17
+M00601,2025-09-19,Monthly,45-54,Southside,CANCELLED,2025-10-26,2025-10-26
+M00602,18/12/2024,Monthly,25-34,Eastside,ACTIVE,,2025-11-07
+M00603,2024-04-22,Monthly ,35-44,City Centre,CANCELLED,2026-06-26,2026-06-26
+M00604,2024-08-23,Annual ,25-34,Northfield,ACTIVE,,2025-10-24
+M00605,03/06/2024,Monthly,35-44,Westgate,CANCELLED,2025-03-17,2025-03-17
+M00606,1 Sep 2025,Monthly,45-54,Westgate,cancelled,2025-11-08,2025-11-08
+M00607,2026-03-27,Monthly,45-54,Northfield,active,,2026-08-18
+M00608,2026-07-04,Annual ,45-54,Fernhill,active,,2026-07-29
+M00609,02/06/2026,Monthly,25-34,Hillcrest,active,,2026-07-31
+M00610,27/09/2024,Annual ,55 - 64,Northfield,active,,2024-11-29
+M00611,2025-04-03,Monthly,55-64,Southside,active,,2025-06-08
+M00612,2025-12-15,Annual,45-54,Northfield,Active,,2026-03-27
+M00613,2024-04-03,STAFF,25-34,City Centre,active,,2026-08-21
+M00614,02/07/2026,Monthly,16-24,Westgate,Active,,2026-07-12
+M00615,2024-04-09,MONTHLY,55-64,Eastside,active,,2025-07-11
+M00616,8 Aug 2026,annual,65+,Westgate,active,,2026-08-10
+M00618,09/08/2026,Monthly,16-24,Hillcrest,active,,2026-08-26
+M00619,2026-06-23,Monthly,45-54,Hillcrest,active,,2026-08-11
+M00620,2024-03-08,monthly,25-34,Northfield,CANCELLED,2026-07-21,2026-07-21
+M00621,2026-08-12,Monthly,55-64,Northfield,active,,2026-08-14
+M00622,2025-08-10,Annual,16-24,Eastside,ACTIVE,,2026-08-10
+M00623,4 Aug 2025,Monthly,,Northfield,cancelled,2025-12-14,2025-12-14
+M00624,2024-04-16,monthly,16-24,University,active,,2024-12-21
+M00625,2025-09-18,MONTHLY,35-44,Southside,active,,2026-07-30
+M00626,14 Apr 2026,Monthly,45-54,Hillcrest,active,,2026-07-07
+M00627,2025-04-15,Monthly ,65+,Hillcrest,cancelled,2026-04-10,2026-04-10
+M00628,2024-01-24,Annual,45-54,Southside,active,,2026-02-07
+M00629,09/07/2026,MONTHLY,55-64,Northfield,ACTIVE,,2026-07-22
+M00630,2026-06-25,Annual,55-64,Fernhill,active,,2026-08-09
+M00631,2026-07-14,Annual,55-64,Southside,active,,2026-08-14
+M00632,21 Jul 2026,Annual,55-64,Eastside,active,,2026-07-30
+M00633,2026-08-09,Annual,16-24,City Centre,active,,2026-08-15
+M00634,2026-06-27,annual,65+,Northfield,ACTIVE,,2026-07-07
+M00635,2024-12-15,Annual,55-64,Northfield,cancelled,2026-03-11,2026-03-11
+M00636,21/12/2025,Annual,,Northfield,active,,2026-03-01
+M00637,24/11/2024,Annual,35-44,Southside,active,,2026-07-21
+M00638,15/02/2025,Monthly,25-34,Westgate,active,,2025-03-19
+M00639,2024-06-25,monthly,45-54,Southside,cancelled,2026-08-10,2026-08-10
+M00640,29 Dec 2025,ANNUAL,55-64,City Centre,active,,2026-01-01
+M00641,29 Nov 2024,Monthly,55-64,Southside,active,,2025-07-17
+M00642,2024-08-24,Monthly,35-44,Southside,active,,2026-06-17
+M00643,19/06/2026,Monthly,16-24,University,Active,,2026-08-12
+M00644,2026-04-01,Annual,55-64,Northfield,active,,2026-07-05
+M00645,24 Mar 2025,Monthly,16-24,Hillcrest,Cancelled,2026-08-03,2026-08-03
+M00647,2024-07-26,monthly,35-44,Westgate,cancelled,2025-12-13,2025-12-13
+M00648,03/03/2025,Monthly,25-34,Eastside,ACTIVE,,2025-10-05
+M00649,2024-11-26,Annual,55-64,Southside,Active,,2026-08-23
+M00650,22/12/2025,Annual,65+,Northfield,cancelled,2026-02-05,2026-02-05
+M00651,29 Apr 2024,Monthly,45-54,Fernhill,active,,2024-07-21
+M00652,2026-06-29,Monthly ,25-34,Northfield,active,,2026-07-06
+M00653,2025-09-21,Monthly,35-44,Southside,active,,2026-06-10
+M00654,24/08/2024,Annual,45-54,Southside,cancelled,2024-12-13,2024-12-13
+M00655,2025-06-02,Monthly,16-24,University,cancelled,2025-11-16,2025-11-16
+M00656,25/04/2026,Annual,,Southside,active,,2026-05-24
+M00657,16 Oct 2024,Monthly,45 - 54,City Centre,Cancelled,2026-03-21,2026-03-21
+M00658,3 May 2026,Annual,45-54,Northfield,active,,2026-05-11
+M00659,2026-08-15,Annual,55-64,Westgate,active,,2026-08-21
+M00660,2026-04-18,Monthly,35-44,Westgate,active,,2026-05-14
+M00661,13/05/2026,Monthly ,45-54,Northfield,active,,2026-05-24
+M00662,30 Dec 2024,ANNUAL,55-64,Westgate,active,,2025-05-14
+M00663,2026-07-05,Monthly,25-34,Eastside,active,,2026-07-23
+M00664,2024-10-29,monthly,35-44,Hillcrest,cancelled,2025-06-29,2025-06-29
+M00665,02/06/2026,Monthly,35-44,Westgate,active,,2026-08-24
+M00666,2024-06-02,Monthly,55-64,Westgate,CANCELLED,2024-11-18,2024-11-18
+M00667,2026-05-15,Annual,55-64,Northfield,ACTIVE,,2026-06-30
+M00668,2026-08-18,Annual,45-54,Northfield,ACTIVE,,2026-08-27
+M00669,9 May 2024,Monthly,16-24,University,active,,2025-01-24
+M00670,21 Aug 2026,Monthly,16-24,University,ACTIVE,,2026-08-30
+M00671,02/10/2025,Monthly,16-24,University,cancelled,2025-12-02,2025-12-02
+M00672,1 Aug 2026,Monthly,55-64,Northfield,ACTIVE,,2026-08-12
+M00673,31 Aug 2026,monthly,25-34,Northfield,ACTIVE,,2026-08-31
+M00674,12/08/2026,Monthly,25-34,Northfield,active,,2026-08-12
+M00675,29/05/2026,Monthly,16-24,Westgate,cancelled,2026-07-21,2026-07-21
+M00676,4 Apr 2025,annual,16-24,Southside,active,,2026-01-18
+M00677,2025-08-04,Monthly,25-34,Northfield,active,,2026-05-17
+M00678,2025-04-03,Monthly,25-34,Eastside,active,,2025-08-15
+M00679,16/04/2025,Monthly,16-24,Hillcrest,Active,,2025-05-24
+M00680,2025-08-16,Monthly,45-54,Northfield,cancelled,2026-07-14,2026-07-14
+M00681,3 Jun 2026,Annual,35-44,Northfield,active,,2026-08-31
+M00682,2024-12-13,Monthly,35-44,Westgate,active,,2026-04-19
+M00683,2024-07-24,Monthly,35-44,Northfield,ACTIVE,,2026-04-27
+M00685,2026-06-19,Monthly,16-24,Westgate,Active,,2026-08-06
+M00686,11/10/2025,Annual,25-34,Waterside,active,,2026-05-30
+M00687,15/05/2026,Annual,25-34,Northfield,active,,2026-07-07
+M00688,2024-11-01,Monthly,45-54,Southside,active,,2024-11-01
+M00688,2024-11-01,Annual ,45-54,Southside,cancelled,2026-07-25,2026-07-25
+M00689,2025-01-16,Annual,25-34,Southside,active,,2026-06-24
+M00690,2024-01-08,Monthly,25-34,Eastside,cancelled,2025-07-24,2025-07-24
+M00691,2024-07-22,Monthly ,25-34,Eastside,active,,2025-12-16
+M00692,25/03/2026,monthly,16-24,University,active,,2026-04-25
+M00693,2026-06-06,Annual,35 - 44,Waterside,active,,2026-07-04
+M00694,2026-07-02,Annual ,55-64,Eastside,active,,2026-07-19
+M00695,23/06/2026,Annual,,Southside,ACTIVE,,2026-06-25
+M00696,2026-04-22,Annual,25-34,Eastside,active,,2026-06-22
+M00697,21 Sep 2025,Annual,35-44,City Centre,active,,2026-08-15
+M00698,12/07/2025,Monthly,,University,Active,,2026-05-16
+M00699,2025-05-22,MONTHLY,55-64,Southside,active,,2026-08-10
+M00700,2024-09-21,Annual,25-34,Westgate,active,,2025-01-27
+M00701,17 Nov 2024,annual,25-34,Fernhill,cancelled,2026-05-21,2026-05-21
+M00702,2025-05-14,Annual,45-54,Hillcrest,cancelled,2025-10-28,2025-10-28
+M00703,31/03/2026,Annual,25-34,Fernhill,active,,2026-05-21
+M00704,2026-05-06,monthly,65+,Northfield,active,,2026-06-13
+M00705,5 Mar 2026,Monthly,55-64,Northfield,Active,,2026-05-10
+M00706,17 Sep 2024,Annual,25-34,Southside,Active,,2025-12-21
+M00707,27 Jul 2026,Annual,35-44,Eastside,active,,2026-08-14
+M00708,23/12/2024,Annual,35-44,Northfield,active,,2026-08-14
+M00710,29/07/2024,Monthly ,45-54,City Centre,active,,2025-10-25
+M00711,2024-05-16,Annual,55-64,Eastside,active,,2025-08-28
+M00712,10 Nov 2025,monthly,45-54,Northfield,active,,2026-08-27
+M00713,2026-08-25,annual,25-34,Eastside,active,,2026-08-27
+M00714,2026-01-18,Monthly,35-44,Westgate,cancelled,2026-05-22,2026-05-22
+M00715,2024-04-04,monthly,45-54,City Centre,active,,2024-10-20
+M00716,23/08/2025,Monthly,45 - 54,Northfield,ACTIVE,,2026-03-21
+M00717,24 Jun 2026,Annual,25-34,Fernhill,active,,2026-07-17
+M00718,2025-05-13,Monthly,25-34,Westgate,active,,2025-05-13
+M00718,2025-05-13,Annual,25-34,Westgate,Active,,2026-02-01
+M00719,5 Feb 2024,Annual,55-64,Southside,active,,2025-09-30
+M00720,22 May 2025,Annual ,16-24,University,cancelled,2025-11-14,2025-11-14
+M00721,2025-01-07,Monthly,45-54,City Centre,Active,,2026-07-04
+M00722,17 Sep 2024,Annual,35-44,Northfield,cancelled,2025-11-06,2025-11-06
+M00723,2025-11-16,Annual,25-34,Northfield,active,,2026-01-02
+M00724,16 Aug 2025,Monthly,25-34,Northfield,active,,2025-12-09
+M00725,16/03/2024,Monthly,16-24,University,active,,2026-03-20
+M00726,2026-01-08,Monthly,16-24,Westgate,cancelled,2026-07-17,2026-07-17
+M00727,2026-03-16,Monthly,45-54,Southside,active,,2026-05-27
+M00728,16 Jun 2024,Annual ,25-34,Northfield,Active,,2024-07-27
+M00729,1 Mar 2025,Annual,16-24,Southside,active,,2025-04-04
+M00730,05/04/2026,Annual ,25-34,Southside,active,,2026-04-12
+M00731,20 Nov 2024,Annual,45-54,Eastside,cancelled,2025-10-10,2025-10-10
+M00732,25 Feb 2025,Monthly,35-44,City Centre,active,,2025-08-23
+M00733,22 Jun 2026,Monthly,45-54,Northfield,ACTIVE,,2026-08-19
+M00734,2026-03-25,Monthly,45-54,City Centre,Active,,2026-05-27
+M00735,2025-08-29,Monthly,,Fernhill,active,,2026-05-05
+M00736,26/03/2024,Monthly,25-34,Northfield,CANCELLED,2026-07-06,2026-07-06
+M00737,25/03/2025,monthly,16-24,Southside,Active,,2026-08-14
+M00739,13 Oct 2025,MONTHLY,25-34,Southside,Active,,2026-03-05
+M00740,11 Sep 2025,Annual,55 - 64,Northfield,active,,2026-07-31
+M00741,2024-05-20,Monthly,35-44,Eastside,active,,2026-05-22
+M00742,2024-12-11,Monthly,55-64,City Centre,active,,2026-01-23
+M00743,2024-07-22,Annual,25 - 34,Southside,active,,2026-02-02
+M00744,25 May 2026,Monthly,25-34,Northfield,active,,2026-06-10
+M00745,1 Jun 2026,Annual,45-54,Eastside,active,,2026-08-18
+M00746,2026-08-18,Monthly,16-24,University,ACTIVE,,2026-08-31
+M00747,11 Apr 2025,Staff,25-34,Northfield,ACTIVE,,2025-10-04
+M00748,17/07/2026,MONTHLY,25-34,Waterside,active,,2026-07-23
+M00749,2024-04-14,Monthly,25-34,Fernhill,active,,2025-11-20
+M00750,11 Apr 2024,Monthly,45-54,Fernhill,active,,2024-04-11
+M00750,11 Apr 2024,Annual,45-54,Fernhill,active,,2026-07-22
+M00751,24/03/2024,Annual,45-54,Eastside,active,,2025-12-24
+M00752,2026-05-03,annual,35-44,Northfield,active,,2026-07-22
+M00753,28 Jul 2026,Monthly ,16-24,University,active,,2026-08-24
+M00754,2024-08-15,Monthly,25-34,Westgate,Active,,2025-03-21
+M00755,21/08/2024,Monthly,16-24,University,active,,2025-02-10
+M00756,26 Sep 2025,Annual,45-54,Westgate,active,,2026-06-19
+M00757,13/02/2024,Annual,45-54,Westgate,active,,2025-02-07
+M00758,20 Aug 2026,Annual,,Fernhill,active,,2026-08-26
+M00759,29/03/2025,Monthly,25-34,Westgate,active,,2025-07-25
+M00760,23 Apr 2026,Annual,45-54,Northfield,active,,2026-06-28
+M00761,2026-03-04,Monthly,25-34,Southside,active,,2026-04-25
+M00762,27 Feb 2025,Monthly,55-64,Hillcrest,ACTIVE,,2025-07-15
+M00763,5 Sep 2025,Monthly,25-34,Westgate,cancelled,2026-07-02,2026-07-02
+M00765,2025-08-10,Monthly,35-44,Westgate,cancelled,2025-10-18,2025-10-18
+M00766,2025-08-21,annual,35-44,Westgate,ACTIVE,,2025-11-14
+M00767,20/11/2024,ANNUAL,35-44,Northfield,Cancelled,2026-04-16,2026-04-16
+M00768,2025-08-27,Monthly,45-54,Northfield,active,,2025-09-07
+M00769,2026-01-23,Annual,45-54,Southside,active,,2026-01-25
+M00770,2024-07-24,Monthly,16-24,University,active,,2025-07-31
+M00771,2025-03-09,Annual,25-34,Eastside,active,,2025-09-06
+M00772,2026-01-08,Annual,35-44,Northfield,cancelled,2026-03-25,2026-03-25
+M00773,14 Jun 2025,Annual,,Northfield,active,,2026-05-25
+M00774,2 Sep 2024,Monthly,55-64,Westgate,active,,2025-05-04
+M00775,2024-04-16,Monthly,35-44,City Centre,active,,2026-06-23
+M00776,2024-08-13,Monthly,35-44,Southside,ACTIVE,,2025-07-01
+M00777,2026-05-23,Monthly ,25-34,Eastside,active,,2026-07-26
+M00778,2026-07-29,Annual,25-34,Fernhill,active,,2026-08-09
+M00779,2024-03-06,Monthly,45-54,Eastside,Active,,2026-01-24
+M00780,2024-01-30,Annual,25-34,Eastside,active,,2024-05-31
+M00781,2024-08-31,Annual,55-64,Eastside,ACTIVE,,2025-03-10
+M00782,05/05/2024,Annual,35-44,Fernhill,active,,2024-11-10
+M00783,2024-10-24,monthly,45-54,Hillcrest,active,,2026-06-08
+M00784,19/02/2025,Monthly,65+,Eastside,active,,2025-12-07
+M00785,16/04/2026,Monthly,65+,Northfield,active,,2026-08-21
+M00786,2025-09-02,Monthly,25-34,Northfield,ACTIVE,,2025-12-03
+M00787,2024-04-29,Annual,25-34,City Centre,active,,2024-12-10
+M00788,2024-08-27,Annual,35-44,Southside,active,,2025-11-07
+M00789,14/04/2026,Annual ,25-34,Northfield,ACTIVE,,2026-07-06
+M00790,2025-05-13,Staff,45-54,Eastside,active,,2026-01-13
+M00791,09/05/2024,monthly,55-64,Eastside,CANCELLED,2025-12-11,2025-12-11
+M00792,21 Jul 2026,Annual,25-34,Eastside,active,,2026-07-27
+M00793,17/08/2026,Annual,35 - 44,Westgate,ACTIVE,,2026-08-20
+M00795,2025-04-25,Monthly ,16-24,University,cancelled,2025-11-03,2025-11-03
+M00796,2026-07-30,Monthly,35-44,Southside,active,,2026-08-25
+M00797,08/01/2024,Monthly,55-64,Hillcrest,cancelled,2026-06-10,2026-06-10
+M00798,23/02/2024,MONTHLY,65+,Southside,ACTIVE,,2026-06-20
+M00799,2024-10-29,Monthly,25-34,Northfield,Active,,2026-06-07
+M00800,2025-04-05,Monthly,35-44,Northfield,active,,2025-04-20
+M00801,31/03/2026,MONTHLY,45-54,City Centre,active,,2026-05-06
+M00802,2024-03-23,annual,16-24,Southside,active,,2026-02-12
+M00803,2026-04-20,Annual,25 - 34,Eastside,Active,,2026-07-25
+M00804,2024-09-20,Monthly,35 - 44,Eastside,cancelled,2026-05-21,2026-05-21
+M00805,22 May 2024,Annual,35-44,Eastside,Active,,2024-07-03
+M00806,14/05/2026,Monthly,16-24,City Centre,active,,2026-05-30
+M00807,2024-01-18,Annual,25-34,Northfield,active,,2024-12-11
+M00808,2025-08-03,monthly,16-24,Northfield,cancelled,2025-10-03,2025-10-03
+M00809,2026-03-13,Monthly,35-44,City Centre,active,,2026-03-31
+M00810,11/06/2024,MONTHLY,35-44,Waterside,ACTIVE,,2025-03-07
+M00811,20/08/2025,Monthly,35-44,Northfield,cancelled,2026-01-28,2026-01-28
+M00812,17 Jun 2024,Monthly,35-44,Northfield,CANCELLED,2024-08-28,2024-08-28
+M00813,22/12/2025,Annual,45-54,Fernhill,active,,2026-02-08
+M00814,2025-08-23,Annual,65+,Westgate,cancelled,2026-01-10,2026-01-10
+M00815,2024-09-01,Annual ,45-54,Eastside,ACTIVE,,2024-10-06
+M00816,2026-01-09,Annual,25-34,Southside,active,,2026-05-19
+M00817,04/08/2026,Annual,65+,Southside,Active,,2026-08-09
+M00818,29/01/2026,Annual,16-24,Waterside,active,,2026-07-26
+M00819,2026-01-18,MONTHLY,55-64,Eastside,active,,2026-07-18
+M00820,2025-03-24,MONTHLY,45-54,Northfield,cancelled,2025-06-13,2025-06-13
+M00821,2024-08-03,Monthly,45-54,Northfield,active,,2026-05-27
+M00822,14/07/2025,Annual,16-24,Fernhill,ACTIVE,,2026-04-30
+M00823,21/03/2025,Monthly,16-24,Southside,cancelled,2026-03-26,2026-03-26
+M00824,15 May 2024,Monthly,55-64,Westgate,cancelled,2025-08-22,2025-08-22
+M00825,2025-04-27,monthly,16-24,University,active,,2026-01-16
+M00826,28/02/2024,Monthly,45-54,Westgate,active,,2024-06-18
+M00827,2025-06-06,Monthly,16-24,Westgate,cancelled,2026-06-30,2026-06-30
+M00828,26/03/2024,Monthly ,16-24,University,cancelled,2026-06-21,2026-06-21
+M00829,27/12/2025,Monthly,35-44,Northfield,CANCELLED,2026-06-17,2026-06-17
+M00830,14 Mar 2024,Monthly,16-24,Northfield,active,,2024-07-15
+M00831,2025-08-26,Monthly,25-34,Westgate,active,,2025-12-06
+M00832,14/04/2026,Annual,25-34,Hillcrest,active,,2026-08-09
+M00833,2025-03-25,MONTHLY,45-54,Westgate,active,,2025-03-27
+M00834,2025-05-03,Annual,16-24,Hillcrest,active,,2025-11-07
+M00835,2024-09-17,Monthly ,55-64,Westgate,Active,,2024-12-17
+M00836,21/05/2024,Monthly,,Eastside,active,,2025-04-15
+M00837,2026-03-11,Monthly,35-44,Eastside,ACTIVE,,2026-06-26
+M00838,2026-04-19,ANNUAL,35-44,Eastside,active,,2026-07-12
+M00840,20/08/2026,Annual,55-64,Northfield,ACTIVE,,2026-08-25
+M00841,12/01/2024,annual,35-44,Northfield,active,,2025-01-17
+M00842,16 Sep 2024,Annual,45-54,Northfield,active,,2025-06-02
+M00843,08/05/2025,Annual,,City Centre,cancelled,2025-12-17,2025-12-17
+M00844,29 Aug 2024,Annual,55-64,Westgate,CANCELLED,2025-12-31,2025-12-31
+M00845,10 Jul 2026,Monthly,35-44,Northfield,Active,,2026-07-21
+M00846,2024-08-14,Monthly,25-34,Southside,active,,2025-11-03
+M00847,25/03/2026,Annual,16-24,City Centre,active,,2026-08-03
+M00848,4 Jan 2024,Monthly,35-44,Southside,ACTIVE,,2024-12-05
+M00849,09/04/2025,Annual,55-64,Southside,active,,2026-01-17
+M00850,2026-08-09,monthly,35-44,Eastside,active,,2026-08-20
+M00851,5 Mar 2026,Monthly,,Eastside,Cancelled,2026-05-03,2026-05-03
+M00852,2025-01-14,Monthly,25-34,Northfield,Cancelled,2026-07-06,2026-07-06
+M00853,14/04/2026,Monthly ,35-44,City Centre,active,,2026-07-13
+M00854,2024-02-28,Monthly,16-24,Westgate,Active,,2025-03-20
+M00855,24 Jan 2024,Annual,45-54,Northfield,CANCELLED,2024-12-10,2024-12-10
+M00857,10 Jul 2026,Annual,35-44,Southside,Active,,2026-08-13
+M00858,10/09/2025,Annual,65+,Northfield,active,,2026-04-22
+M00859,16 Mar 2026,Monthly,45-54,Eastside,Active,,2026-04-20
+M00861,15 Jun 2026,Annual ,25-34,Northfield,active,,2026-06-30
+M00862,2025-05-11,Monthly,25-34,Eastside,active,,2026-02-10
+M00863,11 Dec 2024,Annual,25-34,Northfield,Cancelled,2025-09-17,2025-09-17
+M00864,2026-05-24,Monthly,45-54,Northfield,ACTIVE,,2026-05-27
+M00865,23/05/2026,Annual ,65+,Eastside,active,,2026-07-25
+M00866,22/09/2024,Monthly,45-54,Fernhill,active,,2026-03-21
+M00867,01/12/2024,ANNUAL,35-44,Fernhill,ACTIVE,,2025-02-15
+M00868,2024-04-23,Annual ,25-34,Hillcrest,active,,2025-02-20
+M00869,15/01/2025,monthly,25 - 34,City Centre,active,,2025-05-30
+M00870,2025-04-06,annual,35-44,Southside,active,,2025-06-25
+M00871,2026-04-20,Annual ,,University,ACTIVE,,2026-08-25
+M00872,14/05/2024,Annual,25-34,Westgate,Active,,2024-06-04
+M00873,9 Aug 2025,Monthly,55-64,Westgate,active,,2026-04-02
+M00874,27/08/2026,ANNUAL,25-34,Westgate,active,,2026-08-27
+M00876,13/10/2025,annual,35-44,City Centre,active,,2025-11-15
+M00877,2026-02-12,Annual ,25-34,Northfield,active,,2026-08-12
+M00878,2024-03-18,Monthly,16-24,University,cancelled,2026-07-08,2026-07-08
+M00879,25 Aug 2025,Annual,45-54,Eastside,ACTIVE,,2026-05-12
+M00880,5 Aug 2025,MONTHLY,45-54,Southside,ACTIVE,,2026-08-22
+M00881,2025-12-25,monthly,35-44,Northfield,cancelled,2026-02-24,2026-02-24
+M00882,2026-04-18,Monthly,16-24,University,active,,2026-04-18
+M00883,02/09/2024,Monthly,16-24,Hillcrest,active,,2025-08-13
+M00884,19/10/2024,Annual ,45-54,City Centre,active,,2025-01-01
+M00885,2025-10-01,Monthly,,Northfield,ACTIVE,,2025-10-10
+M00886,19/12/2025,Annual ,25-34,Fernhill,cancelled,2026-02-16,2026-02-16
+M00887,2024-06-30,Annual,45-54,Southside,active,,2025-03-21
+M00888,29 Apr 2025,Monthly,,Westgate,active,,2026-03-27
+M00889,12/08/2024,Annual,25-34,Eastside,active,,2025-03-10
+M00890,2026-08-19,Annual,25-34,Fernhill,Active,,2026-08-19
+M00891,6 May 2025,MONTHLY,45-54,Northfield,cancelled,2025-12-25,2025-12-25
+M00892,17/04/2026,Annual,35-44,Southside,ACTIVE,,2026-06-12
+M00893,2025-01-23,MONTHLY,16-24,Hillcrest,active,,2026-01-30
+M00894,8 Feb 2026,Annual,35-44,Southside,ACTIVE,,2026-08-21
+M00895,08/06/2024,Annual,35-44,Eastside,active,,2025-12-21
+M00896,2025-10-24,Annual,45-54,City Centre,active,,2025-11-20
+M00897,2024-08-06,Monthly,25-34,University,cancelled,2024-12-16,2024-12-16
+M00898,15/08/2024,Monthly,45-54,Northfield,Active,,2024-10-20
+M00899,28/04/2024,Annual,55-64,Waterside,active,,2024-08-02
+M00900,2025-01-04,Monthly,16-24,University,cancelled,2026-07-01,2026-07-01
+M00901,15 Jun 2026,annual,16-24,City Centre,ACTIVE,,2026-08-06
+M00902,2026-07-23,Monthly,45-54,Westgate,active,,2026-08-20
+M00903,2024-10-30,Monthly,65+,Eastside,active,,2025-01-19
+M00904,2024-09-11,Annual,35-44,Eastside,cancelled,2025-06-07,2025-06-07
+M00905,22/01/2025,Annual,65+,City Centre,Active,,2026-01-11
+M00906,2026-04-30,Monthly,16-24,Westgate,cancelled,2026-06-17,2026-06-17
+M00907,2026-08-01,MONTHLY,25-34,Eastside,active,,2026-08-14
+M00908,2024-04-23,Monthly,25-34,Southside,active,,2024-06-20
+M00909,2024-06-11,Annual,35-44,Eastside,active,,2024-06-14
+M00910,24/04/2025,Monthly,35-44,Westgate,ACTIVE,,2025-06-02
+M00911,26 Mar 2026,Monthly,25-34,Westgate,active,,2026-07-19
+M00913,15/04/2026,Annual,25-34,Eastside,active,,2026-07-07
+M00914,8 Oct 2024,monthly,45-54,Northfield,CANCELLED,2025-05-15,2025-05-15
+M00915,29/04/2024,monthly,25-34,Northfield,active,,2025-01-06
+M00916,10 Sep 2024,MONTHLY,35-44,Eastside,Active,,2026-05-04
+M00917,2026-06-04,Monthly,35-44,Northfield,active,,2026-08-12
+M00918,29 Dec 2025,Monthly,25-34,Southside,cancelled,2026-04-03,2026-04-03
+M00919,12/08/2026,Monthly,25-34,Eastside,active,,2026-08-24
+M00920,3 Apr 2026,Monthly,,University,CANCELLED,2026-05-16,2026-05-16
+M00921,2026-05-04,Monthly,35-44,Westgate,active,,2026-07-27
+M00922,14/03/2024,monthly,35-44,Northfield,ACTIVE,,2026-08-06
+M00923,25/02/2024,Monthly,16-24,University,active,,2025-05-05
+M00924,2026-01-08,Monthly,35-44,Eastside,active,,2026-06-11
+M00925,2025-05-05,Annual,45-54,City Centre,active,,2026-07-31
+M00926,06/08/2024,Annual,55-64,Waterside,active,,2026-05-12
+M00927,2025-09-26,Monthly,35-44,City Centre,cancelled,2026-04-04,2026-04-04
+M00928,10/05/2026,monthly,16-24,University,active,,2026-08-14
+M00929,30/01/2025,Monthly ,25-34,City Centre,Active,,2026-04-15
+M00930,2026-02-06,ANNUAL,25-34,Westgate,Active,,2026-07-12
+M00931,2026-06-16,Monthly,16-24,University,active,,2026-08-09
+M00932,10/09/2025,Monthly,25-34,Northfield,active,,2025-09-10
+M00932,10/09/2025,ANNUAL,25-34,Northfield,cancelled,2026-01-03,2026-01-03
+M00933,2025-01-07,Annual,55-64,Westgate,Active,,2026-02-08
+M00934,15/11/2024,Annual,45 - 54,Fernhill,active,,2026-03-11
+M00935,2026-06-15,Monthly,16-24,University,ACTIVE,,2026-07-30
+M00936,13/01/2026,Annual,,Northfield,active,,2026-01-14
+M00937,2025-08-09,Monthly,25-34,Southside,active,,2026-08-29
+M00938,2025-03-31,Monthly,45-54,Westgate,active,,2025-12-08
+M00939,2026-06-15,Annual ,25-34,Northfield,active,,2026-07-29
+M00940,2026-05-04,Annual,35-44,Hillcrest,ACTIVE,,2026-07-18
+M00942,18 Jun 2026,Annual,25-34,Westgate,active,,2026-08-05
+M00943,19/06/2024,Monthly,35-44,Fernhill,ACTIVE,,2024-12-20
+M00944,21 Mar 2026,Monthly ,55-64,Southside,ACTIVE,,2026-04-11
+M00945,28 Mar 2026,Monthly,55-64,Eastside,active,,2026-04-14
+M00946,2024-03-09,monthly,16-24,Northfield,ACTIVE,,2025-08-06
+M00947,16 May 2024,Monthly,16-24,Eastside,active,,2026-01-02
+M00948,24/08/2024,Monthly ,45-54,Southside,Active,,2024-10-31
+M00949,20 Nov 2024,Annual,55-64,Eastside,ACTIVE,,2025-08-31
+M00950,21/04/2025,MONTHLY,25-34,Westgate,CANCELLED,2026-04-29,2026-04-29
+M00951,03/07/2025,Annual,35-44,Eastside,ACTIVE,,2025-10-02
+M00952,15 Aug 2026,annual,16-24,Fernhill,active,,2026-08-23
+M00953,2024-03-12,Monthly,25-34,Southside,ACTIVE,,2024-03-13
+M00954,2024-04-24,Annual,25-34,Fernhill,cancelled,2024-11-28,2024-11-28
+M00955,23/11/2024,Monthly,65+,Southside,cancelled,2025-11-27,2025-11-27
+M00956,16 Feb 2024,Monthly,45-54,Fernhill,cancelled,2026-06-13,2026-06-13
+M00957,2026-05-24,Annual,25-34,Southside,active,,2026-07-18
+M00958,2024-04-18,Annual,25-34,Northfield,ACTIVE,,2026-01-28
+M00959,11 Jun 2024,monthly,25-34,Eastside,cancelled,2025-12-14,2025-12-14
+M00960,18/01/2024,Annual,65+,Fernhill,ACTIVE,,2025-06-19
+M00961,06/07/2026,Annual,16-24,Hillcrest,active,,2026-08-30
+M00962,28/06/2026,Annual,65+,City Centre,active,,2026-08-01
+M00964,2026-02-10,Annual,35-44,Eastside,Active,,2026-03-06
+M00965,02/07/2024,MONTHLY,16-24,University,cancelled,2026-07-18,2026-07-18
+M00966,2026-06-27,Annual,25-34,Westgate,active,,2026-08-06
+M00967,2026-05-29,Annual,55-64,Southside,active,,2026-05-30
+M00968,25/05/2025,Annual,45-54,City Centre,active,,2026-05-14
+M00969,2024-06-16,Annual,35-44,City Centre,cancelled,2026-08-21,2026-08-21
+M00970,13/03/2024,Monthly,16 - 24,Northfield,active,,2025-06-15
+M00971,22/01/2024,Monthly,16-24,University,cancelled,2026-05-28,2026-05-28
+M00972,2024-03-08,Annual,65+,Westgate,Active,,2025-09-05
+M00973,12/04/2026,Annual,35-44,City Centre,CANCELLED,2026-08-04,2026-08-04
+M00974,2025-10-23,monthly,25-34,Southside,active,,2026-08-12
+M00975,29 May 2026,monthly,16-24,Waterside,ACTIVE,,2026-06-26
+M00976,5 Sep 2024,Monthly,16-24,University,cancelled,2024-10-15,2024-10-15
+M00977,2025-05-14,ANNUAL,35-44,Eastside,active,,2026-01-02
+M00978,21/07/2024,annual,45-54,Northfield,ACTIVE,,2025-05-07
+M00979,24/12/2024,Monthly,45-54,Hillcrest,ACTIVE,,2026-01-31
+M00980,2026-08-21,Annual ,35-44,Northfield,ACTIVE,,2026-08-25
+M00981,1 Mar 2025,Annual,25-34,Hillcrest,cancelled,2025-07-26,2025-07-26
+M00982,2024-05-25,Annual,25-34,Westgate,active,,2025-02-02
+M00983,19 Feb 2026,Annual ,55-64,Westgate,active,,2026-04-11
+M00984,13/08/2024,monthly,16-24,University,active,,2025-07-06
+M00985,2025-06-18,Annual,55-64,Southside,active,,2025-10-26
+M00986,2024-04-25,Monthly,35-44,Westgate,active,,2024-06-27
+M00987,13/05/2024,monthly,16-24,Westgate,CANCELLED,2025-08-27,2025-08-27
+M00988,2026-08-17,Monthly ,35-44,Westgate,active,,2026-08-31
+M00989,2026-01-22,Monthly,45-54,Eastside,cancelled,2026-04-07,2026-04-07
+M00990,19 Feb 2024,Monthly,25-34,Westgate,active,,2026-02-25
+M00992,20/10/2025,Annual ,35-44,Southside,Active,,2026-01-15
+M00993,10 Jul 2024,Monthly,25-34,Westgate,cancelled,2026-07-10,2026-07-10
+M00994,22/04/2025,ANNUAL,35-44,City Centre,active,,2026-04-25
+M00996,13/05/2024,Annual,45-54,Eastside,active,,2025-08-29
+M00997,26/02/2025,Annual,16-24,Southside,active,,2025-03-21
+M00998,22/02/2026,Monthly,45 - 54,City Centre,active,,2026-07-01
+M00999,16/12/2024,Monthly,16-24,Hillcrest,ACTIVE,,2025-02-11
+M01000,2024-06-03,Annual,,Hillcrest,Active,,2024-08-21
+M01001,7 Apr 2026,Monthly,55-64,Hillcrest,ACTIVE,,2026-06-24
+M01002,27/08/2024,Monthly,35-44,Southside,ACTIVE,,2026-06-29
+M01003,2026-02-04,monthly,45-54,Hillcrest,Active,,2026-05-15
+M01004,2026-03-11,Monthly,25-34,Westgate,active,,2026-07-21
+M01005,24/07/2026,Monthly,,Northfield,active,,2026-08-20
+M01006,23/04/2024,Annual,55-64,Northfield,ACTIVE,,2025-01-14
+M01007,2026-07-30,Annual ,25-34,Northfield,Active,,2026-08-23
+M01008,2024-01-30,monthly,45-54,Eastside,cancelled,2026-05-22,2026-05-22
+M01009,2024-07-30,Annual,16-24,University,active,,2026-02-13
+M01010,2024-09-22,Monthly,35 - 44,City Centre,ACTIVE,,2025-04-13
+M01011,06/02/2024,Monthly,25 - 34,Northfield,cancelled,2026-05-29,2026-05-29
+M01012,2025-04-17,Monthly,25-34,Westgate,CANCELLED,2026-01-27,2026-01-27
+M01014,07/05/2026,monthly,35-44,Westgate,active,,2026-06-07
+M01015,2026-03-22,Monthly,25-34,Eastside,ACTIVE,,2026-06-06
+M01016,2024-02-13,Annual ,35-44,Southside,active,,2025-02-07
+M01017,2026-05-05,monthly,25-34,Northfield,CANCELLED,2026-08-10,2026-08-10
+M01018,2024-06-03,Monthly ,35-44,Eastside,cancelled,2026-07-04,2026-07-04
+M01019,2026-05-11,Annual ,55-64,City Centre,active,,2026-05-29
+M01020,03/07/2026,Annual,35-44,Southside,ACTIVE,,2026-08-25
+M01021,2025-09-23,Monthly,35-44,Northfield,Cancelled,2025-12-29,2025-12-29
+M01022,8 Nov 2024,Monthly,16-24,Eastside,cancelled,2026-05-24,2026-05-24
+M01023,07/03/2026,Annual,65+,Northfield,ACTIVE,,2026-04-21
+M01024,27 Mar 2026,MONTHLY,16-24,Eastside,ACTIVE,,2026-05-28
+M01025,18/04/2025,Annual ,65+,Fernhill,active,,2025-09-02
+M01026,17 Oct 2025,Monthly,25-34,Southside,active,,2026-01-04
+M01027,2026-07-26,Annual,45-54,Southside,active,,2026-08-02
+M01028,2026-04-23,monthly,45-54,Fernhill,ACTIVE,,2026-05-24
+M01029,16/03/2026,Monthly,45 - 54,Southside,cancelled,2026-07-27,2026-07-27
+M01030,2024-12-04,Monthly,35-44,Hillcrest,CANCELLED,2026-04-25,2026-04-25
+M01031,2025-06-10,Monthly,16-24,Westgate,Active,,2025-07-21
+M01032,2026-07-06,MONTHLY,,City Centre,active,,2026-08-30
+M01034,27/02/2024,Monthly ,55-64,Northfield,active,,2025-06-21
+M01035,04/01/2026,Monthly,65+,Southside,active,,2026-02-21
+M01036,08/05/2026,annual,55 - 64,Fernhill,Active,,2026-05-22
+M01037,6 Jun 2024,Monthly,25-34,Northfield,cancelled,2024-09-28,2024-09-28
+M01038,12/10/2025,Monthly,25-34,Eastside,cancelled,2026-01-01,2026-01-01
+M01039,2025-03-06,Annual,16-24,University,ACTIVE,,2025-12-05
+M01040,2026-03-04,Annual,25-34,Northfield,active,,2026-03-31
+M01041,2026-02-20,Annual,25-34,University,active,,2026-06-21
+M01042,15/05/2026,Monthly ,25-34,Fernhill,active,,2026-08-26
+M01043,27/06/2025,ANNUAL,45-54,Eastside,cancelled,2026-07-25,2026-07-25
+M01044,2025-06-05,Monthly ,16 - 24,University,ACTIVE,,2026-05-27
+M01045,2025-07-31,Monthly,55-64,Northfield,cancelled,2026-06-12,2026-06-12
+M01046,10 Sep 2024,Monthly,45-54,Southside,CANCELLED,2025-12-30,2025-12-30
+M01047,2026-05-18,Annual,35-44,Eastside,active,,2026-06-22
+M01048,03/06/2025,annual,,Westgate,ACTIVE,,2025-11-21
+M01049,27/11/2024,Annual,45-54,Northfield,ACTIVE,,2025-02-23
+M01050,29/05/2025,Monthly,35-44,Southside,active,,2026-04-06
+M01051,2026-07-30,Annual,16-24,Southside,active,,2026-08-15
+M01053,29/08/2025,Monthly,16-24,Hillcrest,Cancelled,2026-07-01,2026-07-01
+M01054,22 Oct 2024,Monthly,45-54,City Centre,CANCELLED,2026-08-06,2026-08-06
+M01055,2025-05-27,Monthly,45-54,City Centre,active,,2026-06-30
+M01056,01/05/2026,Monthly,,Westgate,cancelled,2026-07-22,2026-07-22
+M01057,24/05/2025,Monthly,25-34,Waterside,Active,,2025-08-12
+M01058,28/01/2025,Monthly,35-44,City Centre,active,,2025-09-04
+M01059,16 Apr 2025,Monthly,35-44,Fernhill,active,,2025-10-17
+M01060,2024-08-24,Monthly,45-54,Fernhill,active,,2024-12-04
+M01061,17/01/2026,Annual,35-44,Eastside,cancelled,2026-04-30,2026-04-30
+M01063,2024-10-10,Monthly,35-44,Southside,ACTIVE,,2025-04-09
+M01064,08/01/2026,Annual,45-54,Northfield,active,,2026-06-19
+M01065,2025-06-05,Monthly,45-54,Hillcrest,ACTIVE,,2026-08-25
+M01066,05/05/2025,Monthly,16-24,Westgate,ACTIVE,,2026-04-02
+M01067,2026-06-02,Monthly,16-24,University,Active,,2026-07-27
+M01068,18 Mar 2024,monthly,45-54,Westgate,active,,2025-06-30
+M01069,13 Jan 2026,Monthly,16-24,Northfield,cancelled,2026-06-26,2026-06-26
+M01070,6 Mar 2025,Annual,,Eastside,cancelled,2026-06-21,2026-06-21
+M01071,05/03/2026,ANNUAL,16-24,Southside,CANCELLED,2026-05-11,2026-05-11
+M01072,24 Jun 2024,Monthly ,45-54,Westgate,active,,2025-11-26
+M01073,2024-12-20,ANNUAL,,Eastside,Active,,2025-07-20
+M01074,2026-03-03,Monthly,16-24,Westgate,ACTIVE,,2026-05-11
+M01075,23 Nov 2024,Annual,45-54,Southside,ACTIVE,,2025-12-19
+M01076,28/08/2025,Monthly ,45-54,Northfield,cancelled,2026-01-13,2026-01-13
+M01077,2024-10-08,monthly,55-64,Westgate,cancelled,2026-08-10,2026-08-10
+M01078,31/12/2025,ANNUAL,45-54,Northfield,active,,2026-02-19
+M01080,31 Aug 2024,Annual,,City Centre,Cancelled,2026-03-08,2026-03-08
+M01081,2024-06-10,Monthly,25-34,Southside,ACTIVE,,2025-09-13
+M01082,30/03/2026,Monthly,35-44,Hillcrest,Active,,2026-07-08
+M01083,15/06/2025,Monthly ,45-54,Westgate,active,,2026-01-20
+M01084,19/03/2025,Monthly,25-34,Northfield,active,,2026-04-28
+M01085,2026-05-04,Monthly,16-24,University,Active,,2026-05-08
+M01086,2024-10-16,Monthly,35-44,City Centre,Active,,2026-02-15
+M01087,12 Jul 2025,annual,35-44,City Centre,ACTIVE,,2025-12-13
+M01088,2025-08-26,Monthly,35-44,Hillcrest,Active,,2026-02-08
+M01089,18/08/2025,Annual,35-44,Southside,active,,2025-11-15
+M01090,27/06/2026,monthly,16-24,City Centre,active,,2026-07-22
+M01091,2024-05-08,Monthly,65+,Waterside,Active,,2025-03-05
+M01092,01/06/2025,Annual,35-44,Waterside,active,,2025-11-03
+M01093,2024-11-14,Annual,45-54,Westgate,cancelled,2026-03-27,2026-03-27
+M01094,25/03/2025,Monthly ,25-34,Eastside,cancelled,2026-04-01,2026-04-01
+M01095,2025-12-21,monthly,35-44,City Centre,cancelled,2026-06-12,2026-06-12
+M01096,10/08/2024,monthly,35-44,Fernhill,active,,2025-03-25
+M01097,2024-07-30,Monthly,25-34,Eastside,ACTIVE,,2025-10-09
+M01098,2024-04-02,Monthly,35-44,Waterside,active,,2025-02-09
+M01099,2024-05-03,Annual,65+,City Centre,active,,2024-10-27
+M01100,25/11/2024,Annual,25-34,Hillcrest,active,,2026-01-15
+M01101,27 Dec 2024,Monthly,16-24,Northfield,active,,2025-02-28
+M01102,21/02/2025,Monthly ,35 - 44,Westgate,cancelled,2026-02-22,2026-02-22
+M01103,4 Jul 2024,Monthly,45-54,Eastside,active,,2025-08-08
+M01104,2024-10-12,Annual,25-34,Northfield,active,,2026-03-21
+M01105,2024-07-06,Monthly,45-54,City Centre,Active,,2025-06-30
+M01106,19 Feb 2024,Monthly,35-44,Westgate,cancelled,2026-05-25,2026-05-25
+M01107,2024-11-29,monthly,16-24,University,cancelled,2026-06-20,2026-06-20
+M01108,27 Jul 2025,Annual,25-34,Fernhill,Active,,2025-10-03
+M01109,22 Dec 2025,Monthly,25-34,Westgate,active,,2026-05-11
+M01110,16 Jan 2024,Monthly,35-44,Westgate,active,,2024-09-14
+M01111,26/09/2025,Annual,35-44,Eastside,active,,2026-01-16
+M01112,2026-08-27,Annual,45-54,Southside,Active,,2026-08-30
+M01113,22/05/2026,monthly,35-44,Northfield,active,,2026-06-13
+M01114,2024-11-17,Annual,25-34,Northfield,active,,2025-01-08
+M01115,04/02/2025,Annual,55-64,Southside,cancelled,2026-06-02,2026-06-02
+M01116,19 Jul 2025,Annual,35-44,Southside,active,,2025-10-18
+M01117,18 Jun 2025,Monthly,16-24,Westgate,Cancelled,2026-06-02,2026-06-02
+M01118,2025-01-12,Monthly,25-34,Northfield,active,,2026-05-12
+M01119,2024-01-17,Annual ,16-24,University,cancelled,2025-04-13,2025-04-13
+M01120,26/09/2025,Monthly,45-54,Northfield,Active,,2025-12-05
+M01121,2024-10-07,Annual,55-64,Northfield,active,,2025-07-02
+M01122,06/03/2026,Monthly,35-44,Southside,cancelled,2026-04-27,2026-04-27
+M01123,15/04/2025,Monthly,45-54,Northfield,cancelled,2025-10-28,2025-10-28
+M01124,13/03/2026,Monthly,16-24,Westgate,Active,,2026-03-19
+M01125,10 Apr 2026,Monthly,45-54,City Centre,ACTIVE,,2026-08-13
+M01126,23/04/2024,Monthly,35-44,Southside,cancelled,2026-05-09,2026-05-09
+M01127,29/06/2025,monthly,,Hillcrest,CANCELLED,2025-09-15,2025-09-15
+M01128,7 Apr 2024,Annual,35-44,Northfield,active,,2024-09-22
+M01129,15 Aug 2026,Monthly,65+,Northfield,active,,2026-08-29
+M01130,2026-08-05,Annual,35-44,Waterside,active,,2026-08-11
+M01131,2026-03-28,Annual,55-64,Southside,ACTIVE,,2026-05-23
+M01132,2026-04-27,Monthly,25-34,Northfield,ACTIVE,,2026-07-18
+M01133,2024-10-05,Monthly,16-24,Westgate,active,,2025-02-04
+M01134,6 Apr 2026,Annual,,Northfield,active,,2026-08-21
+M01135,09/03/2026,Annual,25-34,Southside,ACTIVE,,2026-03-23
+M01136,2025-12-25,Annual,55-64,Eastside,active,,2025-12-29
+M01137,2025-06-28,Monthly,45-54,Northfield,Cancelled,2025-09-13,2025-09-13
+M01138,9 Oct 2024,annual,55-64,City Centre,Active,,2025-04-19
+M01139,2026-03-11,annual,55-64,Hillcrest,active,,2026-08-01
+M01140,2026-06-16,Annual,25-34,Eastside,ACTIVE,,2026-08-13
+M01141,2025-06-14,monthly,25-34,Westgate,ACTIVE,,2026-01-15
+M01142,2025-05-01,Annual,35-44,Waterside,Active,,2025-05-18
+M01143,10/04/2024,Staff ,25-34,Eastside,Active,,2025-09-08
+M01144,2026-08-13,MONTHLY,45-54,Westgate,Active,,2026-08-21
+M01145,6 Dec 2025,monthly,25-34,Southside,cancelled,2026-01-26,2026-01-26
+M01146,2026-07-05,Monthly,65+,Northfield,active,,2026-07-27
+M01147,2024-12-23,Monthly,25-34,Eastside,active,,2026-02-21
+M01148,2024-11-20,Monthly ,45-54,Eastside,Active,,2025-12-12
+M01149,16/03/2026,Monthly,35-44,City Centre,ACTIVE,,2026-08-31
+M01150,2025-12-09,Monthly,25-34,Eastside,cancelled,2026-02-18,2026-02-18
+M01151,09/09/2025,Annual,25-34,Northfield,ACTIVE,,2026-04-26
+M01152,23/06/2026,Annual,45-54,Fernhill,active,,2026-07-22
+M01153,10/04/2026,Annual ,25-34,Southside,active,,2026-04-26
+M01154,08/02/2025,Monthly,25-34,City Centre,cancelled,2026-08-19,2026-08-19
+M01155,2024-10-16,Annual,25-34,City Centre,active,,2026-03-10
+M01156,24/05/2024,Monthly,35 - 44,Fernhill,active,,2024-10-11
+M01157,2024-07-07,Monthly,,Northfield,cancelled,2025-08-05,2025-08-05
+M01158,05/07/2026,Annual,45-54,Westgate,active,,2026-07-08
+M01159,10/07/2026,Monthly,35-44,Eastside,Active,,2026-08-28
+M01161,2026-07-09,Monthly,45-54,Southside,ACTIVE,,2026-08-31
+M01162,16/10/2024,Annual,25-34,Westgate,active,,2025-12-20
+M01163,12/10/2025,Monthly,45-54,Southside,cancelled,2026-08-27,2026-08-27
+M01164,15 Mar 2024,Monthly,45-54,Fernhill,active,,2025-07-22
+M01165,26 Jul 2026,annual,25-34,Hillcrest,active,,2026-08-16
+M01166,2026-08-11,Monthly,35-44,Northfield,ACTIVE,,2026-08-16
+M01167,8 Jun 2026,monthly,25-34,Southside,Active,,2026-07-19
+M01168,10/10/2024,Annual,65+,Southside,active,,2025-10-05
+M01169,2026-05-14,monthly,16-24,University,active,,2026-08-31
+M01170,2025-06-14,Monthly,,Westgate,active,,2026-06-18
+M01171,25/06/2024,Monthly,35-44,Eastside,cancelled,2025-05-17,2025-05-17
+M01172,2024-03-02,Annual,45-54,Southside,active,,2025-09-06
+M01173,31 Jul 2025,ANNUAL,25-34,Hillcrest,Active,,2025-08-17
+M01174,21/04/2025,MONTHLY,55-64,Northfield,cancelled,2025-06-26,2025-06-26
+M01175,2025-08-07,Monthly,55-64,Hillcrest,active,,2026-08-12
+M01176,2025-03-19,Annual,55-64,Northfield,active,,2025-09-11
+M01177,24 Mar 2026,MONTHLY,55-64,Westgate,cancelled,2026-05-17,2026-05-17
+M01178,19/04/2025,Annual,25-34,Southside,cancelled,2025-08-15,2025-08-15
+M01179,2026-06-01,Annual,45-54,Westgate,active,,2026-07-21
+M01180,27/07/2024,Annual,35-44,Westgate,cancelled,2024-09-26,2024-09-26
+M01181,25/01/2025,Monthly,45-54,Northfield,cancelled,2026-07-10,2026-07-10
+M01182,2025-10-11,Annual,25-34,Waterside,cancelled,2026-01-13,2026-01-13
+M01183,2025-12-16,Monthly,65+,City Centre,active,,2026-05-12
+M01184,09/07/2024,Monthly,16-24,University,active,,2026-03-24
+M01185,10/03/2024,Monthly,16-24,University,CANCELLED,2025-04-24,2025-04-24
+M01186,2026-06-04,Annual,45-54,Southside,active,,2026-07-19
+M01187,2024-02-09,Monthly,35-44,Westgate,active,,2025-05-24
+M01188,04/05/2026,annual,25 - 34,Southside,ACTIVE,,2026-07-22
+M01189,05/05/2026,Annual,16-24,Northfield,active,,2026-07-22
+M01190,16/10/2025,Monthly,35-44,Northfield,active,,2025-10-31
+M01191,5 May 2025,Monthly,45-54,Southside,active,,2026-08-11
+M01192,2025-05-24,Monthly,16 - 24,University,cancelled,2026-07-28,2026-07-28
+M01193,23/03/2025,Monthly,25-34,Northfield,active,,2026-08-28
+M01194,14 Feb 2026,Monthly ,35-44,Eastside,ACTIVE,,2026-06-07
+M01195,05/04/2024,Annual,65+,Fernhill,active,,2026-08-29
+M01196,2025-03-06,Annual,35-44,City Centre,ACTIVE,,2026-05-29
+M01197,2024-05-25,Monthly,35 - 44,Northfield,cancelled,2025-07-25,2025-07-25
+M01198,2024-11-06,Monthly ,35-44,Northfield,active,,2025-12-10
+M01199,8 Jan 2024,Monthly,55-64,Hillcrest,active,,2026-07-12
+M01200,2026-03-15,Annual,25-34,Westgate,active,,2026-04-03
+M01201,29 Aug 2026,Annual,35-44,City Centre,active,,2026-08-31
+M01203,2024-06-14,Annual,45-54,Southside,active,,2025-06-22
+M01204,6 Jul 2026,Annual,65+,Fernhill,ACTIVE,,2026-08-23
+M01205,2026-08-20,Monthly,25-34,Westgate,active,,2026-08-22
+M01206,21/12/2024,Annual ,35-44,Northfield,active,,2025-09-30
+M01207,2026-03-13,monthly,25-34,Hillcrest,active,,2026-05-01
+M01208,28/05/2026,Monthly,45-54,Westgate,active,,2026-06-16
+M01209,2025-01-13,Monthly,25-34,Hillcrest,Cancelled,2026-01-04,2026-01-04
+M01210,09/03/2026,Annual,25-34,Hillcrest,active,,2026-08-10
+M01211,10 May 2024,Monthly,55-64,Northfield,active,,2025-05-11
+M01212,2026-03-20,ANNUAL,35-44,Northfield,active,,2026-06-03
+M01213,2024-04-09,ANNUAL,35-44,Southside,Active,,2024-07-18
+M01214,2026-01-07,monthly,35-44,Southside,active,,2026-02-26
+M01215,2026-03-20,Monthly,45-54,Eastside,cancelled,2026-08-16,2026-08-16
+M01216,2026-02-28,Monthly,65+,Eastside,active,,2026-06-27
+M01217,15/06/2026,Monthly,35 - 44,Hillcrest,Active,,2026-08-03
+M01218,10 Jun 2024,annual,35-44,Northfield,cancelled,2026-03-09,2026-03-09
+M01219,19 May 2026,Monthly,45-54,Westgate,active,,2026-08-05
+M01220,2024-02-27,Annual,16-24,Westgate,active,,2026-02-23
+M01221,2024-03-14,Monthly,25-34,Eastside,cancelled,2026-01-04,2026-01-04
+M01222,22 Feb 2025,Monthly,35-44,City Centre,cancelled,2026-06-06,2026-06-06
+M01223,24/06/2026,Annual,16-24,University,active,,2026-07-31
+M01224,2024-04-04,Annual,25-34,Northfield,active,,2024-08-17
+M01225,15/08/2025,Monthly,55-64,Westgate,Active,,2026-03-02
+M01226,2026-05-02,Monthly,16-24,Hillcrest,ACTIVE,,2026-07-29
+M01227,20 Jul 2026,Monthly,45-54,Hillcrest,active,,2026-08-25
+M01228,2024-04-04,Monthly,25-34,Waterside,CANCELLED,2025-11-25,2025-11-25
+M01229,25/10/2024,ANNUAL,16-24,Northfield,active,,2026-03-02
+M01230,2024-07-30,ANNUAL,,Southside,active,,2025-11-08
+M01231,16 Mar 2024,Monthly,25-34,Northfield,cancelled,2025-11-28,2025-11-28
+M01232,2025-02-04,Monthly,,Westgate,cancelled,2026-05-16,2026-05-16
+M01233,2025-03-15,Annual,25-34,Hillcrest,active,,2025-05-25
+M01234,2025-08-19,Annual,35-44,Eastside,active,,2026-07-08
+M01235,24 May 2026,Monthly,16-24,Fernhill,active,,2026-06-19
+M01236,2 Jul 2024,Annual,25 - 34,Southside,cancelled,2025-12-29,2025-12-29
+M01237,2024-01-09,Annual,65+,Southside,CANCELLED,2026-07-01,2026-07-01
+M01239,15/02/2024,Monthly,25 - 34,Northfield,active,,2025-03-12
+M01240,6 Apr 2026,Monthly,25-34,Westgate,cancelled,2026-07-08,2026-07-08
+M01241,2025-03-13,Monthly ,55-64,Westgate,cancelled,2025-11-13,2025-11-13
+M01242,2025-06-18,Monthly,55-64,Westgate,ACTIVE,,2025-07-31
+M01243,9 Sep 2024,MONTHLY,16-24,Hillcrest,active,,2025-07-18
+M01244,01/07/2026,monthly,55-64,Waterside,ACTIVE,,2026-07-03
+M01245,21/02/2025,annual,55-64,Northfield,CANCELLED,2025-12-06,2025-12-06
+M01246,2026-05-05,monthly,25-34,Northfield,active,,2026-07-26
+M01247,2024-08-20,monthly,16-24,Hillcrest,active,,2025-04-13
+M01248,2024-08-27,MONTHLY,16-24,University,CANCELLED,2026-06-17,2026-06-17
+M01249,20 May 2025,Monthly,45-54,City Centre,active,,2026-04-23
+M01250,02/02/2026,Monthly,16-24,Southside,Active,,2026-04-29
+M01252,2024-07-16,Annual,35-44,Fernhill,ACTIVE,,2026-04-16
+M01253,2025-04-13,Monthly,45-54,Northfield,cancelled,2025-10-27,2025-10-27
+M01254,2026-01-15,Staff ,45-54,Northfield,active,,2026-07-29
+M01255,18 Oct 2024,Annual ,16-24,Southside,active,,2026-06-06
+M01256,9 Jan 2026,Monthly,55-64,Fernhill,active,,2026-08-18
+M01257,2025-11-14,monthly,25-34,Eastside,cancelled,2026-05-18,2026-05-18
+M01258,2025-06-25,Annual,35-44,Northfield,active,,2025-12-13
+M01259,2026-03-13,Monthly,55-64,Westgate,Active,,2026-04-30
+M01260,2024-08-05,Monthly,35-44,Southside,active,,2026-06-09
+M01261,30/07/2025,Monthly,65+,Southside,active,,2025-09-03
+M01262,2024-04-15,Monthly,45-54,City Centre,active,,2025-03-02
+M01263,24/03/2026,Monthly,25-34,Northfield,active,,2026-04-15
+M01264,01/05/2025,Staff,65+,Northfield,active,,2026-06-27
+M01265,2026-04-10,monthly,45-54,Northfield,active,,2026-05-24
+M01266,2025-06-04,Monthly,16-24,Northfield,cancelled,2025-07-09,2025-07-09
+M01267,2025-07-17,Monthly,16-24,Westgate,cancelled,2025-11-19,2025-11-19
+M01268,24 Feb 2025,Monthly,25-34,Fernhill,active,,2025-11-15
+M01269,08/04/2026,Monthly,25-34,Fernhill,active,,2026-06-09
+M01270,15/06/2026,annual,55-64,Westgate,active,,2026-08-18
+M01271,10 Mar 2026,Annual,25-34,Hillcrest,active,,2026-07-30
+M01272,2026-03-27,Monthly,25-34,Northfield,ACTIVE,,2026-08-28
+M01273,13/07/2024,Monthly,16-24,University,ACTIVE,,2025-10-14
+M01275,2024-11-30,Monthly,16-24,Westgate,active,,2025-12-30
+M01276,28/05/2026,Monthly,55-64,Eastside,ACTIVE,,2026-08-18
+M01277,2025-06-28,Annual,65+,Northfield,active,,2026-04-17
+M01279,2026-04-20,Monthly,25-34,Eastside,Active,,2026-05-27
+M01280,2026-02-27,Annual,16-24,Hillcrest,active,,2026-03-23
+M01281,2024-01-23,Annual,25-34,Eastside,active,,2026-02-15
+M01282,2026-05-01,Monthly,45-54,Hillcrest,Active,,2026-08-07
+M01283,2024-06-10,Monthly ,,Westgate,active,,2025-11-27
+M01284,2025-04-18,monthly,,Northfield,active,,2026-02-20
+M01285,11 Mar 2024,MONTHLY,45-54,Northfield,active,,2025-01-06
+M01286,2025-06-17,Annual,16-24,Northfield,ACTIVE,,2025-07-14
+M01287,22/09/2024,MONTHLY,25-34,City Centre,cancelled,2025-12-08,2025-12-08
+M01288,06/10/2025,Monthly,65+,Fernhill,Cancelled,2026-02-08,2026-02-08
+M01289,18/06/2026,Monthly,45-54,Eastside,Active,,2026-08-21
+M01290,2026-04-11,Annual,25-34,Hillcrest,active,,2026-06-11
+M01291,28 Mar 2024,Monthly,25-34,Northfield,cancelled,2025-06-22,2025-06-22
+M01292,2024-01-25,Annual,35-44,Southside,active,,2026-06-12
+M01293,2026-08-28,Annual,65+,Westgate,active,,2026-08-31
+M01294,21 Oct 2024,monthly,,Northfield,active,,2025-09-20
+M01295,31/12/2025,monthly,25-34,Waterside,CANCELLED,2026-04-01,2026-04-01
+M01296,13/10/2025,ANNUAL,55-64,Eastside,cancelled,2026-01-06,2026-01-06
+M01297,2025-04-14,Annual ,35-44,Hillcrest,active,,2025-07-11
+M01298,2026-06-01,Monthly,25-34,University,active,,2026-07-27
+M01299,21/03/2025,Monthly,16-24,Westgate,active,,2025-09-07
+M01300,5 Apr 2026,Annual,45-54,Eastside,active,,2026-07-09
+M01301,29/05/2026,Annual ,45-54,City Centre,ACTIVE,,2026-07-13
+M01302,21/01/2024,Monthly,35-44,Southside,active,,2025-03-24
+M01303,27/05/2025,Annual,55-64,Northfield,active,,2026-04-26
+M01304,2024-10-30,annual,25-34,Westgate,Active,,2026-02-03
+M01305,2024-12-01,Monthly,35-44,Northfield,CANCELLED,2025-06-14,2025-06-14
+M01306,10/12/2024,monthly,16-24,Westgate,cancelled,2025-08-06,2025-08-06
+M01307,2025-06-15,Monthly,45-54,Hillcrest,cancelled,2026-04-24,2026-04-24
+M01308,20 Feb 2026,Monthly,35-44,Northfield,cancelled,2026-08-02,2026-08-02
+M01309,04/12/2025,Monthly,25-34,Fernhill,ACTIVE,,2026-04-18
+M01310,29 Nov 2025,Monthly,25-34,Fernhill,active,,2026-07-03
+M01311,2026-06-08,Monthly,45-54,Westgate,active,,2026-08-08
+M01312,5 Dec 2024,Monthly,25-34,Fernhill,ACTIVE,,2026-04-16
+M01313,2026-04-17,Monthly,16-24,University,active,,2026-08-14
+M01314,10/03/2026,Monthly,55-64,Westgate,active,,2026-03-27
+M01315,7 Jun 2024,Annual,55-64,Hillcrest,active,,2024-11-07
+M01316,17 Apr 2024,Annual,16-24,University,active,,2025-03-11
+M01317,2025-03-06,Annual,45-54,Southside,Active,,2025-08-24
+M01318,28/06/2026,Annual,25-34,Northfield,active,,2026-08-15
+M01319,21 May 2024,Annual,16-24,Northfield,cancelled,2025-03-15,2025-03-15
+M01320,31 Jan 2024,Monthly,16-24,Hillcrest,CANCELLED,2026-07-19,2026-07-19
+M01321,2026-06-24,monthly,16-24,University,active,,2026-08-03
+M01322,6 May 2025,ANNUAL,35-44,Northfield,Active,,2025-08-02
+M01323,2024-10-07,Annual,25-34,Northfield,active,,2024-12-06
+M01324,2024-07-24,monthly,55-64,Westgate,active,,2024-08-05
+M01325,22/09/2025,monthly,55 - 64,Northfield,cancelled,2026-02-15,2026-02-15
+M01326,2024-12-13,annual,55-64,Hillcrest,cancelled,2025-12-31,2025-12-31
+M01327,8 Sep 2024,Annual,16-24,Eastside,cancelled,2024-11-04,2024-11-04
+M01328,2026-06-27,Annual,,Eastside,Active,,2026-07-28
+M01329,2026-05-13,Monthly,,Hillcrest,active,,2026-08-19
+M01330,2026-03-22,ANNUAL,25-34,Southside,Active,,2026-05-10
+M01331,27 Aug 2026,Monthly,45-54,Eastside,active,,2026-08-28
+M01332,14 Oct 2025,Monthly,25-34,Eastside,cancelled,2026-01-03,2026-01-03
+M01333,2025-05-25,ANNUAL,16-24,University,Active,,2025-09-29
+M01334,31/07/2025,Annual,25-34,Northfield,active,,2026-05-09
+M01335,2026-07-09,Annual,25-34,Eastside,active,,2026-08-17
+M01336,2024-12-10,monthly,16-24,University,Active,,2025-08-21
+M01337,20 Nov 2024,monthly,45-54,Waterside,cancelled,2026-08-22,2026-08-22
+M01338,2025-01-15,Annual,35-44,City Centre,Active,,2026-01-11
+M01339,09/02/2024,Monthly ,45-54,Waterside,CANCELLED,2024-12-16,2024-12-16
+M01340,2024-07-14,Monthly,25-34,Waterside,active,,2025-08-01
+M01341,29 Aug 2026,Annual ,25-34,Northfield,ACTIVE,,2026-08-30
+M01342,01/02/2024,Annual ,35-44,Eastside,Active,,2024-09-20
+M01343,25 Mar 2026,Monthly,35-44,Southside,Active,,2026-05-17
+M01344,2024-08-21,Monthly,55-64,Southside,cancelled,2026-04-14,2026-04-14
+M01345,3 Jun 2024,Monthly,45-54,Northfield,Cancelled,2026-06-20,2026-06-20
+M01346,26 Jun 2024,Annual,55-64,Eastside,active,,2025-02-23
+M01347,12/08/2025,Annual,16-24,City Centre,CANCELLED,2025-09-30,2025-09-30
+M01348,18/12/2024,Annual,45-54,Eastside,cancelled,2025-11-21,2025-11-21
+M01349,2025-03-16,Annual,35-44,Waterside,cancelled,2025-04-20,2025-04-20
+M01350,13/05/2024,Annual,55 - 64,Southside,Active,,2026-05-04
+M01351,2026-06-19,Annual,45-54,Fernhill,Active,,2026-07-07
+M01352,2024-12-23,Annual,45-54,Southside,active,,2026-04-12
+M01353,2024-09-18,Monthly,25-34,University,Active,,2025-04-22
+M01354,2026-07-24,Annual,35-44,Fernhill,Active,,2026-08-22
+M01355,30 Nov 2024,Monthly,25-34,City Centre,active,,2025-12-05
+M01356,2024-09-02,Monthly,35-44,Eastside,active,,2025-03-25
+M01357,2025-08-20,Monthly,65+,City Centre,active,,2026-08-01
+M01358,05/04/2025,annual,55-64,Hillcrest,active,,2025-12-25
+M01359,2024-09-16,Monthly,,Southside,active,,2025-06-12
+M01360,2025-05-20,Monthly,35-44,Northfield,active,,2026-06-25
+M01361,2 Dec 2025,Monthly,45-54,Northfield,CANCELLED,2026-03-01,2026-03-01
+M01362,03/02/2026,Monthly,25-34,Westgate,active,,2026-07-23
+M01363,29/11/2025,Annual,45-54,Eastside,active,,2026-04-18
+M01364,2026-06-20,Monthly,35-44,Waterside,active,,2026-08-03
+M01365,03/09/2024,Annual,25-34,City Centre,ACTIVE,,2026-03-26
+M01366,12/04/2026,Annual,45-54,City Centre,ACTIVE,,2026-08-18
+M01367,2026-04-14,annual,16-24,Northfield,active,,2026-07-13
+M01368,2024-12-30,Monthly,45-54,Westgate,active,,2025-03-27
+M01369,16/07/2024,Annual ,16-24,Hillcrest,active,,2025-02-10
+M01370,03/06/2024,Annual,65+,City Centre,CANCELLED,2025-08-07,2025-08-07
+M01372,2024-12-10,Annual,35-44,Southside,active,,2025-05-24
+M01373,18 May 2024,Monthly,25-34,Waterside,cancelled,2026-03-24,2026-03-24
+M01374,2024-03-17,Annual ,25-34,Waterside,active,,2026-07-04
+M01375,2026-03-07,Annual,35-44,Fernhill,active,,2026-05-01
+M01376,2026-04-25,Annual,25-34,Westgate,active,,2026-04-25
+M01377,16/09/2024,Monthly,35-44,Northfield,active,,2026-07-31
+M01378,2024-09-01,Annual,25-34,Fernhill,active,,2026-05-19
+M01379,2026-05-09,Monthly,16-24,Southside,active,,2026-07-07
+M01380,2025-11-11,Monthly,16-24,Northfield,active,,2026-06-24
+M01381,4 Jun 2025,Annual,55-64,City Centre,cancelled,2025-08-01,2025-08-01
+M01382,2025-10-17,Monthly,45-54,Westgate,active,,2026-01-09
+M01383,2026-08-10,Monthly,45-54,Northfield,active,,2026-08-20
+M01384,3 May 2025,Annual,55 - 64,Eastside,active,,2026-04-17
+M01385,09/07/2026,Monthly,16-24,Hillcrest,active,,2026-08-19
+M01386,2024-03-31,Monthly,35-44,Eastside,cancelled,2026-05-04,2026-05-04
+M01387,20/05/2024,Monthly,25-34,Southside,Active,,2025-05-09
+M01388,16/02/2026,Monthly,35-44,Eastside,active,,2026-08-06
+M01389,14/07/2026,Monthly,,University,Active,,2026-07-21
+M01390,2026-07-23,Annual,35-44,Fernhill,active,,2026-08-31
+M01391,15 Apr 2026,Monthly,35-44,Southside,active,,2026-08-27
+M01392,13/03/2026,Monthly,35-44,Hillcrest,active,,2026-04-18
+M01393,2025-02-24,Monthly,,Hillcrest,cancelled,2026-03-27,2026-03-27
+M01394,2024-07-27,Monthly,25-34,Hillcrest,active,,2024-11-16
+M01395,4 Jul 2024,Monthly,35-44,Southside,Cancelled,2025-09-19,2025-09-19
+M01396,21/12/2025,Annual,25 - 34,City Centre,Cancelled,2026-07-26,2026-07-26
+M01398,2025-09-11,Monthly,55-64,Southside,CANCELLED,2025-11-05,2025-11-05
+M01399,2024-11-27,Annual,45-54,Eastside,active,,2026-07-01
+M01400,2024-11-26,ANNUAL,25-34,Northfield,active,,2025-07-11
+M01401,31/12/2024,Monthly,25-34,Northfield,ACTIVE,,2026-08-08
+M01402,24/03/2026,Annual ,,Westgate,active,,2026-07-16
+M01405,07/02/2026,Annual,55-64,Southside,active,,2026-04-17
+M01406,2026-05-13,Monthly,35 - 44,Eastside,active,,2026-05-25
+M01407,6 Jul 2026,Monthly,45-54,Westgate,active,,2026-08-03
+M01408,20/02/2026,Annual,35-44,Northfield,active,,2026-04-30
+M01409,25/12/2025,Monthly,35-44,Southside,active,,2026-03-11
+M01410,2024-06-08,Annual,55-64,Waterside,active,,2025-07-18
+M01411,13/10/2024,Monthly,35-44,Southside,active,,2025-01-13
+M01412,2026-04-06,Annual,25-34,Eastside,cancelled,2026-07-12,2026-07-12
+M01413,2025-02-17,Monthly,45-54,Northfield,active,,2026-02-03
+M01414,2024-02-28,monthly,25-34,Northfield,cancelled,2026-07-20,2026-07-20
+M01415,2024-04-10,Monthly,55-64,Westgate,Cancelled,2026-01-31,2026-01-31
+M01416,26/09/2024,Annual,25-34,Northfield,active,,2026-01-15
+M01417,2025-05-14,Monthly,45-54,Southside,cancelled,2026-05-22,2026-05-22
+M01419,23 Sep 2024,monthly,35-44,Northfield,active,,2026-08-29
+M01420,22/07/2025,Monthly,25-34,Southside,cancelled,2026-07-20,2026-07-20
+M01421,2025-09-07,Annual,16-24,Eastside,active,,2026-06-17
+M01423,29/10/2025,Monthly,25-34,Eastside,cancelled,2026-02-25,2026-02-25
+M01424,04/11/2024,Annual ,25-34,Fernhill,CANCELLED,2026-06-14,2026-06-14
+M01425,2025-05-08,Monthly,25-34,Northfield,cancelled,2025-11-22,2025-11-22
+M01426,4 Apr 2025,Monthly,25-34,Northfield,active,,2025-05-19
+M01427,2025-09-20,MONTHLY,65+,Eastside,active,,2026-02-18
+M01428,2024-11-26,Staff,16-24,Westgate,active,,2025-04-18
+M01429,10 Apr 2026,Monthly,25-34,Southside,active,,2026-06-09
+M01430,16/03/2025,Monthly,25-34,Northfield,active,,2025-11-14
+M01431,2024-11-28,Annual,65+,Northfield,active,,2025-08-06
+M01432,2026-01-01,Monthly,65+,Westgate,CANCELLED,2026-03-15,2026-03-15
+M01433,23/04/2025,Monthly,25-34,Eastside,active,,2025-12-20
+M01434,2026-05-10,Annual,16-24,Westgate,active,,2026-06-18
+M01435,30/05/2026,Monthly,16-24,University,active,,2026-06-14
+M01436,2024-11-22,Annual,25-34,Eastside,Active,,2026-04-01
+M01437,06/07/2025,annual,55-64,Eastside,Active,,2026-08-17
+M01438,2026-02-26,Monthly,65+,Fernhill,Active,,2026-05-16
+M01439,20 Aug 2024,Monthly,16-24,Southside,active,,2025-02-20
+M01440,6 Aug 2026,Monthly,45-54,Fernhill,ACTIVE,,2026-08-27
+M01441,2026-04-13,Annual,16-24,Southside,active,,2026-07-05
+M01442,3 Sep 2025,Annual,16-24,University,active,,2025-12-08
+M01443,2024-01-07,Annual,35-44,City Centre,active,,2025-10-02
+M01444,2024-08-13,Monthly,16-24,University,cancelled,2026-02-20,2026-02-20
+M01445,21/09/2024,Annual,35-44,Southside,cancelled,2026-08-02,2026-08-02
+M01446,15/04/2025,monthly,35-44,Southside,cancelled,2026-06-24,2026-06-24
+M01447,18 Feb 2026,Annual,25-34,Northfield,active,,2026-02-24
+M01448,2024-04-06,Annual,25-34,City Centre,active,,2025-07-22
+M01449,2024-07-03,Monthly,35-44,Southside,active,,2024-09-06
+M01450,2025-02-25,monthly,45-54,Southside,cancelled,2026-08-18,2026-08-18
+M01451,16 Sep 2025,Monthly,55-64,Westgate,Cancelled,2026-08-17,2026-08-17
+M01453,2025-04-19,MONTHLY,35-44,City Centre,ACTIVE,,2025-06-13
+M01454,2024-10-13,monthly,45-54,Hillcrest,CANCELLED,2026-08-07,2026-08-07
+M01455,2024-12-01,Monthly,55-64,Northfield,cancelled,2025-08-01,2025-08-01
+M01456,2024-06-01,Annual,45-54,Eastside,cancelled,2026-04-16,2026-04-16
+M01457,13 Jan 2024,Annual,16-24,University,active,,2026-01-07
+M01458,2024-02-02,Monthly,35-44,Waterside,cancelled,2025-02-13,2025-02-13
+M01459,2026-08-03,Monthly,25-34,Westgate,active,,2026-08-18
+M01460,2026-04-09,Monthly,35-44,Westgate,cancelled,2026-06-13,2026-06-13
+M01461,2024-01-15,Monthly,45-54,Westgate,active,,2026-03-03
+M01462,12/03/2025,Monthly,16-24,Westgate,ACTIVE,,2025-10-28
+M01463,21/12/2025,Annual,16-24,University,active,,2026-02-26
+M01464,2024-12-16,Monthly,65+,Westgate,cancelled,2026-02-24,2026-02-24
+M01465,04/06/2026,Monthly,35-44,Southside,active,,2026-08-01
+M01466,11 Jul 2026,Annual,25-34,Northfield,ACTIVE,,2026-08-29
+M01467,06/04/2024,Monthly,,City Centre,Active,,2025-12-27
+M01468,2025-01-15,Annual,65+,Northfield,active,,2026-05-31
+M01469,2024-01-14,monthly,25-34,Fernhill,ACTIVE,,2024-07-10
+M01470,21/03/2024,Monthly,65+,Waterside,active,,2026-01-11
+M01471,22/03/2024,ANNUAL,25-34,Northfield,Active,,2024-04-15
+M01472,29 Aug 2024,Monthly,45-54,Hillcrest,active,,2024-09-05
+M01473,2025-07-29,Monthly,35-44,Northfield,CANCELLED,2026-07-02,2026-07-02
+M01474,28 Jun 2026,Annual,45-54,Eastside,ACTIVE,,2026-06-30
+M01475,5 May 2025,Monthly,45-54,Northfield,ACTIVE,,2026-05-09
+M01476,2024-09-23,Annual,,Southside,Active,,2026-04-18
+M01477,11/08/2025,Annual,25-34,Northfield,active,,2026-08-02
+M01478,22 Jan 2026,Annual ,55-64,Eastside,active,,2026-08-09
+M01479,05/06/2026,monthly,16-24,University,cancelled,2026-07-09,2026-07-09
+M01480,18 Sep 2025,Annual ,,University,Active,,2026-04-19
+M01481,2025-12-10,Monthly,25-34,Northfield,cancelled,2026-04-25,2026-04-25
+M01482,14/12/2024,Monthly,16-24,University,active,,2026-01-09
+M01483,2025-06-20,Annual ,55-64,Northfield,active,,2026-06-09
+M01484,2026-03-27,ANNUAL,16 - 24,University,active,,2026-04-20
+M01485,08/07/2025,Annual,45-54,Westgate,cancelled,2026-03-08,2026-03-08
+M01486,2025-07-24,Monthly,16-24,University,cancelled,2026-07-02,2026-07-02
+M01487,23/03/2026,Annual,35-44,Northfield,CANCELLED,2026-05-23,2026-05-23
+M01488,2025-12-19,Annual,,Northfield,ACTIVE,,2026-03-24
+M01489,2025-11-11,Monthly,25-34,Hillcrest,Active,,2026-03-22
+M01490,2025-05-12,Monthly,,Eastside,ACTIVE,,2026-07-14
+M01491,2026-03-29,Monthly,45-54,City Centre,cancelled,2026-05-05,2026-05-05
+M01492,31/07/2026,Monthly,16-24,Southside,Active,,2026-08-03
+M01493,08/10/2024,monthly,35-44,Westgate,Active,,2026-04-03
+M01494,04/07/2026,Annual ,55-64,Eastside,active,,2026-08-05
+M01495,14/04/2024,Monthly,16-24,University,Active,,2025-07-31
+M01496,2026-08-27,Monthly,25-34,Hillcrest,active,,2026-08-28
+M01497,2025-01-23,Annual,35-44,Westgate,Active,,2025-08-14
+M01498,2024-02-14,Annual,,Fernhill,Active,,2024-09-25
+M01499,2026-04-07,Annual,45-54,Westgate,active,,2026-08-19
+M01500,13 Jun 2026,Annual,,Eastside,ACTIVE,,2026-08-13
+M01501,2025-09-15,Monthly,35-44,Eastside,active,,2026-04-08
+M01502,2025-04-30,Monthly,16-24,Westgate,cancelled,2026-07-05,2026-07-05
+M01504,2024-05-29,Annual,35-44,Hillcrest,cancelled,2025-05-06,2025-05-06
+M01505,18/05/2026,Monthly,45-54,Waterside,cancelled,2026-08-06,2026-08-06
+M01506,14 Jan 2025,Annual,25-34,City Centre,CANCELLED,2025-08-11,2025-08-11
+M01507,26 Jun 2025,ANNUAL,45-54,Southside,cancelled,2025-08-18,2025-08-18
+M01508,2024-01-08,MONTHLY,35-44,Westgate,cancelled,2026-06-17,2026-06-17
+M01509,2025-05-03,Monthly,16-24,Westgate,active,,2025-05-15
+M01510,2024-11-12,Annual,,Westgate,active,,2025-03-03
+M01511,7 Apr 2024,monthly,35-44,Northfield,cancelled,2026-04-30,2026-04-30
+M01512,2024-07-26,monthly,16-24,University,Active,,2025-04-12
+M01513,12/03/2026,Annual,35-44,Hillcrest,active,,2026-08-22
+M01514,03/08/2026,Annual,35-44,Eastside,ACTIVE,,2026-08-13
+M01515,26/03/2026,Monthly,25-34,Fernhill,ACTIVE,,2026-07-24
+M01516,15/11/2025,Monthly ,16-24,Southside,cancelled,2025-12-29,2025-12-29
+M01517,2026-03-18,Monthly ,,Hillcrest,cancelled,2026-05-29,2026-05-29
+M01518,2026-07-14,Annual,,Southside,Active,,2026-08-04
+M01520,01/09/2025,Monthly,25-34,Southside,active,,2026-01-14
+M01521,2026-07-21,Monthly,16-24,University,ACTIVE,,2026-07-23
+M01522,2025-09-21,Monthly,55-64,Eastside,active,,2025-12-31
+M01523,13 Jul 2026,Monthly,35-44,City Centre,active,,2026-08-19
+M01524,2025-05-14,Annual,,Northfield,active,,2025-05-14
+M01525,2026-04-09,Monthly,25-34,Northfield,active,,2026-07-15
+M01526,2026-01-16,Annual,35-44,City Centre,ACTIVE,,2026-08-24
+M01527,5 Nov 2024,Annual,45 - 54,Southside,cancelled,2026-02-28,2026-02-28
+M01528,23 Nov 2024,Monthly ,16-24,University,Cancelled,2025-02-06,2025-02-06
+M01529,2025-09-21,Annual,25-34,Waterside,active,,2026-07-20
+M01530,2026-02-18,Annual,16-24,University,ACTIVE,,2026-06-01
+M01531,2026-04-18,Monthly,65+,Hillcrest,Active,,2026-07-03
+M01532,2026-07-19,Annual,35-44,Westgate,ACTIVE,,2026-07-24
+M01533,05/02/2024,Annual,16-24,Westgate,active,,2024-03-10
+M01534,2025-01-09,Monthly,,Northfield,cancelled,2025-09-20,2025-09-20
+M01535,27/07/2024,annual,65+,Southside,ACTIVE,,2025-07-24
+M01536,17/03/2026,Annual,,Eastside,Active,,2026-03-25
+M01538,2025-07-26,Monthly,35 - 44,Eastside,active,,2025-10-26
+M01539,03/12/2025,Annual,35-44,Westgate,Cancelled,2026-01-24,2026-01-24
+M01540,2025-12-24,Monthly,55-64,Eastside,ACTIVE,,2026-04-12
+M01541,16/06/2025,ANNUAL,25-34,University,cancelled,2025-10-27,2025-10-27
+M01542,07/05/2024,Monthly,35-44,Eastside,active,,2024-11-10
+M01543,08/08/2025,Monthly,55-64,Fernhill,Active,,2026-05-07
+M01544,18/01/2024,Annual,45-54,Fernhill,active,,2025-07-20
+M01545,2024-07-18,monthly,,Westgate,cancelled,2026-06-14,2026-06-14
+M01546,02/06/2025,annual,65+,Hillcrest,active,,2025-07-15
+M01547,13 Nov 2024,monthly,45-54,Southside,cancelled,2026-03-11,2026-03-11
+M01548,2026-08-28,Monthly,16-24,University,active,,2026-08-28
+M01549,2026-06-04,Annual,25-34,Fernhill,active,,2026-07-20
+M01550,2024-11-13,Annual,25-34,Eastside,active,,2025-10-03
+M01551,2 Aug 2025,Annual,35-44,Northfield,active,,2025-09-22
+M01552,2024-02-21,Annual,45-54,Eastside,active,,2026-06-06
+M01553,14/01/2024,Annual,25-34,Southside,active,,2024-08-04
+M01554,21/05/2024,Monthly,16-24,Westgate,Active,,2025-06-07
+M01555,23 Apr 2026,MONTHLY,55-64,Southside,active,,2026-04-28
+M01557,2025-06-23,Annual ,16-24,Westgate,ACTIVE,,2025-12-30
+M01558,6 Jul 2026,Annual,65+,Southside,active,,2026-07-24
+M01559,2026-06-30,Monthly,25-34,Eastside,active,,2026-08-25
+M01561,22/06/2024,Monthly ,55-64,Eastside,Active,,2026-08-12
+M01562,2025-11-22,Monthly ,25-34,Northfield,active,,2025-12-14
+M01563,27/01/2024,MONTHLY,35-44,Westgate,Active,,2025-10-01
+M01564,1 Feb 2026,Monthly,16-24,University,Active,,2026-08-11
+M01566,14/01/2026,Annual ,25-34,Northfield,Active,,2026-06-08
+M01567,20/05/2024,annual,65+,Westgate,active,,2025-01-21
+M01568,2024-04-22,Annual,25-34,Northfield,active,,2025-06-11
+M01569,13 Aug 2024,Monthly,65+,Northfield,active,,2024-09-03
+M01570,13 May 2025,Monthly,35-44,Northfield,cancelled,2026-06-18,2026-06-18
+M01571,2024-11-29,Monthly ,35-44,Westgate,active,,2024-11-30
+M01572,16/12/2024,Monthly,16-24,Westgate,active,,2026-03-03
+M01573,08/03/2025,Annual ,35-44,Eastside,ACTIVE,,2026-04-02
+M01574,14/02/2026,Monthly,35-44,Northfield,active,,2026-05-31
+M01575,26/04/2025,Annual,,Eastside,active,,2026-05-21
+M01577,22 Apr 2026,Monthly,55-64,Northfield,active,,2026-08-28
+M01578,2025-01-26,MONTHLY,25-34,Southside,Cancelled,2026-05-23,2026-05-23
+M01579,2024-03-13,MONTHLY,16-24,Westgate,active,,2024-03-21
+M01580,2025-08-24,Monthly,,Westgate,cancelled,2026-01-13,2026-01-13
+M01581,2025-08-17,Annual,25-34,University,ACTIVE,,2025-09-23
+M01582,18 Jun 2025,Annual ,16-24,Northfield,Active,,2025-11-22
+M01585,13/02/2024,monthly,25-34,Westgate,active,,2026-01-30
+M01586,12/11/2025,Annual,16-24,Westgate,Cancelled,2025-12-23,2025-12-23
+M01588,2026-04-01,Annual,55-64,Westgate,active,,2026-08-17
+M01589,2026-07-16,ANNUAL,35-44,Northfield,ACTIVE,,2026-07-30
+M01590,2024-03-02,Annual,55-64,Northfield,active,,2025-11-25
+M01591,2025-06-23,Monthly,35 - 44,Eastside,cancelled,2026-02-19,2026-02-19
+M01592,2026-05-06,Annual,45-54,Northfield,Active,,2026-08-11
+M01593,18 Mar 2026,Monthly,25-34,Waterside,active,,2026-05-02
+M01594,2026-08-23,Annual,65+,Southside,ACTIVE,,2026-08-25
+M01595,04/04/2026,Annual,,Northfield,active,,2026-04-18
+M01596,2025-09-07,Annual,16 - 24,University,ACTIVE,,2026-07-23
+M01597,2025-05-31,Monthly,35-44,Southside,cancelled,2026-05-22,2026-05-22
+M01598,2025-10-19,Monthly,,Northfield,cancelled,2026-02-27,2026-02-27
+M01599,10/03/2026,Monthly,25-34,Northfield,Active,,2026-04-19
+M01600,2024-11-25,Monthly ,25 - 34,Southside,active,,2026-08-26
+M01601,18 Jan 2025,MONTHLY,55-64,Hillcrest,active,,2026-05-02
+M01602,2025-03-20,Monthly,35-44,Southside,active,,2025-10-28
+M01604,2025-03-18,Monthly,16-24,University,cancelled,2026-06-30,2026-06-30
+M01605,12/09/2025,Monthly ,25-34,Southside,cancelled,2025-11-01,2025-11-01
+M01606,02/11/2024,Annual,35-44,City Centre,active,,2024-11-12
+M01607,2026-04-30,Annual,35-44,Southside,active,,2026-06-30
+M01608,2024-04-20,Monthly ,35-44,City Centre,ACTIVE,,2025-01-02
+M01609,23/06/2025,Monthly,35-44,Eastside,Cancelled,2026-05-12,2026-05-12
+M01610,25 Feb 2026,Annual,45-54,Southside,ACTIVE,,2026-03-19
+M01611,2026-06-01,Annual,35-44,Eastside,cancelled,2026-07-30,2026-07-30
+M01612,4 Aug 2024,Annual,35-44,City Centre,cancelled,2025-02-28,2025-02-28
+M01613,2025-03-04,Monthly ,35-44,Eastside,cancelled,2025-08-13,2025-08-13
+M01614,4 Jan 2025,Monthly,16-24,Northfield,active,,2025-01-04
+M01614,4 Jan 2025,Annual,16-24,Northfield,active,,2026-03-26
+M01615,04/05/2024,Monthly,25-34,Westgate,cancelled,2026-03-08,2026-03-08
+M01616,2025-01-08,Annual,35-44,Hillcrest,Cancelled,2025-05-11,2025-05-11
+M01617,2025-03-30,Monthly,25-34,Eastside,ACTIVE,,2026-01-14
+M01618,2026-08-01,Monthly,35-44,City Centre,active,,2026-08-15
+M01619,23/02/2026,annual,25-34,City Centre,active,,2026-08-06
+M01620,2024-10-03,monthly,65+,Southside,ACTIVE,,2026-08-15
+M01621,2025-07-17,Monthly,16-24,University,Active,,2025-07-28
+M01622,18/06/2025,Monthly,16-24,Northfield,cancelled,2026-06-01,2026-06-01
+M01623,14/04/2024,Monthly,16-24,Southside,active,,2025-09-26
+M01624,10/09/2025,monthly,25-34,Southside,ACTIVE,,2025-10-01
+M01625,27 Jan 2026,Annual,16-24,Northfield,active,,2026-04-18
+M01626,23 Aug 2024,Annual,25-34,Northfield,active,,2024-12-17
+M01627,2024-03-17,Annual,25-34,Eastside,active,,2024-05-10
+M01628,15/11/2025,Monthly,25-34,Northfield,active,,2025-11-15
+M01628,15/11/2025,Annual,25-34,Northfield,active,,2026-07-08
+M01629,27 Jul 2026,Annual,35 - 44,Northfield,cancelled,2026-08-23,2026-08-23
+M01630,2024-01-17,Annual,16-24,Westgate,active,,2024-11-26
+M01631,2026-04-08,Annual,35-44,Fernhill,active,,2026-07-16
+M01632,22/09/2024,ANNUAL,45-54,Hillcrest,active,,2026-04-23
+M01633,2026-03-25,Monthly,16-24,Westgate,cancelled,2026-05-22,2026-05-22
+M01634,2024-10-29,Annual,45-54,Fernhill,Active,,2026-08-01
+M01635,28 Nov 2024,Monthly,25-34,University,cancelled,2026-07-11,2026-07-11
+M01636,11/02/2024,Annual,16 - 24,City Centre,Active,,2024-05-19
+M01637,03/06/2026,Monthly,25-34,Southside,cancelled,2026-07-10,2026-07-10
+M01638,4 Apr 2026,MONTHLY,25-34,Southside,active,,2026-07-30
+M01639,03/01/2026,Monthly,25-34,City Centre,ACTIVE,,2026-05-15
+M01640,06/08/2024,Monthly,45-54,Southside,Active,,2025-10-04
+M01641,2026-08-25,Monthly,35-44,Northfield,active,,2026-08-31
+M01642,6 May 2024,Annual,25-34,Eastside,active,,2025-10-20
+M01643,2025-01-25,Monthly,45-54,Hillcrest,active,,2026-05-17
+M01644,2026-04-10,Annual,25-34,Eastside,active,,2026-08-24
+M01645,2024-05-05,Monthly ,45-54,City Centre,ACTIVE,,2025-11-27
+M01646,2024-02-08,Monthly,25-34,Westgate,CANCELLED,2026-04-08,2026-04-08
+M01647,2025-11-14,Annual,35-44,Fernhill,active,,2026-01-15
+M01648,30/07/2025,Annual,25-34,Southside,active,,2026-03-29
+M01649,16/08/2024,Annual,,Southside,Cancelled,2025-11-02,2025-11-02
+M01650,29/11/2025,Monthly,65+,Southside,ACTIVE,,2026-03-09
+M01651,2025-07-26,Annual,65+,Southside,Active,,2026-01-18
+M01652,5 Aug 2026,Annual,,Waterside,active,,2026-08-18
+M01653,02/07/2026,Monthly,65+,Waterside,cancelled,2026-07-30,2026-07-30
+M01654,1 Dec 2024,monthly,35-44,City Centre,active,,2026-08-30
+M01655,08/04/2026,Monthly,55-64,Northfield,active,,2026-04-13
+M01656,09/02/2024,Monthly ,55-64,Eastside,active,,2024-05-29
+M01658,16/01/2024,Annual,35-44,Northfield,active,,2024-01-28
+M01659,2026-03-15,Annual ,35-44,Eastside,active,,2026-05-15
+M01660,15/06/2026,Monthly,55-64,City Centre,active,,2026-06-23
+M01661,2024-12-29,Annual,25-34,Southside,cancelled,2026-03-25,2026-03-25
+M01662,2024-08-29,ANNUAL,16-24,University,Active,,2026-03-26
+M01663,2025-09-29,Annual,45-54,Northfield,CANCELLED,2026-07-26,2026-07-26
+M01664,06/12/2025,Monthly,35-44,Eastside,cancelled,2026-01-16,2026-01-16
+M01665,25 Feb 2024,Monthly,25-34,Westgate,active,,2025-01-25
+M01667,25/10/2024,Monthly,55-64,Northfield,active,,2026-05-19
+M01668,2024-10-08,Monthly,45-54,Westgate,cancelled,2026-08-12,2026-08-12
+M01669,2024-12-29,Monthly,65+,Northfield,active,,2025-09-07
+M01670,2024-12-31,Monthly,16-24,University,active,,2025-09-01
+M01671,2026-02-16,annual,35-44,Waterside,ACTIVE,,2026-02-26
+M01672,2026-01-29,Annual,25-34,Southside,ACTIVE,,2026-02-16
+M01673,17 Jun 2026,Monthly,16-24,Northfield,Active,,2026-07-15
+M01674,2026-05-19,Annual,35-44,Southside,active,,2026-07-01
+M01675,2026-07-02,Monthly,,Northfield,active,,2026-08-07
+M01676,16/10/2024,Annual,35-44,Fernhill,active,,2025-01-16
+M01677,2025-01-28,Monthly,45-54,Fernhill,ACTIVE,,2025-04-18
+M01678,2025-08-12,Monthly,25-34,Northfield,active,,2026-06-15
+M01679,2026-05-08,Monthly,25-34,Northfield,active,,2026-08-31
+M01680,2025-01-04,Monthly,25-34,University,active,,2026-01-02
+M01681,24/12/2024,Monthly,55 - 64,City Centre,Active,,2026-08-10
+M01682,18/08/2026,Annual,35-44,Eastside,active,,2026-08-20
+M01683,27/04/2024,Monthly,25-34,Waterside,cancelled,2025-10-07,2025-10-07
+M01684,26 Mar 2024,Monthly,55-64,Northfield,Cancelled,2026-06-08,2026-06-08
+M01685,2026-04-25,annual,16-24,University,ACTIVE,,2026-08-04
+M01686,2024-09-17,Annual,55-64,Southside,ACTIVE,,2025-05-01
+M01687,12/09/2025,Annual,45-54,Northfield,active,,2026-04-27
+M01688,27/09/2024,Monthly,25-34,Westgate,active,,2024-09-27
+M01688,27/09/2024,Annual,25-34,Westgate,active,,2025-10-11
+M01689,10 Apr 2024,Monthly,25-34,Eastside,ACTIVE,,2026-02-04
+M01690,2026-07-16,Monthly,45-54,Eastside,ACTIVE,,2026-08-26
+M01691,2024-11-04,Monthly,25-34,Northfield,cancelled,2026-04-19,2026-04-19
+M01692,2025-08-03,Annual,25-34,Eastside,active,,2025-10-17
+M01693,2025-12-11,monthly,25-34,Hillcrest,Active,,2026-04-13
+M01694,08/07/2026,Annual,65+,Southside,active,,2026-08-31
+M01695,2025-09-22,Annual,45-54,City Centre,active,,2026-03-02
+M01696,2025-08-21,Annual ,45-54,Eastside,ACTIVE,,2026-08-23
+M01697,2024-02-23,Annual,25-34,Westgate,Active,,2026-05-23
+M01698,19 Jun 2026,monthly,65+,Southside,CANCELLED,2026-07-19,2026-07-19
+M01699,2025-05-10,Annual,25-34,Southside,active,,2025-06-15
+M01700,2025-08-16,Annual ,35 - 44,Eastside,Active,,2025-12-11
+M01701,2024-09-05,Monthly,35-44,Southside,active,,2024-12-27
+M01702,2025-03-23,Monthly,45-54,Northfield,cancelled,2025-05-01,2025-05-01
+M01703,2024-04-25,Annual,55-64,Southside,active,,2026-05-29
+M01704,22 Jul 2026,annual,45-54,Northfield,active,,2026-08-10
+M01705,2026-08-25,Annual,25-34,Eastside,active,,2026-08-30
+M01706,05/05/2025,Monthly,25-34,Eastside,cancelled,2026-05-13,2026-05-13
+M01707,3 Dec 2025,Annual,35-44,Southside,ACTIVE,,2026-02-28
+M01708,01/07/2026,Annual,55-64,Eastside,active,,2026-07-12
+M01709,24/05/2026,Annual,16 - 24,Waterside,active,,2026-06-16
+M01710,2024-05-30,Annual,35-44,City Centre,Cancelled,2026-07-19,2026-07-19
+M01711,2024-07-09,Annual,35 - 44,Waterside,cancelled,2025-04-05,2025-04-05
+M01712,2024-05-02,Monthly,35-44,Fernhill,Active,,2026-04-11
+M01713,2026-05-29,Annual,16-24,Hillcrest,ACTIVE,,2026-08-29
+M01714,24 Aug 2026,monthly,16-24,Westgate,active,,2026-08-30
+M01715,16/10/2024,Annual,25-34,City Centre,active,,2026-08-25
+M01716,06/05/2025,Monthly,55-64,Northfield,active,,2025-08-26
+M01717,06/07/2024,Annual,55-64,City Centre,active,,2025-12-01
+M01718,13 Dec 2025,MONTHLY,25-34,Northfield,active,,2026-03-08
+M01719,2025-12-22,ANNUAL,16-24,Hillcrest,ACTIVE,,2026-07-01
+M01720,2024-03-09,monthly,16-24,University,active,,2026-02-19
+M01721,25/02/2024,annual,25-34,Eastside,cancelled,2025-01-31,2025-01-31
+M01722,2025-02-12,Annual,25-34,Northfield,active,,2025-08-16
+M01723,2024-03-10,Annual,45-54,Northfield,active,,2026-05-04
+M01724,2025-05-02,Monthly,45-54,Waterside,ACTIVE,,2025-05-22
+M01726,15/02/2024,Monthly ,55-64,Northfield,active,,2026-04-04
+M01727,2024-06-23,Annual,55 - 64,Northfield,cancelled,2026-06-14,2026-06-14
+M01728,12/02/2025,Monthly,16-24,Westgate,active,,2026-04-27
+M01729,2025-10-27,Monthly,16-24,Hillcrest,cancelled,2026-06-30,2026-06-30
+M01730,2025-01-21,Monthly,35-44,Eastside,active,,2025-09-04
+M01731,03/11/2024,Monthly,16-24,University,active,,2026-02-14
+M01732,31 Mar 2025,Monthly,25 - 34,University,active,,2025-05-22
+M01733,2026-01-09,Monthly,25-34,Eastside,active,,2026-03-25
+M01734,2026-06-04,Annual,35-44,Northfield,Active,,2026-06-28
+M01735,19/11/2025,ANNUAL,16-24,University,active,,2026-08-04
+M01736,6 May 2026,Monthly,25-34,Northfield,Active,,2026-06-20
+M01738,2024-05-10,Annual,25-34,Westgate,active,,2025-07-09
+M01739,25 Jan 2025,Monthly,16-24,Westgate,cancelled,2026-06-18,2026-06-18
+M01740,2 Aug 2025,annual,55-64,Northfield,cancelled,2025-09-24,2025-09-24
+M01741,2025-11-21,Annual,16-24,University,Active,,2026-03-20
+M01742,2025-01-09,Annual,45-54,Fernhill,cancelled,2025-09-06,2025-09-06
+M01743,5 Jul 2026,Monthly,25-34,Fernhill,active,,2026-08-01
+M01744,2025-08-09,Monthly,35-44,Eastside,active,,2026-06-19
+M01745,2025-12-31,Monthly,35-44,Eastside,Active,,2026-05-26
+M01746,22 May 2025,MONTHLY,45 - 54,Eastside,cancelled,2025-08-15,2025-08-15
+M01747,2025-06-29,Annual,35-44,Eastside,active,,2026-07-26
+M01749,2025-09-26,Monthly,45-54,Westgate,ACTIVE,,2026-05-19
+M01750,12/09/2025,Annual,,Northfield,active,,2026-03-18
+M01751,11/04/2025,Annual,25-34,Northfield,active,,2026-03-08
+M01752,2024-02-04,Monthly,25-34,Northfield,active,,2024-02-04
+M01752,2024-02-04,Annual,25-34,Northfield,Active,,2025-03-24
+M01754,02/02/2024,Monthly,35-44,Northfield,cancelled,2026-05-10,2026-05-10
+M01755,10 Mar 2026,Monthly,16 - 24,University,active,,2026-04-09
+M01756,2026-08-18,ANNUAL,35-44,Westgate,active,,2026-08-18
+M01757,2026-07-23,ANNUAL,25-34,City Centre,Active,,2026-08-08
+M01758,2025-08-31,Monthly,55-64,City Centre,Cancelled,2025-11-02,2025-11-02
+M01759,30 Sep 2025,Monthly,16-24,Hillcrest,ACTIVE,,2026-06-07
+M01760,19 Aug 2025,ANNUAL,55-64,Hillcrest,active,,2026-01-12
+M01761,1 Jan 2025,Annual,35-44,Waterside,cancelled,2025-10-27,2025-10-27
+M01762,2025-06-06,Monthly,16-24,Hillcrest,active,,2026-01-22
+M01763,2025-10-14,Monthly,16-24,University,active,,2026-04-12
+M01764,18/02/2025,Annual,45-54,Northfield,Cancelled,2025-05-26,2025-05-26
+M01765,2025-02-12,Annual,45-54,Eastside,active,,2026-05-09
+M01767,09/03/2026,Monthly,65+,Northfield,ACTIVE,,2026-05-04
+M01768,2026-02-05,Monthly,16-24,Eastside,active,,2026-07-04
+M01769,09/05/2025,Annual,35-44,Eastside,Active,,2026-05-08
+M01770,08/10/2024,Annual,65+,City Centre,active,,2026-05-19
+M01771,7 May 2024,Monthly,55-64,Southside,cancelled,2026-06-26,2026-06-26
+M01772,2026-07-11,Annual,,City Centre,active,,2026-08-13
+M01773,2024-01-20,Annual ,55-64,Southside,Active,,2026-04-07
+M01774,2024-09-21,Annual,65+,Eastside,active,,2025-01-29
+M01775,2025-10-18,Annual,25-34,University,active,,2026-03-01
+M01776,2024-06-15,Monthly,55-64,Northfield,Active,,2025-02-16
+M01777,27 Aug 2025,Monthly,65+,Northfield,CANCELLED,2026-08-09,2026-08-09
+M01779,02/10/2024,Annual,45-54,Southside,active,,2026-08-16
+M01780,13/02/2024,Annual,55-64,Northfield,active,,2024-06-05
+M01781,2024-01-25,Monthly,16-24,Westgate,active,,2026-04-08
+M01782,03/01/2026,Monthly,16-24,University,cancelled,2026-03-11,2026-03-11
+M01783,2024-06-30,Monthly,16-24,Westgate,active,,2026-05-06
+M01784,2025-04-10,Monthly,65+,City Centre,active,,2025-11-09
+M01785,12/05/2025,Annual,55-64,Northfield,Active,,2026-01-07
+M01786,25 Nov 2025,monthly,55-64,Hillcrest,active,,2026-05-04
+M01787,25/10/2025,Annual,25-34,Westgate,active,,2025-11-09
+M01788,2026-04-27,Annual,65+,Southside,active,,2026-05-22
+M01789,2026-05-03,monthly,25-34,Westgate,active,,2026-06-24
+M01790,20/06/2026,Monthly,16-24,Eastside,active,,2026-08-29
+M01791,2025-01-24,Monthly,35-44,Hillcrest,Cancelled,2025-09-01,2025-09-01
+M01792,2026-03-01,Annual ,35-44,City Centre,active,,2026-05-29
+M01793,23/03/2026,MONTHLY,,Eastside,active,,2026-05-14
+M01794,2026-06-08,MONTHLY,35-44,Northfield,Active,,2026-08-17
+M01795,08/10/2024,Monthly,35-44,Fernhill,ACTIVE,,2024-12-11
+M01796,2024-01-20,Annual,55-64,Westgate,active,,2024-01-23
+M01797,28 Aug 2025,Monthly,35 - 44,Eastside,cancelled,2026-05-13,2026-05-13
+M01798,2024-06-02,ANNUAL,25-34,Westgate,Active,,2025-06-16
+M01799,2024-07-25,Monthly,45-54,Fernhill,Active,,2025-12-28
+M01800,14/08/2024,Annual,16-24,Eastside,active,,2026-05-27
+M01801,19 Aug 2024,Annual,35-44,Eastside,ACTIVE,,2026-04-16
+M01802,2024-07-27,Monthly ,35-44,Hillcrest,cancelled,2026-06-17,2026-06-17
+M01803,4 Jun 2026,Annual,45-54,Eastside,active,,2026-08-18
+M01804,10 Mar 2024,Monthly,55-64,Northfield,active,,2025-01-22
+M01805,2024-12-17,Annual ,35-44,Eastside,active,,2026-05-05
+M01806,18 May 2026,Monthly,45-54,Eastside,ACTIVE,,2026-08-15
+M01807,11 Oct 2025,Annual,45-54,City Centre,Cancelled,2025-11-23,2025-11-23
+M01808,2024-06-23,Monthly,35-44,Southside,active,,2026-01-31
+M01809,22/10/2025,ANNUAL,35-44,Hillcrest,active,,2026-07-06
+M01810,16/09/2025,Annual,16-24,University,active,,2026-01-26
+M01811,13 Apr 2024,Monthly,16-24,Westgate,cancelled,2026-07-12,2026-07-12
+M01812,2024-01-28,Monthly,55-64,Northfield,cancelled,2025-01-03,2025-01-03
+M01813,2025-12-23,Monthly,16-24,University,active,,2026-07-30
+M01814,2024-01-30,Monthly ,65+,Northfield,active,,2025-05-01
+M01815,2024-07-21,Annual,25-34,Southside,cancelled,2026-06-29,2026-06-29
+M01816,2025-10-29,Annual,25-34,City Centre,active,,2025-10-31
+M01817,2024-01-22,ANNUAL,55-64,Eastside,active,,2024-01-26
+M01818,2026-02-14,ANNUAL,55-64,Northfield,active,,2026-08-01
+M01819,05/07/2025,Annual,25-34,Waterside,active,,2026-04-08
+M01820,20/02/2025,ANNUAL,35-44,Fernhill,cancelled,2025-11-15,2025-11-15
+M01821,2026-08-18,monthly,45-54,Waterside,active,,2026-08-31
+M01822,03/01/2026,Monthly,25-34,Westgate,active,,2026-01-20
+M01823,12 Jan 2024,monthly,16-24,Southside,Active,,2025-04-10
+M01824,22/11/2024,Annual,45-54,Southside,cancelled,2025-04-13,2025-04-13
+M01825,2025-05-25,Monthly,35-44,Westgate,active,,2026-06-22
+M01826,2026-02-07,Monthly,45-54,Southside,ACTIVE,,2026-02-22
+M01827,2024-02-19,Monthly,55-64,Northfield,active,,2024-04-21
+M01828,07/12/2025,Monthly,45-54,Hillcrest,Active,,2026-02-15
+M01829,2024-10-28,monthly,35-44,Northfield,ACTIVE,,2026-08-31
+M01830,2025-08-11,MONTHLY,25-34,Northfield,cancelled,2025-09-25,2025-09-25
+M01831,1 Aug 2024,Monthly,25-34,Southside,active,,2024-12-22
+M01832,2024-06-13,Monthly,55-64,Westgate,cancelled,2025-06-30,2025-06-30
+M01833,13/03/2025,Annual,25-34,Westgate,ACTIVE,,2026-08-28
+M01834,2025-07-26,Annual,25-34,Westgate,cancelled,2026-08-17,2026-08-17
+M01835,2025-05-10,monthly,65+,Southside,cancelled,2026-01-05,2026-01-05
+M01836,13/11/2024,Annual,55-64,Eastside,active,,2025-08-27
+M01837,2026-08-28,Annual,16-24,Hillcrest,active,,2026-08-28
+M01838,31/12/2025,Monthly,16-24,University,active,,2026-05-05
+M01839,2024-04-20,Annual,65+,Northfield,Active,,2025-11-11
+M01840,2025-05-16,Monthly,16-24,University,cancelled,2026-07-13,2026-07-13
+M01842,2026-05-29,Annual,55-64,Westgate,active,,2026-08-12
+M01843,2024-01-20,Monthly,25-34,Westgate,active,,2024-08-01
+M01844,15/05/2025,Monthly,65+,Hillcrest,Cancelled,2026-07-27,2026-07-27
+M01845,2026-05-16,ANNUAL,25-34,Northfield,active,,2026-07-22
+M01846,2024-08-19,Monthly ,,Southside,active,,2024-08-19
+M01847,10 Nov 2025,Monthly,16-24,Westgate,active,,2026-03-20
+M01848,20/09/2025,Monthly,25-34,Southside,Cancelled,2026-08-23,2026-08-23
+M01849,17 Aug 2026,MONTHLY,16 - 24,Northfield,Active,,2026-08-21
+M01850,17 Sep 2025,Monthly,35-44,Eastside,CANCELLED,2026-03-22,2026-03-22
+M01851,19 Dec 2024,annual,35-44,City Centre,cancelled,2025-10-13,2025-10-13
+M01852,2025-04-07,monthly,25-34,Eastside,cancelled,2025-06-10,2025-06-10
+M01853,2025-04-05,Monthly,25-34,Southside,active,,2025-04-05
+M01853,2025-04-05,Annual,25-34,Southside,active,,2026-04-23
+M01854,25 Jun 2025,Monthly,35-44,Northfield,Active,,2026-05-12
+M01855,2025-09-22,Monthly,16-24,Northfield,Active,,2025-11-11
+M01856,3 May 2026,Monthly,,Northfield,active,,2026-06-17
+M01857,2026-03-04,MONTHLY,35-44,Southside,active,,2026-08-24
+M01858,12/12/2025,Annual,35-44,Fernhill,active,,2026-03-05
+M01859,2024-05-10,Monthly,25-34,Southside,active,,2025-07-29
+M01860,2026-05-15,Monthly,45-54,Hillcrest,active,,2026-08-16
+M01861,2024-02-24,ANNUAL,45-54,Westgate,active,,2024-08-23
+M01862,14 May 2025,Monthly,45-54,Eastside,ACTIVE,,2026-07-08
+M01864,2024-12-02,ANNUAL,25-34,Northfield,active,,2026-06-27
+M01865,28/02/2024,Monthly,25-34,Southside,active,,2024-08-10
+M01866,13/09/2024,Annual,65+,Northfield,Cancelled,2024-12-21,2024-12-21
+M01867,27 Jun 2025,Annual,16-24,Eastside,active,,2025-12-08
+M01868,24/01/2024,Monthly,55-64,Eastside,active,,2025-11-10
+M01869,2025-09-10,Annual,45-54,City Centre,active,,2026-01-17
+M01870,2026-03-04,Annual,35 - 44,Southside,active,,2026-07-27
+M01871,14 May 2026,Monthly,25-34,City Centre,active,,2026-08-25
+M01872,4 May 2026,Annual,55-64,Hillcrest,active,,2026-06-10
+M01873,25 Feb 2024,Annual,25-34,Fernhill,ACTIVE,,2025-02-22
+M01874,2026-01-30,MONTHLY,45-54,City Centre,active,,2026-06-29
+M01876,08/11/2025,Monthly,25-34,Northfield,cancelled,2026-04-24,2026-04-24
+M01877,2026-04-20,annual,35-44,Northfield,active,,2026-05-16
+M01878,2026-07-04,Monthly,55-64,Hillcrest,Active,,2026-07-21
+M01879,2026-03-27,MONTHLY,35-44,Westgate,active,,2026-08-11
+M01880,2024-07-28,Monthly,35-44,Fernhill,active,,2025-02-08
+M01881,27/05/2026,Monthly,45-54,Northfield,ACTIVE,,2026-05-30
+M01882,2025-02-07,Annual,25-34,Southside,active,,2026-04-21
+M01883,05/01/2024,Monthly ,25-34,Eastside,ACTIVE,,2024-06-14
+M01886,20 Apr 2025,Monthly,25-34,University,Active,,2026-01-05
+M01887,2025-07-22,Monthly ,35-44,Hillcrest,CANCELLED,2026-06-23,2026-06-23
+M01888,25/04/2025,monthly,55-64,Westgate,Active,,2026-08-10
+M01890,26/12/2024,Monthly,65+,Northfield,cancelled,2026-07-13,2026-07-13
+M01891,16 Sep 2025,Annual,,Hillcrest,active,,2026-03-19
+M01892,13/10/2024,Annual,16-24,Eastside,Active,,2026-01-10
+M01894,01/08/2024,Monthly,,Northfield,active,,2024-12-03
+M01895,03/04/2024,Annual,45-54,Northfield,cancelled,2024-07-10,2024-07-10
+M01896,2026-06-24,Monthly,,Eastside,ACTIVE,,2026-08-31
+M01897,19/03/2025,Monthly,25-34,Northfield,ACTIVE,,2026-04-15
+M01898,2024-12-02,MONTHLY,55-64,Northfield,ACTIVE,,2025-01-04
+M01899,2025-09-14,Monthly,25-34,Eastside,cancelled,2026-07-16,2026-07-16
+M01900,2026-07-26,Annual,35-44,Southside,active,,2026-08-07
+M01901,2025-10-17,Monthly,35-44,Northfield,cancelled,2025-12-13,2025-12-13
+M01902,2026-08-22,ANNUAL,35-44,Westgate,active,,2026-08-24
+M01903,17/12/2024,Annual,65+,Eastside,active,,2026-06-16
+M01904,25 Apr 2026,Annual,45-54,Southside,ACTIVE,,2026-07-17
+M01905,2025-03-21,Annual,,Northfield,ACTIVE,,2026-06-12
+M01906,2024-11-02,annual,45 - 54,Northfield,CANCELLED,2025-06-03,2025-06-03
+M01907,16/03/2025,Monthly,16-24,University,Cancelled,2025-08-13,2025-08-13
+M01908,2024-03-30,Annual,,Southside,Active,,2024-05-27
+M01909,2024-09-02,Monthly,25-34,City Centre,active,,2024-10-23
+M01910,2025-10-03,Monthly,65+,Waterside,active,,2026-04-01
+M01911,2024-09-04,Monthly,55-64,Eastside,Active,,2025-08-29
+M01912,2025-04-30,Monthly,16-24,Northfield,cancelled,2025-09-19,2025-09-19
+M01913,30/09/2024,Annual,45-54,Southside,active,,2025-11-27
+M01914,24 Jan 2025,Annual,45-54,Southside,Active,,2026-04-26
+M01915,23 Apr 2025,Monthly,45-54,Southside,ACTIVE,,2026-06-04
+M01916,2026-08-22,Monthly,16-24,Hillcrest,Active,,2026-08-29
+M01917,2026-06-08,Annual,35-44,Eastside,active,,2026-06-22
+M01918,22/03/2025,Monthly,45-54,Southside,Cancelled,2025-12-21,2025-12-21
+M01919,26/05/2026,Monthly,25-34,Northfield,ACTIVE,,2026-08-19
+M01920,2024-10-05,Monthly ,16-24,University,Active,,2026-07-20
+M01921,2026-07-24,ANNUAL,25-34,Westgate,active,,2026-07-30
+M01922,06/02/2026,Annual,35-44,Fernhill,active,,2026-07-01
+M01924,2026-05-13,monthly,45-54,Southside,active,,2026-07-17
+M01925,22 Jul 2024,Annual,16-24,University,Active,,2026-08-18
+M01926,31/12/2024,monthly,55-64,Eastside,active,,2026-02-22
+M01927,2026-02-03,Monthly,,University,cancelled,2026-07-28,2026-07-28
+M01928,2025-03-17,Annual,16-24,City Centre,active,,2026-08-02
+M01929,19/08/2024,Monthly,45-54,Northfield,active,,2026-06-22
+M01930,03/04/2026,Monthly,55-64,Southside,active,,2026-07-01
+M01931,29/12/2025,Annual,35-44,Southside,active,,2026-07-27
+M01933,2025-02-11,Monthly,35 - 44,Eastside,Cancelled,2025-04-27,2025-04-27
+M01934,2025-01-04,Annual,35-44,Northfield,active,,2026-07-16
+M01935,14/03/2024,Annual,45-54,Westgate,active,,2025-06-06
+M01936,05/03/2025,Monthly,16-24,Westgate,cancelled,2026-05-07,2026-05-07
+M01937,2026-03-04,Monthly,25-34,Westgate,active,,2026-03-20
+M01938,2025-03-06,MONTHLY,16-24,University,cancelled,2026-07-19,2026-07-19
+M01939,14 Nov 2024,Monthly ,25-34,Northfield,Active,,2025-03-27
+M01940,2024-06-02,MONTHLY,45-54,Northfield,ACTIVE,,2026-06-08
+M01941,2026-07-07,Annual,35-44,Northfield,active,,2026-08-11
+M01942,2024-10-27,Monthly,55-64,Eastside,active,,2026-01-06
+M01943,2025-08-29,Monthly,35-44,Westgate,cancelled,2025-10-24,2025-10-24
+M01944,19/02/2024,Monthly,25-34,Northfield,ACTIVE,,2024-12-25
+M01945,2026-06-23,ANNUAL,25-34,Southside,ACTIVE,,2026-06-28
+M01947,22/07/2024,Annual,35-44,Westgate,active,,2025-08-24
+M01948,2024-08-05,Annual,35-44,Eastside,ACTIVE,,2025-07-16
+M01949,2025-10-30,Monthly,35-44,Westgate,active,,2026-07-31
+M01950,2024-07-04,monthly,45-54,Southside,cancelled,2026-06-21,2026-06-21
+M01951,17/04/2025,Annual,16-24,City Centre,ACTIVE,,2026-04-11
+M01952,25 Aug 2026,monthly,25-34,Westgate,active,,2026-08-31
+M01953,02/07/2026,Annual,35-44,Eastside,active,,2026-08-13
+M01954,14 Apr 2024,Monthly,55-64,Eastside,CANCELLED,2024-11-29,2024-11-29
+M01955,20 Aug 2024,Annual,16-24,Eastside,active,,2024-12-17
+M01956,21 Jan 2026,Annual,25-34,Hillcrest,active,,2026-03-23
+M01957,2024-05-06,Annual,,Westgate,ACTIVE,,2026-02-07
+M01958,13/06/2026,Monthly,25-34,Fernhill,active,,2026-07-29
+M01959,2025-04-18,monthly,16-24,Eastside,Active,,2026-04-28
+M01960,05/03/2025,Monthly,16-24,Hillcrest,ACTIVE,,2025-03-18
+M01961,16/05/2026,ANNUAL,35-44,Eastside,active,,2026-07-02
+M01962,2026-03-26,Annual,65+,Southside,active,,2026-04-13
+M01963,13/05/2026,Annual ,45-54,Northfield,active,,2026-07-03
+M01964,26 Apr 2026,Annual,45-54,Eastside,ACTIVE,,2026-05-01
+M01965,2026-07-21,Annual,45-54,Fernhill,ACTIVE,,2026-08-15
+M01966,2025-09-18,Annual,35-44,Northfield,active,,2025-10-05
+M01967,2024-05-27,Monthly ,16-24,University,CANCELLED,2026-07-22,2026-07-22
+M01968,05/04/2025,Monthly,16-24,University,active,,2026-05-16
+M01969,10/06/2026,Monthly,16-24,University,active,,2026-08-22
+M01970,24 Sep 2025,ANNUAL,55-64,Fernhill,ACTIVE,,2025-11-02
+M01971,2025-11-09,Annual,,Waterside,Cancelled,2026-02-06,2026-02-06
+M01972,2025-06-22,Monthly,35-44,Eastside,ACTIVE,,2025-11-24
+M01973,12 May 2024,Monthly,25-34,Westgate,Active,,2025-05-14
+M01974,2024-08-31,Monthly,25-34,Northfield,active,,2024-09-13
+M01975,2026-05-16,Annual ,35-44,Southside,active,,2026-08-12
+M01976,16/11/2024,Monthly,,Eastside,Active,,2024-11-30
+M01977,2025-05-26,Monthly,16-24,Southside,active,,2026-08-27
+M01978,2025-08-07,Monthly,16-24,University,cancelled,2026-04-06,2026-04-06
+M01979,2025-11-22,Monthly,25-34,Northfield,active,,2026-01-04
+M01980,2024-11-21,Annual,25-34,Northfield,Active,,2025-02-12
+M01981,22/04/2025,Monthly,45-54,Northfield,active,,2025-07-23
+M01982,23/07/2025,monthly,,Eastside,active,,2026-02-04
+M01983,4 Mar 2026,Monthly,65+,Eastside,active,,2026-04-10
+M01984,2024-05-26,Monthly,16 - 24,Southside,active,,2024-12-15
+M01985,2024-12-07,annual,35-44,Northfield,active,,2025-04-14
+M01986,21/01/2024,Monthly,45-54,Northfield,cancelled,2024-04-22,2024-04-22
+M01987,4 Feb 2026,MONTHLY,65+,Westgate,cancelled,2026-03-10,2026-03-10
+M01988,2026-07-10,Annual,16-24,Eastside,active,,2026-08-09
+M01989,2026-01-10,Monthly,65+,Hillcrest,cancelled,2026-07-12,2026-07-12
+M01990,2026-01-05,ANNUAL,35-44,Southside,Active,,2026-04-16
+M01991,7 Apr 2026,Annual,,Northfield,active,,2026-05-25
+M01992,11/11/2025,Monthly,16-24,Eastside,ACTIVE,,2026-01-19
+M01993,29 May 2026,Monthly,55-64,Northfield,active,,2026-08-13
+M01994,01/06/2024,Monthly,35-44,Southside,active,,2024-08-10
+M01995,15 Apr 2026,annual,16 - 24,Southside,active,,2026-08-08
+M01996,16/09/2024,Monthly,25-34,Northfield,active,,2024-10-05
+M01997,19/04/2026,Annual,25-34,Eastside,active,,2026-08-12
+M01998,2025-07-11,Annual,35-44,Southside,active,,2025-09-13
+M01999,29/01/2025,Monthly,25-34,Westgate,Cancelled,2026-03-01,2026-03-01
+M02000,28 Jan 2024,Monthly,16-24,Hillcrest,Active,,2026-01-22
+M02001,2024-01-02,Annual,25-34,Northfield,Cancelled,2024-03-21,2024-03-21
+M02002,2024-06-25,Monthly,45-54,Eastside,active,,2026-04-05
+M02003,20/05/2026,Annual,16-24,Westgate,active,,2026-06-08
+M02004,2024-06-07,Annual,45-54,Eastside,Active,,2024-11-11
+M02005,2026-04-07,monthly,25-34,Southside,active,,2026-07-30
+M02006,2026-03-22,Monthly,55-64,Westgate,active,,2026-06-07
+M02007,18/12/2025,Monthly,55-64,Westgate,active,,2026-05-04
+M02008,2026-06-06,monthly,35-44,Fernhill,active,,2026-08-30
+M02009,13 Apr 2024,Annual,35-44,Northfield,active,,2024-07-08
+M02010,17 May 2024,Monthly,35-44,Southside,cancelled,2024-12-13,2024-12-13
+M02011,11/11/2025,Monthly,55-64,Northfield,CANCELLED,2026-02-12,2026-02-12
+M02012,14 Apr 2025,Monthly,45-54,Northfield,Active,,2025-08-13
+M02013,25/07/2024,Monthly,35-44,Hillcrest,active,,2025-10-19
+M02014,2026-06-17,Monthly,16-24,Hillcrest,active,,2026-07-11
+M02015,2025-01-12,Monthly,65+,City Centre,cancelled,2026-05-03,2026-05-03
+M02016,11 May 2024,Monthly,65+,Eastside,CANCELLED,2026-04-09,2026-04-09
+M02017,25 Jun 2026,Monthly,25-34,Westgate,active,,2026-06-25
+M02018,21/03/2024,Monthly,35-44,Northfield,Active,,2025-08-08
+M02019,2025-08-13,Annual,,City Centre,cancelled,2025-12-11,2025-12-11
+M02021,12 Sep 2024,Annual,,Westgate,active,,2026-05-25
+M02022,2024-04-18,Monthly,45-54,Northfield,active,,2025-12-05
+M02023,2025-03-09,ANNUAL,45-54,Northfield,active,,2026-06-17
+M02025,2025-12-31,Monthly,25-34,Fernhill,active,,2026-01-05
+M02026,2025-03-22,Monthly,55-64,Westgate,cancelled,2026-03-26,2026-03-26
+M02027,2026-07-20,Monthly ,25-34,Southside,ACTIVE,,2026-08-27
+M02028,27/12/2025,Annual,25-34,City Centre,Active,,2026-01-27
+M02029,2024-01-26,Annual,35-44,City Centre,active,,2025-10-08
+M02030,18 Jan 2026,Monthly,,Eastside,active,,2026-08-06
+M02031,2025-05-08,Annual ,25-34,Northfield,active,,2026-02-14
+M02032,6 Jan 2024,Monthly,25-34,Northfield,active,,2024-01-06
+M02032,6 Jan 2024,Annual,25-34,Northfield,active,,2025-05-12
+M02033,2025-11-27,Monthly,25-34,Northfield,cancelled,2026-05-22,2026-05-22
+M02034,2025-11-10,MONTHLY,45-54,Eastside,active,,2026-03-28
+M02035,2025-08-01,Annual,45-54,Northfield,active,,2025-10-05
+M02036,2024-02-09,Monthly,,Fernhill,Cancelled,2025-03-05,2025-03-05
+M02038,10/09/2025,Annual,,Northfield,Cancelled,2026-05-25,2026-05-25
+M02039,2025-11-01,Monthly,16-24,Westgate,cancelled,2026-05-08,2026-05-08
+M02040,2026-07-30,Monthly,16-24,Eastside,active,,2026-08-15
+M02041,09/12/2025,Annual,35-44,City Centre,cancelled,2026-08-26,2026-08-26
+M02042,17 Sep 2024,monthly,25-34,Westgate,active,,2025-06-26
+M02043,2026-05-12,Annual,25-34,Hillcrest,ACTIVE,,2026-08-15
+M02044,2024-06-27,Monthly,16-24,Hillcrest,active,,2024-08-20
+M02045,23/01/2025,Annual,16-24,Northfield,Active,,2025-12-01
+M02046,2026-03-11,Annual,45-54,Northfield,active,,2026-05-25
+M02047,29 Jul 2026,Monthly,45-54,Fernhill,active,,2026-08-07
+M02048,21/05/2024,Monthly,65+,City Centre,cancelled,2026-07-21,2026-07-21
+M02049,21/02/2026,Annual,45-54,Eastside,active,,2026-07-22
+M02050,2024-01-08,Annual,25-34,City Centre,active,,2026-08-19
+M02051,27 Nov 2024,Monthly,16-24,Westgate,Active,,2025-09-06
+M02052,2025-12-20,Monthly,16-24,Westgate,active,,2026-04-17
+M02053,2025-12-16,Monthly,65+,Southside,cancelled,2026-04-28,2026-04-28
+M02054,2025-02-08,Annual,25-34,Southside,Cancelled,2025-11-19,2025-11-19
+M02055,29 Sep 2025,Monthly,45-54,Eastside,Active,,2026-07-30
+M02056,10/02/2026,annual,16-24,Northfield,active,,2026-07-12
+M02057,9 Oct 2025,Annual,25-34,Northfield,active,,2026-04-16
+M02058,23/08/2026,Monthly,,Northfield,active,,2026-08-31
+M02059,09/11/2024,monthly,16-24,University,cancelled,2026-05-31,2026-05-31
+M02060,2026-03-06,Annual,35-44,Northfield,Active,,2026-06-03
+M02061,29/02/2024,Monthly,55-64,Westgate,Active,,2024-11-16
+M02062,18/07/2026,Monthly,55-64,Southside,active,,2026-08-19
+M02063,30 Mar 2026,Monthly ,35-44,City Centre,Active,,2026-04-11
+M02064,10/02/2024,Annual,,Northfield,active,,2026-07-03
+M02065,2025-02-13,Annual,55-64,Eastside,active,,2025-09-23
+M02066,2026-03-21,Monthly,35-44,Eastside,active,,2026-05-16
+M02067,21 Sep 2024,Annual,35-44,Eastside,active,,2025-05-16
+M02068,2024-10-06,Monthly,35-44,Westgate,cancelled,2024-11-27,2024-11-27
+M02069,2025-06-20,Annual,16-24,Fernhill,cancelled,2025-09-26,2025-09-26
+M02070,2026-06-20,Annual,25-34,Northfield,active,,2026-08-14
+M02071,2024-03-21,Monthly,16-24,Hillcrest,active,,2024-10-12
+M02072,2026-08-16,Monthly ,35-44,Waterside,active,,2026-08-30
+M02073,2024-02-05,Monthly,45-54,Fernhill,ACTIVE,,2024-11-08
+M02074,7 Mar 2026,Annual ,35-44,Northfield,active,,2026-03-28
+M02076,04/06/2025,Annual,35-44,Westgate,cancelled,2026-03-21,2026-03-21
+M02077,2024-05-10,Monthly,25-34,Northfield,Cancelled,2026-02-24,2026-02-24
+M02078,2024-03-19,ANNUAL,16-24,Southside,Cancelled,2026-08-23,2026-08-23
+M02079,2024-01-31,Monthly,16-24,University,active,,2024-07-17
+M02080,2025-11-06,Annual,25-34,Westgate,cancelled,2026-01-06,2026-01-06
+M02081,27 Jul 2025,Monthly,16-24,Hillcrest,active,,2025-12-02
+M02082,24/02/2025,Monthly,16-24,Hillcrest,Active,,2026-01-14
+M02083,8 Nov 2025,Monthly,25-34,University,active,,2026-08-14
+M02084,2025-03-22,MONTHLY,55-64,Eastside,ACTIVE,,2026-04-24
+M02085,2025-04-14,Monthly,25-34,Northfield,active,,2026-07-04
+M02086,2026-05-10,Monthly,25-34,Westgate,active,,2026-06-22
+M02087,15/08/2024,Monthly ,55-64,Fernhill,ACTIVE,,2024-12-11
+M02088,11 Jun 2026,Monthly,55-64,Fernhill,active,,2026-08-26
+M02089,28/04/2026,Monthly,35-44,Eastside,active,,2026-07-16
+M02090,07/10/2024,Annual,16-24,Westgate,Active,,2026-03-30
+M02091,2024-03-05,Monthly,,City Centre,cancelled,2026-06-17,2026-06-17
+M02092,08/06/2026,monthly,55-64,Northfield,active,,2026-06-22
+M02093,28/06/2026,Annual,35-44,Northfield,active,,2026-07-07
+M02094,30/08/2026,monthly,45-54,Southside,active,,2026-08-30
+M02095,2026-07-12,Annual,45-54,Southside,ACTIVE,,2026-08-09
+M02096,29 Oct 2025,Annual,45-54,Southside,Active,,2026-04-01
+M02097,2024-10-30,Monthly,35-44,Southside,Active,,2025-01-29
+M02098,2024-07-04,Annual,45-54,Northfield,Cancelled,2025-07-28,2025-07-28
+M02099,16 Aug 2026,Monthly,25-34,Hillcrest,ACTIVE,,2026-08-24
+M02100,26/07/2025,Monthly,25-34,Southside,cancelled,2026-08-23,2026-08-23
+M02101,20/12/2025,Annual,25-34,Southside,Active,,2026-08-22
+M02102,23/05/2026,Monthly ,16-24,University,cancelled,2026-07-15,2026-07-15
+M02103,02/08/2025,Monthly,35-44,Fernhill,active,,2026-08-17
+M02104,2026-08-03,Monthly,25-34,Northfield,active,,2026-08-06
+M02105,2025-07-30,MONTHLY,45-54,Eastside,Active,,2026-07-20
+M02106,2026-04-26,Annual,35-44,Eastside,active,,2026-05-10
+M02107,16/11/2025,Monthly,45-54,Eastside,active,,2026-03-31
+M02108,2026-06-01,Annual,16-24,Westgate,active,,2026-06-29
+M02109,03/05/2024,Annual,,Southside,active,,2024-08-16
+M02110,2026-04-07,Monthly,45-54,Eastside,ACTIVE,,2026-08-28
+M02111,2025-04-11,Monthly,16-24,University,active,,2025-10-18
+M02113,11 Mar 2024,Monthly ,25-34,Southside,cancelled,2024-06-23,2024-06-23
+M02114,01/03/2026,Annual,45-54,Northfield,ACTIVE,,2026-06-28
+M02115,17/10/2025,Monthly,65+,Southside,cancelled,2026-01-18,2026-01-18
+M02116,20/05/2024,Monthly,16-24,Hillcrest,active,,2025-10-16
+M02117,2024-10-05,Monthly,16-24,University,Active,,2025-05-03
+M02118,2024-01-23,annual,65+,Southside,active,,2026-07-30
+M02119,2025-09-08,Monthly,25-34,Southside,active,,2026-08-01
+M02120,2024-07-17,monthly,16-24,Hillcrest,Cancelled,2026-07-22,2026-07-22
+M02121,16/06/2026,Monthly,35-44,Hillcrest,active,,2026-07-29
+M02122,2026-05-08,MONTHLY,16-24,Hillcrest,active,,2026-05-08
+M02123,2024-02-07,Annual,35-44,Fernhill,active,,2025-10-24
+M02124,2025-05-12,Annual,45-54,Eastside,active,,2025-10-03
+M02125,2024-01-31,Annual ,35-44,Westgate,active,,2026-06-28
+M02126,2025-08-01,annual,25-34,City Centre,cancelled,2026-08-06,2026-08-06
+M02127,2025-10-13,Annual,55-64,Northfield,active,,2025-11-14
+M02128,06/12/2024,Annual,45-54,Westgate,Active,,2026-01-16
+M02129,2024-11-28,Monthly,16-24,University,cancelled,2026-03-16,2026-03-16
+M02130,2024-09-28,Monthly,16-24,Hillcrest,active,,2025-03-12
+M02131,14/05/2026,monthly,16-24,University,active,,2026-07-04
+M02132,2026-06-12,Monthly ,35-44,Northfield,ACTIVE,,2026-08-17
+M02133,2024-05-28,Monthly,55-64,Southside,ACTIVE,,2026-06-02
+M02134,2025-05-07,Annual,,City Centre,active,,2025-06-30
+M02135,11 Oct 2024,Annual,25-34,Hillcrest,Active,,2026-06-26
+M02136,2 Dec 2025,Annual,35-44,Southside,ACTIVE,,2026-05-19
+M02137,02/08/2026,Monthly,65+,Waterside,ACTIVE,,2026-08-29
+M02139,2026-05-23,Annual,35-44,City Centre,active,,2026-07-01
+M02140,2025-11-02,Monthly,45-54,Hillcrest,cancelled,2025-12-13,2025-12-13
+M02141,24/04/2025,ANNUAL,45-54,Southside,Active,,2026-04-01
+M02142,8 Aug 2025,Annual ,16-24,Hillcrest,active,,2025-11-21
+M02143,2024-04-27,Annual,65+,Westgate,cancelled,2024-12-17,2024-12-17
+M02144,22 May 2025,annual,45-54,Waterside,ACTIVE,,2026-07-26
+M02145,15 Feb 2025,Monthly ,25-34,University,active,,2026-07-22
+M02146,28/04/2026,Monthly,25-34,Eastside,active,,2026-06-03
+M02147,25 Feb 2025,Monthly,35-44,Southside,active,,2026-07-01
+M02148,26/11/2024,Monthly,16-24,Westgate,active,,2026-02-09
+M02149,2026-04-29,Annual,,Waterside,Active,,2026-05-10
+M02150,28 Oct 2024,monthly,25-34,Eastside,cancelled,2026-06-26,2026-06-26
+M02151,2025-10-06,Annual,16-24,Westgate,active,,2026-04-15
+M02152,2025-04-14,monthly,25-34,Eastside,cancelled,2025-07-20,2025-07-20
+M02153,2024-06-24,monthly,,Fernhill,Cancelled,2026-05-17,2026-05-17
+M02154,21/05/2024,Annual,65+,Westgate,active,,2025-06-19
+M02155,10 Jul 2026,Annual,35-44,Eastside,active,,2026-07-12
+M02157,2025-01-26,Monthly ,25-34,University,cancelled,2026-06-11,2026-06-11
+M02158,23/11/2024,Monthly,55-64,Eastside,cancelled,2026-05-06,2026-05-06
+M02159,2026-08-22,MONTHLY,45-54,Eastside,active,,2026-08-25
+M02160,8 Mar 2025,Monthly,35-44,Eastside,cancelled,2026-02-14,2026-02-14
+M02161,3 Apr 2025,Monthly,25-34,Eastside,cancelled,2026-03-19,2026-03-19
+M02162,07/02/2024,Monthly,16 - 24,Westgate,cancelled,2026-01-18,2026-01-18
+M02165,24 Feb 2024,Monthly,16-24,Hillcrest,cancelled,2025-05-10,2025-05-10
+M02166,2024-12-28,Monthly,45-54,Southside,active,,2025-12-16
+M02167,1 Feb 2025,Monthly,25-34,Northfield,active,,2025-09-22
+M02168,2026-04-03,Monthly,65+,Southside,cancelled,2026-05-05,2026-05-05
+M02170,20/08/2026,Monthly,65+,Waterside,active,,2026-08-25
+M02171,2025-05-05,Annual,25-34,Fernhill,cancelled,2026-02-20,2026-02-20
+M02172,25/10/2024,annual,35-44,Hillcrest,active,,2025-03-04
+M02174,2025-02-26,Annual ,16-24,Westgate,active,,2025-10-02
+M02175,10/04/2025,Monthly,35-44,Fernhill,active,,2026-05-11
+M02177,2025-08-18,Monthly ,16-24,Westgate,active,,2026-04-29
+M02178,2026-01-25,Monthly ,25-34,Westgate,CANCELLED,2026-05-25,2026-05-25
+M02179,7 Aug 2026,Monthly,16 - 24,University,active,,2026-08-27
+M02180,2026-05-17,Monthly ,35-44,Eastside,active,,2026-06-22
+M02181,2025-12-18,Annual,55-64,Fernhill,active,,2026-08-03
+M02182,26/04/2026,ANNUAL,55-64,Southside,active,,2026-08-27
+M02183,2024-02-16,Monthly,35-44,Eastside,ACTIVE,,2024-03-11
+M02184,2026-03-06,Annual,25-34,Eastside,active,,2026-07-17
+M02185,2026-08-22,Annual,35-44,Southside,ACTIVE,,2026-08-29
+M02186,2025-11-15,Monthly,45-54,Eastside,active,,2025-11-15
+M02186,2025-11-15,annual,45-54,Eastside,active,,2026-03-16
+M02187,27/01/2024,Monthly,16-24,Hillcrest,active,,2024-10-10
+M02188,24/04/2026,Monthly,45-54,Fernhill,active,,2026-07-11
+M02190,2025-12-03,Monthly,16-24,University,ACTIVE,,2026-01-05
+M02191,06/12/2024,ANNUAL,25-34,Westgate,Cancelled,2025-04-30,2025-04-30
+M02193,2025-05-03,Annual,65+,Eastside,active,,2026-06-02
+M02194,2 Oct 2024,Annual,35-44,City Centre,cancelled,2026-05-25,2026-05-25
+M02195,15/03/2025,Monthly,35-44,Northfield,cancelled,2026-08-21,2026-08-21
+M02196,2025-05-15,Monthly,45-54,City Centre,active,,2026-07-02
+M02197,2024-06-06,Monthly,55-64,Westgate,cancelled,2026-02-06,2026-02-06
+M02198,2025-09-28,Annual,45-54,Westgate,ACTIVE,,2026-02-26
+M02199,2024-07-17,Monthly,25-34,City Centre,cancelled,2026-05-24,2026-05-24
+M02200,2024-07-23,Annual,35-44,City Centre,active,,2024-10-25
+M02201,2026-06-08,Monthly,45-54,Southside,active,,2026-08-26
+M02202,28 Jul 2025,monthly,45-54,Westgate,cancelled,2026-03-22,2026-03-22
+M02203,2024-05-30,Annual,25-34,Westgate,CANCELLED,2025-08-16,2025-08-16
+M02204,2025-03-19,Monthly,35-44,Southside,active,,2026-01-27
+M02205,18/06/2025,annual,35-44,Hillcrest,CANCELLED,2025-07-28,2025-07-28
+M02206,2025-12-30,Annual,55-64,Eastside,active,,2026-02-02
+M02207,28 Mar 2026,annual,35-44,Waterside,ACTIVE,,2026-05-17
+M02208,01/02/2024,Monthly,25-34,Westgate,active,,2025-11-22
+M02209,12/07/2026,Monthly,65+,Eastside,active,,2026-08-04
+M02210,26/08/2025,Monthly ,45-54,Hillcrest,Cancelled,2026-05-24,2026-05-24
+M02211,30 Jul 2025,Annual,55-64,Eastside,cancelled,2026-05-24,2026-05-24
+M02212,25/03/2024,Monthly,25-34,Eastside,active,,2025-08-29
+M02213,10/12/2025,Monthly,25-34,Westgate,ACTIVE,,2026-07-13
+M02214,2026-05-12,annual,,Northfield,Active,,2026-07-16
+M02215,5 Nov 2024,Annual,,Northfield,active,,2024-12-04
+M02216,10 Feb 2024,Monthly,55-64,City Centre,ACTIVE,,2026-08-05
+M02218,05/08/2024,Annual,45-54,City Centre,active,,2025-03-12
+M02219,2024-11-28,Monthly ,16-24,Southside,cancelled,2025-03-11,2025-03-11
+M02220,12/05/2026,Annual,25-34,Northfield,active,,2026-08-12
+M02221,2025-07-17,Monthly,55-64,Northfield,ACTIVE,,2025-08-13
+M02222,26 May 2026,Monthly ,35-44,Eastside,active,,2026-06-28
+M02223,27 Jul 2025,Monthly,45-54,Eastside,active,,2025-10-26
+M02224,14/10/2024,Monthly,16-24,Northfield,CANCELLED,2025-08-16,2025-08-16
+M02225,18 Feb 2026,annual,25-34,Westgate,active,,2026-03-10
+M02226,2026-02-22,Annual,25-34,Southside,active,,2026-08-19
+M02227,2024-05-08,Monthly,55-64,Northfield,active,,2025-06-15
+M02228,2025-12-31,Monthly,65+,Westgate,active,,2026-05-02
+M02229,04/05/2025,Monthly,35-44,Hillcrest,Cancelled,2026-06-08,2026-06-08
+M02230,18 Oct 2025,Annual,35-44,Northfield,cancelled,2026-02-04,2026-02-04
+M02231,16/12/2025,Monthly,45-54,Northfield,active,,2026-06-13
+M02232,2026-07-16,Monthly,,Hillcrest,ACTIVE,,2026-08-27
+M02233,2024-01-16,Annual,35-44,Southside,active,,2025-09-14
+M02234,2025-06-15,Monthly ,45-54,Northfield,active,,2025-10-19
+M02235,2026-04-16,Monthly,25-34,University,ACTIVE,,2026-04-20
+M02236,2024-10-22,Monthly,65+,Northfield,CANCELLED,2026-03-30,2026-03-30
+M02237,2024-03-27,Annual,65+,Northfield,active,,2024-10-30
+M02238,11 Aug 2024,Monthly,35-44,Southside,Cancelled,2026-03-28,2026-03-28
+M02239,2024-05-14,ANNUAL,55-64,Waterside,active,,2024-06-09
+M02240,2025-12-27,Monthly,65+,Eastside,Active,,2026-01-22
+M02241,2 Aug 2025,Monthly,35-44,Southside,ACTIVE,,2026-05-24
+M02242,28/11/2025,annual,,Northfield,active,,2026-06-05
+M02243,2024-04-08,monthly,55-64,Northfield,cancelled,2025-10-25,2025-10-25
+M02244,2024-06-21,Annual,16-24,Eastside,active,,2024-10-25
+M02245,2024-07-29,monthly,55 - 64,Southside,cancelled,2026-07-31,2026-07-31
+M02246,2025-07-10,Monthly ,,Southside,cancelled,2026-04-10,2026-04-10
+M02247,2025-06-14,Monthly,16-24,Westgate,cancelled,2025-08-23,2025-08-23
+M02248,2025-04-01,Monthly,55-64,Westgate,active,,2025-07-14
+M02249,8 May 2026,Annual,55-64,Eastside,active,,2026-05-20
+M02250,20/04/2026,Monthly,25-34,Northfield,active,,2026-07-05
+M02251,30/11/2024,Monthly,35-44,City Centre,Active,,2025-07-12
+M02252,8 Mar 2026,Monthly,,Fernhill,active,,2026-03-11
+M02253,2025-07-25,Monthly,35-44,Fernhill,active,,2026-02-15
+M02254,2024-04-13,Annual ,45-54,Eastside,Active,,2024-12-15
+M02255,2026-05-30,MONTHLY,45-54,City Centre,ACTIVE,,2026-08-19
+M02256,06/07/2026,Monthly,,Westgate,active,,2026-08-17
+M02257,19/07/2024,Monthly,25-34,University,active,,2026-06-18
+M02258,2026-05-31,Annual,25-34,Westgate,active,,2026-08-10
+M02259,2026-03-07,Annual ,,Westgate,active,,2026-06-01
+M02260,2026-07-16,Monthly,16 - 24,Hillcrest,active,,2026-08-10
+M02261,09/10/2024,Monthly,35-44,Westgate,active,,2025-07-20
+M02262,2026-08-26,Monthly,45-54,Westgate,active,,2026-08-28
+M02263,2025-10-10,Annual,25-34,Fernhill,ACTIVE,,2026-08-25
+M02264,2024-05-22,Monthly ,45-54,Northfield,cancelled,2026-08-02,2026-08-02
+M02265,2026-05-31,Monthly,35-44,Northfield,active,,2026-07-12
+M02266,2026-08-12,Annual ,45-54,Waterside,active,,2026-08-19
+M02267,17 May 2025,Annual,16-24,University,active,,2026-07-21
+M02268,10/05/2025,annual,16-24,Westgate,active,,2026-03-19
+M02269,2025-07-21,annual,55-64,Eastside,active,,2026-04-01
+M02270,29 Mar 2026,Annual,55-64,Southside,active,,2026-05-20
+M02271,07/06/2026,Monthly,35-44,Southside,ACTIVE,,2026-07-17
+M02272,14 Oct 2025,Monthly,25-34,Fernhill,cancelled,2026-04-05,2026-04-05
+M02273,16 Aug 2024,annual,16-24,Eastside,Cancelled,2024-10-29,2024-10-29
+M02274,18 Dec 2024,Monthly,16-24,Westgate,Cancelled,2026-02-18,2026-02-18
+M02275,3 May 2024,Annual,25-34,Waterside,active,,2025-12-29
+M02276,05/12/2024,Monthly,45-54,Northfield,active,,2025-11-05
+M02277,20 May 2026,Monthly,25-34,Southside,Active,,2026-06-16
+M02278,28/02/2024,Monthly,25-34,Westgate,Active,,2025-12-17
+M02279,2024-11-08,Monthly,65+,Northfield,Active,,2026-03-20
+M02280,2026-07-05,Monthly,16-24,Westgate,active,,2026-07-11
+M02281,01/02/2024,Monthly,25-34,Northfield,cancelled,2026-08-23,2026-08-23
+M02282,15/04/2026,Monthly,16-24,University,cancelled,2026-07-18,2026-07-18
+M02283,2026-06-09,Monthly,,University,cancelled,2026-07-25,2026-07-25
+M02284,2025-02-25,Annual,35-44,Southside,ACTIVE,,2025-05-16
+M02285,2026-05-05,Monthly,16-24,Fernhill,cancelled,2026-06-26,2026-06-26
+M02286,11 Jan 2025,Staff,35-44,Westgate,Active,,2026-02-26
+M02287,2025-06-20,annual,25-34,Southside,active,,2026-05-21
+M02288,2026-04-08,annual,65+,Northfield,ACTIVE,,2026-04-09
+M02289,2026-02-12,Annual,25-34,Westgate,active,,2026-06-16
+M02290,2026-07-18,Monthly,55-64,Eastside,active,,2026-07-30
+M02291,16/03/2026,annual,45-54,City Centre,active,,2026-07-03
+M02292,13/02/2025,Monthly,65+,Eastside,active,,2025-09-08
+M02293,2024-09-04,monthly,25-34,Westgate,active,,2026-01-19
+M02294,11/09/2025,monthly,16 - 24,University,CANCELLED,2025-10-14,2025-10-14
+M02295,31/07/2025,Annual,35-44,Northfield,active,,2025-09-26
+M02296,2025-10-08,Monthly,35-44,Eastside,active,,2025-10-08
+M02296,2025-10-08,Annual,35-44,Eastside,ACTIVE,,2026-06-29
+M02297,15 Aug 2025,Monthly,55-64,City Centre,active,,2026-05-28
+M02298,2026-03-16,Monthly,35-44,Westgate,active,,2026-06-27
+M02299,06/07/2024,Annual,35-44,Eastside,cancelled,2026-04-03,2026-04-03
+M02300,2025-06-25,Monthly,25-34,Northfield,Active,,2025-11-09
+M02301,2024-11-14,Monthly,25-34,Fernhill,active,,2026-02-20
+M02302,2025-03-02,Monthly,35-44,Northfield,active,,2025-12-01
+M02303,2026-07-19,Monthly,25-34,Waterside,active,,2026-08-04
+M02304,2024-10-26,Annual,16-24,Westgate,ACTIVE,,2025-02-09
+M02305,2024-06-03,Monthly,16-24,Westgate,cancelled,2026-07-08,2026-07-08
+M02306,28/05/2025,Monthly,45 - 54,Southside,cancelled,2025-08-18,2025-08-18
+M02307,2024-07-02,Monthly,25-34,Westgate,cancelled,2026-04-17,2026-04-17
+M02308,10/10/2025,Annual,25-34,Eastside,active,,2026-06-28
+M02309,31/05/2024,Monthly,45-54,Southside,Cancelled,2026-04-24,2026-04-24
+M02310,20/03/2026,Annual,25 - 34,Hillcrest,active,,2026-08-04
+M02311,2026-01-24,Annual,55-64,Hillcrest,Active,,2026-04-14
+M02312,2025-08-25,Monthly,55-64,Westgate,active,,2025-09-16
+M02313,2025-10-13,Annual,25-34,Northfield,active,,2025-12-13
+M02314,23/03/2025,monthly,35 - 44,City Centre,cancelled,2025-11-16,2025-11-16
+M02315,2024-09-26,Annual,35-44,City Centre,active,,2026-03-13
+M02316,28 Feb 2026,Monthly,25-34,City Centre,active,,2026-02-28
+M02319,2024-12-10,Monthly,45-54,Southside,cancelled,2026-06-05,2026-06-05
+M02320,2024-03-25,Annual,16-24,Southside,ACTIVE,,2026-06-14
+M02321,2025-09-01,Annual,55-64,Hillcrest,active,,2026-05-28
+M02322,2026-05-05,Monthly,45-54,City Centre,active,,2026-07-09
+M02323,6 Jul 2024,Monthly,65+,Southside,ACTIVE,,2024-12-16
+M02324,2026-03-16,Monthly,35-44,Hillcrest,Active,,2026-07-27
+M02325,2026-02-09,Monthly,16-24,University,active,,2026-03-30
+M02326,2025-04-15,Annual,45-54,Southside,active,,2025-10-30
+M02327,04/03/2026,Monthly ,35-44,Eastside,active,,2026-08-17
+M02328,2026-03-24,Annual,35-44,Northfield,active,,2026-04-11
+M02329,2024-03-10,Monthly,35-44,Westgate,active,,2026-01-01
+M02330,2024-11-05,MONTHLY,35-44,Southside,cancelled,2026-05-20,2026-05-20
+M02331,2025-04-13,ANNUAL,35-44,Eastside,active,,2025-08-15
+M02332,01/03/2024,Annual,16-24,Southside,cancelled,2026-02-08,2026-02-08
+M02333,05/07/2026,Annual,55-64,Eastside,ACTIVE,,2026-08-26
+M02334,2024-03-20,Monthly,55-64,Eastside,cancelled,2024-06-05,2024-06-05
+M02335,2024-06-23,ANNUAL,55-64,Northfield,Active,,2025-08-09
+M02336,2026-02-27,Monthly ,55-64,Westgate,cancelled,2026-04-13,2026-04-13
+M02337,2024-02-11,MONTHLY,25-34,Hillcrest,CANCELLED,2026-07-04,2026-07-04
+M02338,16 Feb 2026,Monthly,55-64,Southside,active,,2026-07-05
+M02339,26 Mar 2024,Annual,35-44,Waterside,active,,2025-11-14
+M02340,29/11/2024,Annual,25-34,Eastside,active,,2025-07-27
+M02341,1 Apr 2025,Monthly,25-34,Northfield,active,,2025-05-30
+M02342,2025-05-20,Staff ,25-34,Waterside,active,,2026-03-27
+M02343,10/08/2026,Monthly,16-24,Westgate,ACTIVE,,2026-08-25
+M02344,2026-07-05,Monthly,45-54,Eastside,ACTIVE,,2026-07-18
+M02345,2024-08-20,Monthly,35-44,Eastside,cancelled,2026-08-09,2026-08-09
+M02346,12/04/2026,MONTHLY,,Northfield,active,,2026-05-07
+M02347,2024-10-29,Annual,55-64,Westgate,active,,2026-05-19
+M02348,15/05/2025,Monthly,25-34,Waterside,active,,2026-06-05
+M02349,2024-08-17,Monthly,16-24,Westgate,cancelled,2026-07-13,2026-07-13
+M02350,12 Jul 2026,Monthly,45-54,Northfield,active,,2026-07-30
+M02351,2024-10-29,MONTHLY,45-54,Fernhill,Cancelled,2026-04-26,2026-04-26
+M02352,2026-03-29,Annual,55-64,Eastside,active,,2026-05-30
+M02353,12 Jun 2024,Monthly,25-34,Southside,cancelled,2026-05-05,2026-05-05
+M02354,2026-04-03,Monthly,16-24,University,cancelled,2026-07-21,2026-07-21
+M02355,04/01/2024,Monthly,25-34,Southside,active,,2024-08-18
+M02356,2026-06-28,Monthly,25-34,Hillcrest,active,,2026-07-21
+M02357,14 May 2024,Monthly,55-64,Westgate,ACTIVE,,2024-11-21
+M02358,01/04/2026,Monthly,16-24,Fernhill,active,,2026-07-30
+M02359,2026-07-17,Annual,55-64,Northfield,active,,2026-07-31
+M02360,2026-05-10,Annual,55-64,Westgate,active,,2026-06-19
+M02361,2024-12-22,Monthly,16-24,Eastside,active,,2025-08-22
+M02362,2026-07-09,Monthly,25-34,Westgate,active,,2026-08-16
+M02363,2024-04-15,annual,45-54,Eastside,active,,2025-10-27
+M02364,12 Apr 2026,Annual,16 - 24,Eastside,active,,2026-07-19
+M02365,23 Oct 2025,Monthly,16-24,City Centre,active,,2026-01-04
+M02366,2024-02-09,Monthly ,45-54,Eastside,active,,2024-03-01
+M02367,11 Jan 2026,Monthly,25-34,Hillcrest,Active,,2026-03-22
+M02368,24/04/2026,Annual,35-44,Westgate,active,,2026-07-18
+M02369,2026-05-06,MONTHLY,16-24,University,active,,2026-06-26
+M02370,09/09/2024,Monthly,25 - 34,Hillcrest,cancelled,2025-11-10,2025-11-10
+M02371,2025-12-03,Monthly,25-34,Southside,cancelled,2026-01-11,2026-01-11
+M02372,2024-06-01,Annual,25-34,Westgate,active,,2025-02-02
+M02373,17 Jan 2026,ANNUAL,65+,Hillcrest,active,,2026-03-30
+M02374,25/09/2024,Monthly,25-34,Waterside,ACTIVE,,2025-02-12
+M02375,13 May 2025,Monthly,25-34,Fernhill,Active,,2025-08-17
+M02376,2025-11-05,Annual,35 - 44,Eastside,Cancelled,2026-02-23,2026-02-23
+M02377,2026-07-20,Annual ,45-54,Northfield,Active,,2026-08-25
+M02378,2025-06-28,Monthly,55-64,Northfield,active,,2026-07-27
+M02379,2024-05-13,Monthly,55-64,Eastside,ACTIVE,,2025-10-10
+M02380,2025-10-04,Annual,16-24,Eastside,active,,2026-04-16
+M02381,10 Jun 2026,Annual,35-44,Southside,ACTIVE,,2026-07-31
+M02382,2025-07-28,Annual ,45 - 54,Southside,Cancelled,2025-09-15,2025-09-15
+M02383,2025-10-20,Annual,55-64,Northfield,active,,2026-06-26
+M02384,18 Aug 2026,Annual,25-34,Northfield,ACTIVE,,2026-08-29
+M02385,7 Apr 2024,Annual,55-64,Northfield,active,,2024-06-28
+M02386,10/04/2025,Monthly ,55-64,Southside,cancelled,2026-04-12,2026-04-12
+M02387,2025-10-04,Annual ,25-34,City Centre,cancelled,2026-08-28,2026-08-28
+M02388,15/01/2026,Annual,16-24,University,active,,2026-05-09
+M02389,08/11/2025,Annual ,35-44,Fernhill,cancelled,2025-12-15,2025-12-15
+M02390,13/11/2024,Annual,25-34,Westgate,CANCELLED,2025-08-24,2025-08-24
+M02391,2026-01-05,Monthly,55-64,Hillcrest,active,,2026-07-02
+M02392,21/11/2024,Monthly,35-44,Northfield,cancelled,2025-03-18,2025-03-18
+M02393,3 Jul 2024,Monthly,45-54,Westgate,active,,2024-10-24
+M02394,2024-03-20,monthly,45-54,Northfield,cancelled,2026-04-29,2026-04-29
+M02395,2025-08-30,Monthly,45-54,Westgate,active,,2025-09-03
+M02396,2026-08-07,Monthly,,Westgate,Active,,2026-08-25
+M02397,2024-12-18,Monthly,16-24,Westgate,cancelled,2026-06-15,2026-06-15
+M02398,2026-03-20,Monthly,55-64,Eastside,ACTIVE,,2026-06-27
+M02399,2024-06-08,Monthly,16-24,University,cancelled,2026-06-12,2026-06-12
+M02400,27/04/2025,Monthly,55-64,Waterside,cancelled,2026-06-11,2026-06-11
+M02401,2026-06-24,Monthly,25 - 34,Eastside,active,,2026-08-30
+M02402,2025-12-01,ANNUAL,25-34,Eastside,Active,,2026-06-25
+M02403,20/06/2025,Monthly,55-64,Northfield,Active,,2025-12-23
+M02405,2024-04-13,MONTHLY,25-34,Southside,active,,2025-02-01
+M02406,11/03/2024,annual,25-34,Fernhill,cancelled,2025-11-15,2025-11-15
+M02407,2024-09-19,Monthly,16-24,University,Cancelled,2026-07-09,2026-07-09
+M02408,12 Jul 2026,Monthly,25-34,Westgate,active,,2026-07-30
+M02409,2024-08-16,Annual,35-44,Eastside,cancelled,2025-02-13,2025-02-13
+M02410,2025-03-16,Monthly,25 - 34,Fernhill,Cancelled,2026-04-12,2026-04-12
+M02411,22/11/2024,Annual,25-34,Fernhill,active,,2025-07-14
+M02412,2025-12-13,Monthly,16-24,Southside,active,,2026-05-09
+M02413,2025-11-12,Annual,16-24,University,Active,,2026-03-02
+M02414,09/10/2025,Monthly,35-44,Westgate,ACTIVE,,2026-03-11
+M02415,2026-01-27,Monthly,,Westgate,cancelled,2026-07-07,2026-07-07
+M02416,2025-11-01,Annual,45-54,Eastside,Active,,2026-03-05
+M02417,2024-04-01,Monthly,45-54,Waterside,cancelled,2026-08-06,2026-08-06
+M02418,2024-11-11,Monthly,65+,Fernhill,ACTIVE,,2025-12-21
+M02419,2026-06-30,Monthly,,Hillcrest,ACTIVE,,2026-07-13
+M02420,11/02/2026,Monthly,35 - 44,City Centre,active,,2026-08-07
+M02421,2025-04-14,Monthly,55 - 64,Eastside,active,,2025-04-24
+M02422,2024-04-15,Annual,16-24,Eastside,Active,,2025-12-04
+M02423,2026-02-13,Monthly,35-44,Waterside,Active,,2026-06-07
+M02425,30/09/2025,Monthly,65+,Northfield,cancelled,2026-05-31,2026-05-31
+M02426,2025-03-06,monthly,,Eastside,ACTIVE,,2026-08-22
+M02427,10 Jan 2026,Monthly,35-44,Northfield,Active,,2026-07-24
+M02428,2025-01-28,Monthly,35-44,Eastside,active,,2026-03-28
+M02429,2025-02-25,Monthly,25-34,Eastside,active,,2025-09-19
+M02430,25/03/2026,Monthly,16-24,Westgate,active,,2026-07-31
+M02431,26 Jun 2024,Monthly,25-34,Hillcrest,CANCELLED,2026-04-05,2026-04-05
+M02432,2025-11-14,Annual,45-54,Northfield,active,,2026-08-25
+M02433,14/08/2026,Annual,25-34,City Centre,Active,,2026-08-23
+M02434,03/10/2024,MONTHLY,35-44,Eastside,cancelled,2026-05-30,2026-05-30
+M02435,2024-04-06,Monthly,35-44,Northfield,active,,2026-01-19
+M02436,15 Apr 2024,Monthly,35-44,Northfield,cancelled,2024-12-10,2024-12-10
+M02437,07/11/2024,Annual,55-64,Westgate,cancelled,2025-07-01,2025-07-01
+M02438,2 Nov 2024,Monthly,16 - 24,Northfield,cancelled,2026-04-13,2026-04-13
+M02439,16/04/2026,Annual,65+,Southside,active,,2026-07-09
+M02440,2025-11-03,Annual,25-34,Westgate,active,,2026-07-15
+M02441,20/10/2025,monthly,45-54,Fernhill,active,,2025-11-28
+M02442,8 Mar 2024,annual,45-54,Eastside,active,,2025-12-01
+M02443,2024-11-01,Monthly,16-24,Hillcrest,cancelled,2026-08-01,2026-08-01
+M02444,2026-05-08,Annual ,55-64,City Centre,ACTIVE,,2026-06-06
+M02445,2025-08-23,Monthly,55-64,Northfield,CANCELLED,2026-02-15,2026-02-15
+M02446,18 May 2025,staff,16-24,Hillcrest,active,,2025-08-19
+M02447,2025-09-07,Monthly,16-24,Hillcrest,cancelled,2026-07-01,2026-07-01
+M02448,4 Jul 2025,Monthly,35-44,Southside,Active,,2026-01-08
+M02449,19/07/2025,Staff,25-34,Northfield,Active,,2026-01-10
+M02450,05/06/2025,Annual,,Hillcrest,active,,2025-10-08
+M02451,2026-06-11,Monthly,25-34,City Centre,Active,,2026-07-02
+M02452,2024-03-12,Annual,,Westgate,active,,2025-09-14
+M02453,2024-10-11,Annual,65+,Eastside,active,,2026-01-02
+M02454,28/01/2024,Annual,35-44,Fernhill,active,,2024-05-08
+M02455,2024-06-05,Monthly,16-24,Eastside,Active,,2025-01-04
+M02456,2026-06-25,Annual,25-34,Northfield,ACTIVE,,2026-07-24
+M02457,26/08/2024,Monthly,16-24,University,active,,2026-08-24
+M02458,2026-03-04,Annual,25-34,Southside,active,,2026-06-25
+M02459,2026-06-13,Monthly,25-34,Hillcrest,active,,2026-06-18
+M02460,2026-07-12,Monthly,45-54,Northfield,active,,2026-07-14
+M02461,8 Apr 2024,Annual,45-54,Waterside,Active,,2025-01-29
+M02462,2025-11-25,Annual,55-64,Fernhill,active,,2026-04-02
+M02463,29 May 2026,Monthly,25-34,Northfield,active,,2026-08-24
+M02464,2026-03-05,Monthly,16-24,University,ACTIVE,,2026-07-18
+M02465,14/08/2024,Monthly,25-34,University,cancelled,2026-03-04,2026-03-04
+M02466,2024-09-16,Monthly,35-44,Northfield,active,,2025-09-23
+M02467,2026-04-28,Monthly,16-24,Eastside,active,,2026-07-18
+M02470,2025-09-25,Annual,45-54,Eastside,active,,2026-08-21
+M02471,02/11/2024,Monthly,45-54,Eastside,active,,2025-05-03
+M02472,2026-03-06,Annual,16-24,Fernhill,active,,2026-04-29
+M02474,2026-04-10,Annual,55-64,Eastside,active,,2026-06-25
+M02475,2025-05-18,monthly,35-44,Southside,Active,,2025-09-24
+M02476,2024-12-31,Monthly,35-44,City Centre,Active,,2025-03-29
+M02477,20 May 2024,Monthly,25 - 34,Northfield,cancelled,2025-12-25,2025-12-25
+M02478,2024-10-01,Annual,35-44,Eastside,active,,2026-04-17
+M02479,2025-06-24,Monthly,,Westgate,active,,2025-12-11
+M02480,2024-02-25,Monthly,,Eastside,ACTIVE,,2024-11-24
+M02481,14/04/2024,Monthly,55-64,City Centre,ACTIVE,,2025-05-30
+M02482,2025-06-24,annual,35-44,Southside,active,,2025-08-06
+M02483,2025-08-29,monthly,25-34,City Centre,Active,,2026-04-26
+M02484,2024-07-28,MONTHLY,16-24,Westgate,cancelled,2026-07-14,2026-07-14
+M02485,04/06/2025,Monthly,25-34,City Centre,ACTIVE,,2026-07-01
+M02486,2024-11-26,Annual,45-54,Northfield,active,,2025-08-13
+M02487,2024-07-20,Annual,35-44,Westgate,cancelled,2025-12-08,2025-12-08
+M02488,2025-03-03,Annual,,Westgate,active,,2026-02-05
+M02489,20 Sep 2024,Annual,25-34,Eastside,cancelled,2026-02-23,2026-02-23
+M02490,2025-07-21,Monthly,45-54,Westgate,CANCELLED,2025-12-11,2025-12-11
+M02491,2025-12-23,Monthly,25-34,Northfield,active,,2026-06-11
+M02492,2025-02-02,Annual,55-64,Northfield,active,,2026-03-14
+M02493,2024-08-12,Annual,55-64,Southside,ACTIVE,,2024-10-08
+M02494,2024-09-11,Annual,45-54,Fernhill,active,,2025-01-25
+M02495,2026-01-24,Annual,25-34,Waterside,Active,,2026-02-21
+M02496,29 May 2026,Monthly,16-24,Northfield,active,,2026-07-27
+M02497,2024-12-08,monthly,35-44,Eastside,active,,2026-04-21
+M02498,04/01/2025,Annual,55-64,Hillcrest,active,,2025-09-10
+M02499,17/04/2026,Annual,25-34,University,active,,2026-07-18
+M02500,2026-05-09,Annual ,35-44,Hillcrest,active,,2026-07-13
+M02501,2026-05-23,Monthly,25-34,Northfield,active,,2026-06-21
+M02502,17/06/2025,Monthly,35-44,Northfield,ACTIVE,,2025-08-18
+M02503,14 Mar 2026,Monthly,45-54,Southside,ACTIVE,,2026-07-29
+M02504,30 Sep 2024,Monthly,55-64,Westgate,cancelled,2026-07-10,2026-07-10
+M02505,2024-01-03,Monthly,35-44,Southside,active,,2026-03-07
+M02506,29/09/2024,Monthly,35-44,Westgate,cancelled,2026-03-18,2026-03-18
+M02507,16/08/2024,Annual,45-54,City Centre,active,,2024-11-29
+M02508,2025-09-04,Monthly ,55-64,Eastside,cancelled,2026-08-28,2026-08-28
+M02509,9 Aug 2026,Monthly,25-34,Northfield,active,,2026-08-12
+M02510,2024-01-09,Monthly,55-64,Eastside,active,,2024-06-05
+M02511,2024-09-27,annual,55-64,Northfield,active,,2025-03-31
+M02512,2026-04-18,Monthly,55-64,Eastside,active,,2026-06-16
+M02513,15/08/2024,Monthly,25-34,Northfield,ACTIVE,,2026-06-12
+M02514,20 Apr 2024,Annual,35-44,Eastside,Cancelled,2025-07-07,2025-07-07
+M02515,2025-06-20,Annual ,35-44,Westgate,Cancelled,2026-06-30,2026-06-30
+M02516,18/04/2026,Monthly,25-34,Westgate,ACTIVE,,2026-08-17
+M02517,04/04/2024,Annual,65+,Southside,ACTIVE,,2024-09-08
+M02518,2026-03-16,Monthly,35-44,Northfield,Active,,2026-05-02
+M02519,20 Sep 2024,Monthly,16-24,Waterside,CANCELLED,2026-08-22,2026-08-22
+M02520,2025-07-04,Monthly,35-44,Southside,cancelled,2026-08-06,2026-08-06
+M02521,2024-08-15,Monthly,16-24,Fernhill,active,,2025-03-06
+M02522,21 Aug 2026,Annual,55-64,City Centre,ACTIVE,,2026-08-28
+M02523,25/03/2025,annual,45-54,Northfield,cancelled,2025-10-10,2025-10-10
+M02524,2024-06-24,Monthly,45-54,Westgate,ACTIVE,,2026-05-11
+M02525,2026-03-29,monthly,16-24,Northfield,active,,2026-05-03
+M02526,2025-03-07,Monthly,16-24,Westgate,cancelled,2026-02-17,2026-02-17
+M02528,2024-09-19,Monthly,35-44,Northfield,ACTIVE,,2026-05-23
+M02529,2025-03-29,Annual,25-34,Hillcrest,CANCELLED,2025-11-03,2025-11-03
+M02530,4 Oct 2024,Annual,45-54,Northfield,active,,2025-12-09
+M02531,18/05/2025,Monthly,16-24,University,Active,,2025-08-17
+M02532,11 Sep 2025,annual,16-24,Northfield,Cancelled,2026-02-18,2026-02-18
+M02534,2026-01-13,Monthly,35-44,Northfield,active,,2026-03-12
+M02535,2025-04-23,Annual,35-44,Northfield,active,,2025-08-23
+M02536,2025-03-07,Monthly,25-34,City Centre,cancelled,2026-04-08,2026-04-08
+M02537,16/03/2026,Monthly,35-44,Eastside,active,,2026-04-17
+M02538,2025-11-21,monthly,55-64,Hillcrest,active,,2026-02-27
+M02539,2025-09-03,Monthly,25-34,Southside,cancelled,2025-11-25,2025-11-25
+M02541,27/08/2025,Monthly,25-34,Southside,cancelled,2026-04-24,2026-04-24
+M02542,2 Apr 2026,annual,55-64,Fernhill,active,,2026-08-17
+M02543,12/06/2026,Annual,35-44,Northfield,ACTIVE,,2026-06-22
+M02544,2025-12-24,Annual,45-54,Eastside,active,,2026-01-10
+M02545,2026-07-14,Annual,,City Centre,active,,2026-08-19
+M02546,2026-03-08,monthly,35-44,Hillcrest,active,,2026-04-04
+M02547,2026-04-12,monthly,16-24,University,active,,2026-08-20
+M02548,14/09/2024,MONTHLY,16-24,Eastside,cancelled,2026-05-13,2026-05-13
+M02549,2026-05-27,Annual,45-54,Southside,active,,2026-06-21
+M02550,2025-12-27,Annual,16-24,Northfield,cancelled,2026-02-15,2026-02-15
+M02551,2026-01-27,Annual,25-34,Waterside,Active,,2026-08-02
+M02552,2026-03-28,Annual ,25-34,Fernhill,active,,2026-07-02
+M02553,2025-08-19,Annual ,35-44,Northfield,Active,,2025-10-18
+M02555,19 May 2026,Annual ,,Eastside,Active,,2026-06-07
+M02556,2025-04-09,Annual,25-34,City Centre,active,,2026-06-23
+M02558,2025-08-27,Monthly,55-64,Southside,cancelled,2026-03-18,2026-03-18
+M02559,2024-11-17,Annual,16-24,Westgate,active,,2025-08-28
+M02560,26 Jul 2026,Monthly,,Eastside,active,,2026-08-12
+M02561,2026-06-12,Monthly ,,University,active,,2026-08-19
+M02562,2025-12-28,Annual,25-34,Northfield,cancelled,2026-02-02,2026-02-02
+M02563,15 Aug 2024,Monthly,25-34,Eastside,Active,,2025-08-07
+M02564,2024-05-09,Annual,35 - 44,Fernhill,cancelled,2026-03-23,2026-03-23
+M02565,12 Jan 2024,Monthly,16-24,City Centre,Active,,2024-07-04
+M02566,10/12/2025,Staff ,45-54,Northfield,active,,2026-01-10
+M02567,2025-09-20,Monthly,25-34,Northfield,active,,2025-09-20
+M02567,2025-09-20,Annual ,25-34,Northfield,ACTIVE,,2025-12-03
+M02568,2026-07-16,ANNUAL,45-54,Northfield,active,,2026-08-04
+M02569,2025-07-09,MONTHLY,16-24,Westgate,cancelled,2025-10-02,2025-10-02
+M02570,09/10/2024,Monthly,35-44,Westgate,active,,2026-06-04
+M02571,2026-05-13,Annual,55-64,Eastside,active,,2026-08-30
+M02572,2024-08-30,Monthly,16-24,Hillcrest,cancelled,2026-02-02,2026-02-02
+M02573,19/06/2026,annual,35-44,Southside,active,,2026-07-20
+M02574,2025-03-29,Annual,25-34,Westgate,ACTIVE,,2025-09-20
+M02575,28 Apr 2026,monthly,25-34,City Centre,cancelled,2026-07-24,2026-07-24
+M02576,2024-12-05,Monthly,25-34,Northfield,active,,2025-06-10
+M02578,2024-08-18,Annual ,25-34,Southside,active,,2025-07-17
+M02579,29/04/2024,Annual,25-34,Westgate,active,,2026-08-20
+M02581,2024-02-01,Annual,45-54,Southside,cancelled,2026-02-25,2026-02-25
+M02582,5 Jan 2024,Annual,35-44,City Centre,ACTIVE,,2026-03-10
+M02583,2025-09-02,Monthly,45-54,Northfield,ACTIVE,,2026-01-10
+M02584,2025-03-06,Monthly,45-54,Southside,active,,2025-03-25
+M02585,20/10/2024,Monthly,45-54,Southside,Active,,2025-12-06
+M02586,11/05/2024,MONTHLY,16-24,Hillcrest,active,,2025-05-18
+M02587,16 May 2024,Monthly,16-24,University,active,,2026-01-02
+M02588,2025-09-30,Annual,16-24,Eastside,active,,2026-07-16
+M02589,30 Jul 2026,Annual,35-44,Eastside,active,,2026-08-19
+M02590,2025-04-28,Monthly,55-64,Eastside,active,,2025-09-10
+M02591,2024-03-01,Annual,45-54,Westgate,cancelled,2024-05-31,2024-05-31
+M02592,2025-04-11,Monthly,35-44,Hillcrest,active,,2026-04-13
+M02593,20 Nov 2025,Monthly,25-34,University,cancelled,2026-03-25,2026-03-25
+M02594,20 Apr 2026,Annual,35-44,City Centre,active,,2026-04-26
+M02595,2024-06-28,Annual,35-44,Waterside,cancelled,2025-06-16,2025-06-16
+M02596,1 Jun 2026,Monthly,16-24,Westgate,cancelled,2026-07-21,2026-07-21
+M02597,26 Jul 2026,Monthly,35-44,Southside,ACTIVE,,2026-08-19
+M02598,2026-05-09,Monthly,16-24,University,Active,,2026-08-03
+M02599,21 Jul 2026,Monthly,16-24,Westgate,Active,,2026-08-26
+M02600,4 Oct 2025,Monthly,35-44,Southside,cancelled,2026-05-31,2026-05-31
+M02601,2025-10-03,Monthly,16-24,University,active,,2025-10-03
+M02601,2025-10-03,annual,16-24,University,active,,2025-12-18
+M02603,2025-05-27,Annual,65+,Southside,cancelled,2026-08-10,2026-08-10
+M02604,2026-08-23,Annual,16-24,Southside,active,,2026-08-31
+M02605,2025-05-30,Annual,25 - 34,Eastside,ACTIVE,,2026-04-20
+M02606,15/02/2026,Monthly,45-54,Northfield,Active,,2026-03-08
+M02607,12 Apr 2026,Annual,45-54,Northfield,active,,2026-08-17
+M02608,2025-07-12,Monthly,55-64,Northfield,active,,2025-10-23
+M02609,10 Feb 2026,Monthly,16-24,University,Cancelled,2026-07-04,2026-07-04
+M02610,2025-10-24,Annual,55-64,City Centre,Cancelled,2026-01-27,2026-01-27
+M02611,14/01/2025,Monthly,35-44,Northfield,cancelled,2026-07-05,2026-07-05
+M02612,08/08/2026,annual,35-44,Northfield,Active,,2026-08-22
+M02613,9 Jan 2024,Annual,25-34,Southside,Active,,2025-08-20
+M02614,2024-06-10,monthly,35-44,Westgate,Cancelled,2026-02-22,2026-02-22
+M02615,2025-02-15,Monthly,25-34,Northfield,Active,,2025-04-08
+M02616,2024-01-19,MONTHLY,16 - 24,University,active,,2024-11-01
+M02617,8 Apr 2024,Monthly,16-24,City Centre,Cancelled,2026-07-12,2026-07-12
+M02618,2024-08-14,Annual,16-24,Southside,ACTIVE,,2026-01-06
+M02619,13/07/2025,Monthly,55-64,Northfield,cancelled,2025-09-30,2025-09-30
+M02620,09/04/2025,Monthly,55-64,Westgate,ACTIVE,,2025-12-18
+M02621,13 Jan 2024,Monthly,16-24,Hillcrest,active,,2026-07-31
+M02622,11/05/2026,Monthly,16-24,University,cancelled,2026-07-03,2026-07-03
+M02623,03/10/2025,Monthly,25-34,Southside,cancelled,2026-06-15,2026-06-15
+M02624,2025-10-26,Annual,,University,active,,2026-06-05
+M02625,2024-07-24,Monthly,45-54,Southside,Active,,2025-04-23
+M02626,2024-11-03,Monthly,25-34,Eastside,active,,2026-05-02
+M02627,2024-09-13,Monthly ,35-44,Northfield,Cancelled,2025-05-11,2025-05-11
+M02628,12/11/2025,Annual,55-64,Northfield,ACTIVE,,2026-08-16
+M02629,08/06/2025,Monthly,65+,Northfield,active,,2026-06-20
+M02630,26/07/2026,Annual,35-44,Northfield,active,,2026-08-12
+M02631,2024-01-08,Monthly,35-44,City Centre,active,,2026-04-28
+M02632,27 Feb 2024,Monthly,45-54,Northfield,cancelled,2026-07-17,2026-07-17
+M02633,2025-11-05,Monthly,25-34,City Centre,active,,2025-12-01
+M02634,26 Feb 2026,Monthly,16-24,University,cancelled,2026-07-30,2026-07-30
+M02635,30/11/2025,Monthly,16-24,University,cancelled,2026-05-08,2026-05-08
+M02636,2025-12-08,Annual,16-24,Hillcrest,active,,2026-07-03
+M02637,2024-01-07,Annual,16-24,Hillcrest,Cancelled,2026-06-11,2026-06-11
+M02638,2025-11-27,Annual,,City Centre,Active,,2026-06-25
+M02639,14/12/2024,Annual,25-34,Waterside,cancelled,2025-12-27,2025-12-27
+M02640,2025-07-31,Annual,55-64,Northfield,active,,2026-04-05
+M02641,16 Jul 2026,Annual,55-64,Fernhill,active,,2026-08-24
+M02642,01/12/2024,monthly,25-34,Northfield,cancelled,2026-03-02,2026-03-02
+M02643,2026-03-03,Annual ,16-24,University,active,,2026-07-07
+M02645,2025-01-13,Monthly,25-34,Northfield,active,,2025-01-20
+M02646,2024-08-19,Annual,,Southside,Active,,2024-11-01
+M02647,2026-04-25,monthly,25-34,Westgate,active,,2026-06-29
+M02648,29/12/2024,Annual,45-54,Westgate,active,,2026-02-20
+M02649,2024-07-16,Annual,35-44,City Centre,active,,2025-03-11
+M02650,08/02/2025,Monthly,16-24,University,ACTIVE,,2025-12-26
+M02651,31/03/2026,Monthly,16-24,University,cancelled,2026-05-08,2026-05-08
+M02652,7 Nov 2024,Monthly,25-34,Northfield,cancelled,2026-02-11,2026-02-11
+M02653,21/12/2025,monthly,25-34,Northfield,Cancelled,2026-05-29,2026-05-29
+M02654,2026-07-06,annual,25-34,Westgate,ACTIVE,,2026-08-07
+M02655,2025-12-09,Monthly,16-24,University,cancelled,2026-03-27,2026-03-27
+M02656,2026-06-19,Monthly,25-34,Southside,active,,2026-06-20
+M02657,13/02/2026,Annual,55-64,Southside,cancelled,2026-04-16,2026-04-16
+M02658,08/10/2024,Monthly,16-24,Hillcrest,active,,2026-08-07
+M02659,2025-08-14,MONTHLY,55-64,Southside,active,,2025-10-08
+M02660,2025-09-24,Monthly,45-54,Fernhill,active,,2025-10-14
+M02661,2026-06-28,monthly,35-44,Northfield,active,,2026-06-29
+M02662,2026-07-27,monthly,65+,Fernhill,active,,2026-08-21
+M02663,2025-09-25,ANNUAL,55-64,Southside,cancelled,2025-12-05,2025-12-05
+M02664,15/03/2025,ANNUAL,25-34,Northfield,cancelled,2025-09-15,2025-09-15
+M02665,2026-02-07,Monthly,45-54,Hillcrest,ACTIVE,,2026-05-29
+M02666,2025-10-05,ANNUAL,25-34,Northfield,active,,2026-08-26
+M02667,2024-02-24,Monthly,25-34,Westgate,cancelled,2026-03-13,2026-03-13
+M02668,2024-07-09,Annual ,35-44,City Centre,cancelled,2026-07-18,2026-07-18
+M02669,2026-05-24,Annual,16-24,Hillcrest,ACTIVE,,2026-08-02
+M02670,03/08/2026,Monthly,35 - 44,Westgate,active,,2026-08-28
+M02671,2024-10-26,Annual,25-34,Eastside,active,,2024-11-30
+M02672,2024-01-20,Monthly,35-44,Eastside,active,,2026-04-01
+M02673,2024-01-29,Monthly,16-24,Waterside,active,,2025-09-22
+M02674,28/11/2025,Annual,35-44,City Centre,cancelled,2026-06-08,2026-06-08
+M02675,26/08/2024,MONTHLY,45-54,Northfield,Active,,2025-03-03
+M02676,2024-03-22,Monthly,35-44,Westgate,cancelled,2026-05-22,2026-05-22
+M02677,2026-02-17,Annual,45 - 54,Fernhill,active,,2026-07-20
+M02678,2026-04-09,Monthly,16-24,Hillcrest,active,,2026-06-13
+M02679,11/07/2024,Monthly,35-44,Northfield,active,,2024-10-12
+M02680,2026-03-10,monthly,35-44,Eastside,cancelled,2026-07-06,2026-07-06
+M02681,2024-03-30,annual,55-64,Hillcrest,active,,2024-12-01
+M02682,14/05/2025,Annual,55-64,Hillcrest,Active,,2025-10-17
+M02683,01/07/2024,Annual,65+,Westgate,active,,2024-12-23
+M02684,2024-05-29,Monthly ,45-54,Southside,active,,2024-06-20
+M02685,10/01/2025,Monthly,16-24,Westgate,Active,,2025-09-18
+M02686,2024-01-03,Monthly,16-24,Westgate,ACTIVE,,2024-12-09
+M02687,16/06/2025,Monthly,35-44,Eastside,cancelled,2026-02-21,2026-02-21
+M02688,02/02/2026,Monthly,,Westgate,Active,,2026-08-09
+M02689,2024-12-14,Monthly,55-64,Westgate,cancelled,2026-03-21,2026-03-21
+M02690,2024-04-22,MONTHLY,25-34,Northfield,cancelled,2024-08-28,2024-08-28
+M02691,2024-06-01,Monthly,35-44,Northfield,active,,2026-05-04
+M02693,22/01/2024,Annual,65+,Westgate,active,,2024-03-14
+M02694,2025-09-08,Monthly,25-34,Northfield,cancelled,2026-08-11,2026-08-11
+M02695,11/10/2024,Monthly,,Southside,cancelled,2026-07-06,2026-07-06
+M02696,29 Apr 2024,Monthly,25 - 34,Northfield,ACTIVE,,2024-12-18
+M02697,2024-12-08,Monthly,,University,CANCELLED,2025-01-26,2025-01-26
+M02698,21/01/2024,Annual,35-44,Southside,active,,2026-03-04
+M02699,4 Apr 2024,Monthly,35-44,Hillcrest,active,,2026-02-18
+M02700,7 Sep 2024,Annual,45-54,Westgate,ACTIVE,,2025-09-28
+M02701,2024-07-28,Monthly,45-54,Eastside,active,,2025-09-07
+M02702,29 Jun 2024,monthly,45-54,Southside,active,,2024-11-09
+M02703,2026-06-05,Monthly,45-54,Southside,Active,,2026-07-25
+M02704,08/03/2026,Monthly,45-54,Hillcrest,active,,2026-04-09
+M02705,2 Dec 2025,Monthly,55-64,Southside,active,,2026-04-06
+M02706,25/08/2024,Annual,,Northfield,active,,2026-06-13
+M02707,2025-10-26,Monthly,16-24,University,active,,2026-01-12
+M02709,9 Jan 2025,annual,16-24,Fernhill,CANCELLED,2026-02-19,2026-02-19
+M02710,20 Jun 2024,Annual ,45-54,Hillcrest,CANCELLED,2025-09-18,2025-09-18
+M02711,2025-02-24,Annual ,35-44,Eastside,cancelled,2025-11-16,2025-11-16
+M02712,2025-05-15,Monthly,25-34,Westgate,active,,2025-11-07
+M02713,19/10/2024,Monthly,16-24,University,active,,2026-04-01
+M02714,08/09/2025,Monthly,55-64,City Centre,cancelled,2026-01-28,2026-01-28
+M02715,2025-11-12,Monthly,35-44,City Centre,cancelled,2026-05-25,2026-05-25
+M02716,2026-07-17,Monthly,45 - 54,Southside,Active,,2026-08-19
+M02717,2025-08-10,Monthly,16-24,Hillcrest,active,,2025-09-24
+M02718,2025-08-15,Annual,45-54,Northfield,active,,2026-02-12
+M02719,2026-05-10,Monthly,25 - 34,Southside,active,,2026-08-16
+M02720,15/06/2026,Annual,16-24,Southside,active,,2026-08-06
+M02721,11 Jan 2026,ANNUAL,45-54,Northfield,active,,2026-04-27
+M02722,2024-09-03,Monthly,35-44,City Centre,active,,2024-12-15
+M02723,2024-10-29,Monthly,45-54,Fernhill,ACTIVE,,2025-06-05
+M02724,2026-08-04,Annual,25-34,Fernhill,active,,2026-08-23
+M02725,2025-05-06,Monthly,25-34,City Centre,cancelled,2025-11-22,2025-11-22
+M02726,2026-05-09,Annual,35-44,Northfield,active,,2026-06-01
+M02727,14/12/2024,monthly,45-54,Southside,Active,,2025-08-13
+M02728,09/07/2026,monthly,45-54,Southside,active,,2026-07-11
+M02729,24/01/2025,Annual,35-44,Northfield,Active,,2025-07-17
+M02730,12/01/2024,monthly,16-24,Westgate,cancelled,2026-02-11,2026-02-11
+M02731,2025-02-25,Monthly,25-34,Westgate,ACTIVE,,2026-01-07
+M02732,01/08/2026,Annual,16-24,University,active,,2026-08-04
+M02733,2026-04-25,Annual,55-64,Northfield,active,,2026-06-01
+M02734,19/07/2026,Monthly ,,Eastside,active,,2026-08-12
+M02735,17 Jun 2026,Monthly,35-44,Fernhill,active,,2026-08-10
+M02736,2025-09-03,ANNUAL,35 - 44,Westgate,active,,2025-11-04
+M02739,2025-04-01,Annual ,35-44,Westgate,ACTIVE,,2025-07-02
+M02740,21 Mar 2026,Annual,35-44,Southside,active,,2026-05-07
+M02741,2026-08-29,Annual,35-44,Westgate,ACTIVE,,2026-08-30
+M02742,19/07/2024,Annual,45-54,Southside,active,,2025-10-17
+M02743,29/03/2024,Monthly,16-24,University,cancelled,2024-08-30,2024-08-30
+M02744,08/01/2024,Monthly,45-54,Eastside,cancelled,2024-05-20,2024-05-20
+M02745,07/05/2026,Monthly,25-34,Southside,active,,2026-06-16
+M02746,8 Jun 2025,Monthly,25 - 34,Westgate,cancelled,2026-02-20,2026-02-20
+M02747,07/07/2026,Annual,,Southside,ACTIVE,,2026-08-24
+M02749,2026-08-20,Annual,45-54,Southside,active,,2026-08-26
+M02750,05/08/2025,annual,35-44,Northfield,cancelled,2025-10-31,2025-10-31
+M02752,2026-06-08,Monthly,35-44,Northfield,active,,2026-06-23
+M02753,23/11/2025,Monthly,45-54,Northfield,active,,2026-02-23
+M02754,05/12/2024,Annual,35-44,Hillcrest,Active,,2025-08-09
+M02755,02/03/2026,Annual,16-24,University,active,,2026-04-08
+M02756,7 May 2026,Monthly,45-54,Fernhill,ACTIVE,,2026-05-15
+M02757,23/06/2024,Monthly,35-44,Westgate,Cancelled,2026-03-20,2026-03-20
+M02758,2025-03-26,Annual,55-64,Eastside,CANCELLED,2026-08-26,2026-08-26
+M02759,08/02/2025,Annual,35-44,Westgate,CANCELLED,2026-07-06,2026-07-06
+M02760,22/05/2026,ANNUAL,25-34,Northfield,active,,2026-08-05
+M02761,10/05/2026,Annual,35-44,Eastside,active,,2026-05-31
+M02762,12/11/2025,Monthly,16-24,Hillcrest,Active,,2026-08-12
+M02763,2024-03-18,Monthly,,Northfield,active,,2025-02-04
+M02764,7 Nov 2024,Monthly,25-34,Fernhill,active,,2026-07-02
+M02765,06/07/2024,Monthly,25-34,Fernhill,cancelled,2026-08-10,2026-08-10
+M02766,2024-03-27,Monthly,16-24,University,cancelled,2026-06-26,2026-06-26
+M02767,2024-09-12,Monthly ,45-54,Eastside,active,,2025-09-04
+M02768,08/04/2026,monthly,55-64,Southside,cancelled,2026-08-31,2026-08-31
+M02769,2025-02-23,monthly,25-34,Eastside,active,,2026-02-01
+M02770,24 Jul 2026,Monthly,35-44,Northfield,active,,2026-08-07
+M02772,2024-10-06,Monthly,55-64,Fernhill,cancelled,2024-12-01,2024-12-01
+M02773,21/02/2024,Monthly,35-44,Westgate,Cancelled,2026-05-02,2026-05-02
+M02775,2025-12-25,annual,25-34,Northfield,active,,2026-05-18
+M02776,16 Feb 2026,Monthly,35-44,Southside,cancelled,2026-04-27,2026-04-27
+M02777,2026-03-06,Monthly,16 - 24,Westgate,active,,2026-03-16
+M02778,27/08/2026,Monthly,65+,Northfield,ACTIVE,,2026-08-30
+M02779,2026-05-09,Monthly,45 - 54,City Centre,active,,2026-07-08
+M02780,2024-11-15,Monthly,25-34,City Centre,active,,2026-02-27
+M02781,18/02/2024,MONTHLY,25-34,City Centre,cancelled,2026-04-14,2026-04-14
+M02782,22/01/2024,MONTHLY,16-24,University,active,,2024-02-28
+M02783,2025-05-02,Monthly,45-54,Northfield,ACTIVE,,2025-07-17
+M02784,18/05/2026,Monthly ,55-64,Southside,active,,2026-05-28
+M02785,2024-01-12,monthly,16-24,University,active,,2025-10-20
+M02786,2025-04-30,Monthly,35-44,City Centre,active,,2026-03-21
+M02787,2026-07-08,Annual ,,Northfield,active,,2026-08-22
+M02788,2026-08-18,Annual,45-54,City Centre,active,,2026-08-31
+M02789,10/01/2026,ANNUAL,55-64,Northfield,ACTIVE,,2026-03-17
+M02790,2026-04-12,Monthly,16-24,University,active,,2026-08-02
+M02791,2026-03-19,Monthly,35 - 44,Westgate,cancelled,2026-07-30,2026-07-30
+M02792,5 Jul 2026,Monthly ,16-24,Westgate,active,,2026-08-13
+M02793,2025-05-01,Annual ,16-24,Eastside,ACTIVE,,2025-05-18
+M02794,2026-06-13,Monthly,,Westgate,Active,,2026-06-25
+M02795,2026-04-14,Annual,25-34,Southside,active,,2026-05-14
+M02796,03/08/2026,Annual,35-44,Westgate,Active,,2026-08-24
+M02797,25/04/2025,Annual,25-34,City Centre,ACTIVE,,2026-04-29
+M02798,2024-10-06,Annual,65+,Southside,cancelled,2026-04-17,2026-04-17
+M02799,15 Jun 2025,Monthly,45-54,Southside,active,,2026-05-17
+M02800,07/05/2026,Annual,65+,Northfield,active,,2026-07-03
+M02801,20/08/2024,Monthly,16-24,University,cancelled,2026-08-04,2026-08-04
+M02802,2025-03-29,Monthly,65+,Northfield,active,,2025-03-29
+M02802,2025-03-29,Annual,65+,Northfield,Cancelled,2026-03-23,2026-03-23
+M02803,2026-02-19,Annual,55-64,Southside,active,,2026-08-11
+M02804,06/12/2025,Annual ,55-64,Westgate,active,,2025-12-14
+M02805,2026-06-24,Annual,25-34,Southside,active,,2026-08-04
+M02806,22 Apr 2026,annual,65+,Northfield,active,,2026-08-08
+M02807,04/12/2025,Monthly,25-34,City Centre,Cancelled,2026-03-01,2026-03-01
+M02808,2026-04-06,Monthly,25 - 34,Westgate,Active,,2026-08-23
+M02809,2024-04-23,Annual,16-24,Westgate,ACTIVE,,2026-05-30
+M02810,2026-08-27,Monthly,35-44,Fernhill,ACTIVE,,2026-08-30
+M02811,27/06/2024,Annual,25-34,Waterside,active,,2025-07-18
+M02812,3 Apr 2026,Monthly,25-34,Northfield,active,,2026-08-05
+M02813,13 Jan 2026,Annual,25-34,City Centre,active,,2026-07-26
+M02814,10/05/2026,Monthly,45-54,City Centre,cancelled,2026-05-26,2026-05-26
+M02815,11 May 2024,Annual,45-54,Hillcrest,cancelled,2024-11-12,2024-11-12
+M02816,2024-03-21,Monthly,,Westgate,ACTIVE,,2026-05-22
+M02817,2024-03-20,Monthly,16-24,Hillcrest,Cancelled,2026-03-29,2026-03-29
+M02818,2024-04-04,Annual,25-34,Southside,active,,2026-06-30
+M02819,2026-05-09,Monthly,,Eastside,active,,2026-08-17
+M02820,15 Oct 2025,Monthly,55-64,Westgate,Active,,2026-01-21
+M02821,24 Jun 2026,Monthly,35-44,City Centre,ACTIVE,,2026-08-13
+M02822,8 Jun 2026,Monthly,25-34,Southside,active,,2026-08-01
+M02824,24/02/2026,Annual,65+,Northfield,CANCELLED,2026-06-25,2026-06-25
+M02825,28 May 2024,Annual,16-24,Southside,active,,2024-06-17
+M02826,2025-06-06,MONTHLY,35-44,Northfield,ACTIVE,,2026-03-13
+M02827,2024-07-06,Annual ,35-44,Waterside,Active,,2026-07-03
+M02828,2026-02-24,Monthly,35-44,Eastside,active,,2026-05-20
+M02829,2026-06-29,Annual,45-54,Northfield,active,,2026-07-11
+M02830,12 Sep 2025,Monthly,35-44,Northfield,Cancelled,2026-01-24,2026-01-24
+M02831,17 Mar 2026,Monthly,45-54,Eastside,Active,,2026-05-20
+M02832,09/03/2026,Annual,25-34,University,active,,2026-06-18
+M02834,22/07/2024,monthly,,City Centre,Active,,2026-04-14
+M02835,24/10/2025,Annual,16-24,Southside,active,,2026-07-01
+M02836,07/05/2024,Annual ,25-34,Eastside,active,,2024-10-11
+M02837,11/12/2025,Monthly,16-24,University,cancelled,2026-03-28,2026-03-28
+M02838,2024-11-21,Annual ,35-44,City Centre,Active,,2025-04-05
+M02839,03/06/2026,MONTHLY,45-54,City Centre,active,,2026-06-12
+M02840,14/06/2024,monthly,25-34,University,ACTIVE,,2026-07-09
+M02841,11 Mar 2026,Monthly,55-64,Fernhill,cancelled,2026-05-26,2026-05-26
+M02842,6 Aug 2025,MONTHLY,16-24,Southside,active,,2026-01-06
+M02843,21/06/2026,Monthly,25-34,Hillcrest,active,,2026-06-22
+M02844,25 Mar 2026,Annual,55-64,Eastside,cancelled,2026-08-23,2026-08-23
+M02846,31 May 2026,ANNUAL,25-34,Westgate,active,,2026-07-19
+M02847,18/03/2026,Monthly,45-54,Eastside,ACTIVE,,2026-08-14
+M02848,6 Aug 2026,Monthly,25-34,Northfield,active,,2026-08-31
+M02849,2025-11-24,Annual,16-24,Westgate,Active,,2026-08-23
+M02850,2024-12-28,Monthly,25-34,Southside,active,,2025-02-24
+M02851,8 Feb 2025,Monthly,55 - 64,Northfield,ACTIVE,,2025-04-17
+M02852,2026-03-01,monthly,55-64,Eastside,active,,2026-06-17
+M02853,25 Apr 2026,Annual,35-44,Northfield,active,,2026-08-03
+M02854,2025-03-28,Monthly,35-44,City Centre,Active,,2026-05-03
+M02855,2026-01-16,Annual,35-44,Fernhill,active,,2026-06-28
+M02856,30 Aug 2025,Monthly,55-64,Eastside,ACTIVE,,2026-04-13
+M02857,28/10/2024,Monthly ,,University,cancelled,2026-02-07,2026-02-07
+M02858,2026-08-14,Monthly,55-64,Southside,active,,2026-08-30
+M02859,2026-05-17,Annual,45-54,Fernhill,Active,,2026-06-07
+M02860,2025-05-05,Monthly,16-24,Westgate,cancelled,2025-11-24,2025-11-24
+M02861,2024-05-08,Annual ,25-34,Northfield,active,,2025-03-25
+M02862,2024-05-19,Annual,35-44,Southside,active,,2024-09-02
+M02863,28 May 2026,annual,16-24,Hillcrest,cancelled,2026-08-16,2026-08-16
+M02864,13 Jan 2026,monthly,25 - 34,Hillcrest,active,,2026-08-02
+M02865,2026-01-01,Annual,45-54,Northfield,active,,2026-05-18
+M02866,25 Feb 2024,Monthly,35-44,Northfield,cancelled,2026-07-20,2026-07-20
+M02867,18/04/2025,annual,65+,Eastside,active,,2025-09-22
+M02868,2024-08-23,Monthly,16-24,Westgate,active,,2024-08-23
+M02868,2024-08-23,Annual,16-24,Westgate,active,,2025-06-12
+M02869,3 Jun 2024,Monthly,35-44,Southside,active,,2025-06-20
+M02870,03/04/2024,Monthly,,City Centre,active,,2025-10-18
+M02871,30/04/2026,ANNUAL,45-54,Eastside,active,,2026-05-14
+M02872,04/04/2026,Monthly,16-24,University,Active,,2026-04-06
+M02873,2026-06-15,Monthly,25-34,Southside,Active,,2026-08-17
+M02874,2026-06-25,Monthly,35-44,Northfield,active,,2026-07-27
+M02875,2024-10-25,Monthly,16-24,University,Active,,2025-07-10
+M02876,2024-09-28,Monthly ,65+,Fernhill,Active,,2024-10-09
+M02877,28 Apr 2026,Annual,16-24,Hillcrest,active,,2026-08-18
+M02878,22/08/2026,Annual,16-24,City Centre,active,,2026-08-24
+M02879,2026-03-15,Annual,35-44,Fernhill,active,,2026-08-02
+M02880,23/07/2026,Monthly ,35-44,Eastside,active,,2026-08-21
+M02881,2026-03-24,Monthly,45-54,Eastside,ACTIVE,,2026-04-19
+M02883,13/08/2026,Annual,35-44,Fernhill,Active,,2026-08-26
+M02884,2024-01-08,Monthly,45-54,Southside,active,,2025-11-23
+M02885,19/07/2026,Annual,55-64,Westgate,ACTIVE,,2026-08-29
+M02886,2025-09-20,Monthly,25-34,Northfield,active,,2026-02-28
+M02887,14/07/2026,Monthly,25-34,Northfield,cancelled,2026-08-09,2026-08-09
+M02888,2024-07-04,Monthly,45-54,Hillcrest,active,,2024-08-17
+M02889,2025-07-18,Annual ,25-34,Southside,cancelled,2026-05-17,2026-05-17
+M02890,25 Apr 2026,Monthly,16-24,University,cancelled,2026-08-20,2026-08-20
+M02891,2025-07-01,Monthly,,Eastside,active,,2025-12-25
+M02892,2024-10-07,Monthly ,55-64,Southside,cancelled,2025-01-14,2025-01-14
+M02893,20/11/2024,Annual,16-24,Northfield,active,,2025-07-09
+M02894,2026-01-05,Monthly,35-44,City Centre,active,,2026-03-17
+M02895,2025-11-12,annual,45-54,Eastside,cancelled,2026-02-25,2026-02-25
+M02896,2026-07-02,Monthly,,Waterside,active,,2026-08-09
+M02897,2026-05-13,monthly,45-54,Fernhill,active,,2026-07-30
+M02898,2026-06-28,Monthly,16-24,Hillcrest,active,,2026-07-25
+M02899,2026-08-12,Monthly,25-34,Northfield,active,,2026-08-29
+M02900,14 Jun 2026,Monthly,65+,City Centre,active,,2026-07-23
+M02901,2024-06-28,Monthly,35-44,Northfield,CANCELLED,2026-01-05,2026-01-05
+M02902,06/01/2025,Monthly,16-24,Eastside,cancelled,2025-04-01,2025-04-01
+M02903,2026-07-16,Monthly,25-34,Fernhill,active,,2026-07-30
+M02904,2025-12-16,Monthly,16-24,University,active,,2026-05-24
+M02905,25/04/2025,Annual,16-24,University,active,,2026-01-11
+M02906,23/07/2026,ANNUAL,35-44,Northfield,active,,2026-08-30
+M02907,2026-03-08,Annual,16-24,University,Active,,2026-06-21
+M02908,24/07/2026,Monthly ,,Northfield,ACTIVE,,2026-08-03
+M02909,9 Jun 2024,Monthly,25 - 34,Eastside,active,,2025-02-11
+M02910,23 May 2026,Monthly,16-24,Hillcrest,cancelled,2026-08-10,2026-08-10
+M02911,4 Oct 2025,MONTHLY,45-54,Eastside,active,,2026-08-09
+M02912,28/06/2024,Monthly,25-34,Eastside,active,,2025-03-25
+M02913,26 Jun 2024,Annual,55-64,Westgate,cancelled,2026-08-08,2026-08-08
+M02914,2026-04-10,Annual,35-44,Eastside,active,,2026-05-25
+M02915,14/06/2026,Annual ,55-64,Westgate,active,,2026-07-25
+M02916,25/08/2026,Monthly ,45-54,Northfield,active,,2026-08-28
+M02917,29 Jun 2026,Monthly ,45-54,Southside,active,,2026-07-17
+M02918,2026-02-11,ANNUAL,35-44,Northfield,active,,2026-08-04
+M02919,25/02/2024,Monthly,25 - 34,Eastside,active,,2024-10-22
+M02920,2026-04-26,Annual,25-34,Hillcrest,active,,2026-07-26
+M02921,2026-03-21,Monthly,55-64,Southside,active,,2026-06-11
+M02922,2026-04-14,Annual,25-34,Eastside,active,,2026-06-04
+M02923,31/01/2025,monthly,25-34,Northfield,cancelled,2025-07-19,2025-07-19
+M02924,2025-03-04,Annual,55-64,Southside,active,,2026-06-22
+M02925,2025-10-03,Monthly,,Eastside,cancelled,2026-06-01,2026-06-01
+M02926,01/08/2026,annual,25-34,Northfield,active,,2026-08-13
+M02927,2026-03-16,Annual,65+,Northfield,ACTIVE,,2026-06-23
+M02928,2026-01-25,Annual,35-44,Fernhill,active,,2026-08-29
+M02929,14/03/2024,ANNUAL,25-34,Fernhill,active,,2024-12-10
+M02930,2024-01-19,ANNUAL,35-44,Westgate,cancelled,2026-05-13,2026-05-13
+M02931,31/10/2024,Annual,65+,Southside,active,,2025-09-23
+M02932,23 Apr 2024,Monthly,55-64,Northfield,active,,2024-06-06
+M02933,2025-11-21,Monthly,55-64,Southside,active,,2026-07-18
+M02934,09/08/2026,Annual,35-44,Eastside,active,,2026-08-23
+M02936,14 Jun 2026,monthly,45-54,Northfield,active,,2026-07-23
+M02937,20/11/2025,MONTHLY,45-54,Eastside,active,,2026-07-17
+M02938,7 Sep 2025,Annual,45-54,Northfield,active,,2026-06-19
+M02939,2025-02-06,Monthly ,16-24,University,active,,2025-08-15
+M02940,2026-03-29,Annual,65+,Eastside,active,,2026-07-11
+M02942,2024-12-28,Monthly,25-34,Southside,Cancelled,2026-02-16,2026-02-16
+M02943,2026-06-27,Monthly,16-24,City Centre,Cancelled,2026-07-30,2026-07-30
+M02944,18/01/2026,Monthly,65+,Hillcrest,active,,2026-08-19
+M02945,15 Apr 2024,Monthly,45-54,Southside,Active,,2024-06-15
+M02946,2026-06-22,MONTHLY,35-44,Northfield,Active,,2026-08-01
+M02947,2024-12-13,Monthly,35-44,Southside,cancelled,2025-06-16,2025-06-16
+M02948,2026-02-06,Annual,55-64,Eastside,active,,2026-07-01
+M02949,2026-01-31,Monthly,25-34,Southside,active,,2026-07-31
+M02950,1 Aug 2024,Annual,16-24,University,cancelled,2026-06-27,2026-06-27
+M02951,2024-09-09,Annual,55-64,Northfield,Active,,2026-07-20
+M02953,19/05/2025,MONTHLY,25-34,Southside,active,,2025-10-29
+M02954,10 Jun 2026,Monthly,,Southside,active,,2026-08-17
+M02955,31/12/2025,Monthly ,25-34,City Centre,active,,2026-05-06
+M02956,2026-08-05,Monthly,35-44,Northfield,ACTIVE,,2026-08-11
+M02957,28/02/2025,Monthly ,55-64,Southside,Active,,2026-01-13
+M02959,23 Aug 2025,Monthly,25-34,City Centre,cancelled,2026-04-06,2026-04-06
+M02960,09/04/2026,Monthly,35-44,Eastside,active,,2026-04-17
+M02961,2024-12-06,Monthly ,45-54,Northfield,active,,2025-05-17
+M02962,2024-05-20,Annual,16-24,Eastside,active,,2025-01-01
+M02963,16/03/2024,Monthly,55-64,Westgate,active,,2024-06-09
+M02964,2024-01-29,Monthly ,25-34,Northfield,ACTIVE,,2024-10-22
+M02965,17/10/2024,Annual,25-34,City Centre,CANCELLED,2026-03-09,2026-03-09
+M02966,25 Sep 2024,annual,35-44,Northfield,active,,2024-09-29
+M02967,2024-02-10,Monthly,,Eastside,Cancelled,2024-07-25,2024-07-25
+M02969,26 Apr 2026,Annual,16-24,University,active,,2026-05-23
+M02970,31/05/2026,Monthly,16-24,University,Active,,2026-08-04
+M02971,01/07/2024,Monthly,16-24,University,active,,2026-02-26
+M02972,03/08/2025,Annual,35-44,Southside,ACTIVE,,2025-09-05
+M02974,2025-11-26,Monthly,35-44,City Centre,ACTIVE,,2026-02-09
+M02975,2026-03-18,Monthly ,16-24,University,cancelled,2026-07-17,2026-07-17
+M02976,2026-07-19,Monthly ,65+,Northfield,active,,2026-07-19
+M02977,03/08/2026,Monthly,45-54,Eastside,active,,2026-08-07
+M02978,01/12/2024,annual,25-34,Westgate,Active,,2026-06-14
+M02979,24/04/2024,monthly,16-24,University,cancelled,2026-04-04,2026-04-04
+M02980,16 Jul 2026,Monthly,35-44,City Centre,active,,2026-07-30
+M02981,24 Dec 2025,Monthly,25-34,Northfield,cancelled,2026-02-17,2026-02-17
+M02982,2024-11-02,Monthly,45-54,Hillcrest,Cancelled,2025-08-28,2025-08-28
+M02983,2025-12-19,Annual,55-64,Southside,active,,2026-07-18
+M02984,2025-09-05,Monthly,35-44,Southside,active,,2025-09-05
+M02984,2025-09-05,Annual,35-44,Southside,ACTIVE,,2026-02-04
+M02985,2025-03-06,Monthly,35-44,Southside,active,,2025-09-04
+M02986,6 Sep 2024,Monthly,16-24,University,active,,2025-09-29
+M02987,24/04/2024,Monthly,35-44,City Centre,active,,2026-08-25
+M02988,23/05/2026,Monthly,45-54,City Centre,active,,2026-08-20
+M02989,2 Aug 2026,Annual,35-44,Waterside,Active,,2026-08-05
+M02990,2024-09-29,Monthly,16-24,Eastside,cancelled,2026-06-25,2026-06-25
+M02991,09/06/2025,monthly,45-54,Northfield,cancelled,2026-06-02,2026-06-02
+M02992,13/03/2024,Monthly,45-54,Eastside,active,,2025-02-14
+M02993,12/07/2024,Annual,55-64,Northfield,active,,2026-05-02
+M02994,26/06/2026,Annual,35-44,City Centre,active,,2026-08-25
+M02995,03/06/2026,Annual,35-44,Northfield,active,,2026-06-19
+M02996,2025-12-03,Annual,,Northfield,active,,2026-05-25
+M02997,29/05/2025,Monthly,55-64,Northfield,Cancelled,2025-11-14,2025-11-14
+M02998,2024-01-16,Annual ,45-54,City Centre,ACTIVE,,2024-10-07
+M02999,28 Aug 2025,Monthly,25-34,City Centre,ACTIVE,,2026-04-07
+M03000,2026-05-13,ANNUAL,25-34,Fernhill,active,,2026-08-24

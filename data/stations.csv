@@ -1,0 +1,41 @@
+station_id,station_name,area,latitude,longitude,docks,dock_model,opened_date
+LB001,Central Station,City Centre,52.9476,-1.14552,30,ClickDock 1,2023-12-05
+LB002,Market Square,City Centre,52.953,-1.15,24,ClickDock 1,2024-12-30
+LB003,Guildhall,City Centre,52.9548,-1.15448,20,ClickDock 1,2024-04-14
+LB004,Bank Street,City Centre,52.95525,-1.14478,20,ClickDock 2,2024-08-11
+LB005,Castle Gate,City Centre,52.9512,-1.15896,18,ClickDock 1,2025-02-08
+LB006,St Anne's Square,City Centre,52.9575,-1.14701,22,ClickDock 1,2023-10-11
+LB007,King's Wharf,Waterside,52.9503,-1.13806,30,ClickDock 1,2024-06-23
+LB008,Exchange Quarter,City Centre,52.9539,-1.14104,20,ClickDock 1,2024-03-14
+LB009,Bus Interchange,City Centre,52.9485,-1.15299,24,ClickDock 1,2024-04-15
+LB010,Hospital Main Entrance,Westgate,52.96019,-1.18284,20,ClickDock 1,2024-04-04
+LB011,Tech Park East,Eastside,52.9566,-1.10522,24,ClickDock 1,2024-12-02
+LB012,Canal Basin,Waterside,52.94491,-1.14254,18,ClickDock 1,2025-01-28
+LB013,Northfield Road,Northfield,52.97818,-1.14701,14,ClickDock 1,2024-03-05
+LB014,Elm Grove,Northfield,52.97368,-1.16194,14,ClickDock 2,2024-09-08
+LB015,Maple Avenue,Northfield,52.98268,-1.13507,12,ClickDock 1,2024-08-18
+LB016,Ashby Lane,Eastside,52.96739,-1.11716,14,ClickDock 1,2024-08-05
+LB017,Brook Street,Westgate,52.96919,-1.17687,14,ClickDock 1,2024-09-06
+LB018,Fernhill,Fernhill,52.97638,-1.19478,12,ClickDock 1,2024-03-25
+LB019,Southgate,Southside,52.92962,-1.14851,16,ClickDock 1,2024-06-12
+LB020,Westbury Road,Westgate,52.9512,-1.18881,14,ClickDock 1,2024-12-03
+LB021,Hillcrest,Hillcrest,52.93591,-1.1709,12,ClickDock 1,2024-11-15
+LB022,Mill Lane,Eastside,52.94221,-1.12164,,ClickDock 1,2023-04-26
+LB023,Orchard Rise,Southside,52.92512,-1.13358,12,ClickDock 1,2023-09-29
+LB024,Victoria Terrace,Northfield,52.96649,-1.15448,16,ClickDock 1,2024-11-12
+LB025,Lower Ferry Road,Southside,52.92602,-1.16343,12,ClickDock 1,2024-09-28
+LB026,Greenbank,Eastside,52.94581,-1.10373,12,ClickDock 1,2024-10-22
+LB027,University Library,University,52.94311,-1.19777,22,ClickDock 1,2024-04-27
+LB028,Students' Union,University,52.94671,-1.20374,20,ClickDock 1,2024-04-20
+LB029,Science Quarter,University,52.93861,-1.20821,20,ClickDock 2,2024-05-07
+LB030,Halls of Residence,University,52.9503,-1.21717,24,ClickDock 1,2023-07-27
+LB031,Riverside Park,Waterside,52.93681,-1.12761,20,ClickDock 1,2023-11-24
+LB032,Lakeside,Southside,52.92782,-1.17985,18,ClickDock 1,2023-12-06
+LB033,Botanic Gardens,Westgate,52.96109,-1.16791,16,ClickDock 1,2024-05-19
+LB034,Old Harbour,Waterside,-1.11418,52.93232,18,ClickDock 1,2024-02-24
+LB035,Sports Centre,Eastside,52.96109,-1.12612,16,ClickDock 1,2024-03-31
+LB036,Museum Quarter,City Centre,52.9584,-1.16045,16,ClickDock 1,2024-04-13
+LB037,Arena,Eastside,52.9512,-1.11119,18,ClickDock 1,2024-08-29
+LB038,Retail Park,Northfield,52.97638,-1.11418,16,ClickDock 1,2024-09-01
+LB039,Cathedral Close,City Centre,52.96109,-1.15746,14,ClickDock 1,2023-06-20
+LB040,Railway Arches,Waterside,52.94671,-1.13358,16,ClickDock 1,2024-10-01
