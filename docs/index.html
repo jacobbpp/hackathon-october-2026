@@ -160,7 +160,7 @@
 
   <section id="setup" aria-labelledby="setup-h">
     <h2 id="setup-h">Getting set up</h2>
-    <p>Get the repo, then get the starter(s) your team will use running. You don't need all three, and you can use any language or tool you know instead.</p>
+    <p>Get the repo, then get your tools running. Power BI and Excel need no setup. The starters are there if you want them; you don't have to use any of them.</p>
     <ol class="steps">
       <li>
         <span class="num">1</span>
@@ -173,28 +173,35 @@
       <li>
         <span class="num">2</span>
         <div>
+          <h3>Power BI or Excel</h3>
+          <p>Nothing to set up. In Power BI choose <strong>Get data</strong>, then <strong>Text/CSV</strong>; in Excel, <strong>Data</strong>, then <strong>From Text/CSV</strong>. Pick files from <code>data/</code>, or <code>data/clean/</code> once your team has cleaned them.</p>
+        </div>
+      </li>
+      <li>
+        <span class="num">3</span>
+        <div>
+          <h3>Python notebook starter (Python 3.10 or newer)</h3>
+          <pre>pip install -r notebook/requirements.txt
+python notebook/check_setup.py</pre>
+        </div>
+      </li>
+      <li>
+        <span class="num">4</span>
+        <div>
           <h3>Plain web starter: HTML, CSS and JavaScript</h3>
           <p>Nothing to install beyond Python or VS Code. Browsers won't load data into a page you double-click, so serve the repo folder, then open <code>http://localhost:8000/web/</code>. (Use <code>python3</code> on a Mac.) Or use VS Code's Live Server extension on <code>web/index.html</code>.</p>
           <pre>python -m http.server 8000</pre>
         </div>
       </li>
       <li>
-        <span class="num">3</span>
+        <span class="num">5</span>
         <div>
           <h3>React + Node starter (Node 20 or newer)</h3>
-          <p>For teams who already know React. Optional.</p>
+          <p>For teams who already know React.</p>
           <pre>cd react
 npm install
 npm run check
 npm run install:all</pre>
-        </div>
-      </li>
-      <li>
-        <span class="num">4</span>
-        <div>
-          <h3>Python notebook starter (Python 3.10 or newer)</h3>
-          <pre>pip install -r notebook/requirements.txt
-python notebook/check_setup.py</pre>
         </div>
       </li>
     </ol>
@@ -222,14 +229,15 @@ python notebook/check_setup.py</pre>
     <div class="grid g2">
       <div class="card">
         <h3>Make the data trustworthy</h3>
-        <p>Find what's wrong with it, fix it in a way you can repeat, and find out what it really says. Mostly, but not only, for the data people.</p>
+        <p>Find what's wrong with it, fix it in a way you can repeat, and find out what it really says.</p>
       </div>
       <div class="card">
         <h3>Build LoopBike Ops</h3>
-        <p>A tool Priya's team would actually use, running on the cleaned data. Mostly, but not only, for the software people.</p>
+        <p>A tool Priya's team would actually use, running on the cleaned data. Build it in Power BI, Excel, Python or code.</p>
       </div>
     </div>
-    <p style="margin-top:20px">The two meet in a <strong>data contract</strong>: the names and columns of the cleaned files, agreed by the first checkpoint. The data people produce files that match it; the software people build against it, using a few hand-written sample rows until the real files are ready. Nobody waits for anybody.</p>
+    <p style="margin-top:20px">Most teams are mainly data analysts, so expect most tools to be built in Power BI, Excel or Python. Where a team has a developer, they and an analyst lead the build together.</p>
+    <p>The two jobs meet in a <strong>data contract</strong>: the names and columns of the cleaned files, agreed by the first checkpoint. The people cleaning produce files that match it; the people building the tool build against it, using a few hand-written sample rows until the real files are ready. Nobody waits for anybody.</p>
 
     <h3 style="margin-top:28px;font-size:22px">What Priya's team has asked for</h3>
     <p>Build in priority order: a few stories that work well beat many that half work.</p>
@@ -257,7 +265,8 @@ python notebook/check_setup.py</pre>
         </ul>
       </div>
     </div>
-    <p style="margin-top:20px"><strong>Quality bar:</strong> someone outside your team can run it from your instructions; a non-technical person can use it unaided; blank or odd values don't break it; and re-running the cleaning updates it with no code changes. Use any stack you know. You're judged on whether it works for the user, not on the technology.</p>
+    <p style="margin-top:20px"><strong>Quality bar:</strong> someone outside your team can open it and use it from your instructions; a non-technical person can use it unaided; blank or odd values don't break it; and re-running the cleaning, then refreshing the tool, brings it up to date.</p>
+    <p><strong>Build it in what your team knows.</strong> Power BI, Excel, Python (such as Streamlit) and code are all equally good routes. You're judged on whether it works for the user, not on the technology.</p>
   </section>
 
   <section id="tiers" aria-labelledby="tiers-h">
@@ -269,7 +278,7 @@ python notebook/check_setup.py</pre>
         <h3>Clean and explain</h3>
         <p class="label">Data side</p>
         <p>Cleaning you can re-run from scratch, and a log of every decision. Going further: find what a quick look misses.</p>
-        <p class="label">Software side</p>
+        <p class="label">Build side</p>
         <p>Agree the data contract, get the tool reading the cleaned files, and get the first Must story working.</p>
       </div>
       <div class="card">
@@ -277,7 +286,7 @@ python notebook/check_setup.py</pre>
         <h3>Explore and build</h3>
         <p class="label">Data side</p>
         <p>Answer the three questions with evidence. Going further: an insight that needs two files joined.</p>
-        <p class="label">Software side</p>
+        <p class="label">Build side</p>
         <p>All three Must stories working on cleaned data. Going further: the Should and Could stories.</p>
       </div>
       <div class="card">
@@ -285,7 +294,7 @@ python notebook/check_setup.py</pre>
         <h3>Predict (optional)</h3>
         <p class="label">Data side</p>
         <p>Beat the notebook's baseline, and say honestly how wrong your model is.</p>
-        <p class="label">Software side</p>
+        <p class="label">Build side</p>
         <p>Tomorrow's expected departures in the tool, with how sure the prediction is.</p>
       </div>
     </div>
@@ -295,7 +304,7 @@ python notebook/check_setup.py</pre>
     <h2 id="stretch-h">Stretch cards</h2>
     <p>Got time in hand? Each of these is recognised separately at the showcase.</p>
     <div class="grid g4">
-      <div class="card"><span class="num teal">A</span><h3>Ship it</h3><p>Deploy your tool to a public URL. The plain web starter runs on GitHub Pages from a fork of the repo.</p></div>
+      <div class="card"><span class="num teal">A</span><h3>Ship it</h3><p>Get your tool working somewhere other than your laptop, so the client could use it. The plain web starter runs on GitHub Pages from a fork.</p></div>
       <div class="card"><span class="num teal">B</span><h3>Prove it</h3><p>Automated tests for your cleaning rules or your tool.</p></div>
       <div class="card"><span class="num teal">C</span><h3>Watch it</h3><p>A check that flags the next bad file automatically.</p></div>
       <div class="card"><span class="num teal">D</span><h3>Open it</h3><p>Your dashboard passes a basic accessibility check.</p></div>
@@ -339,7 +348,8 @@ python notebook/check_setup.py</pre>
           <li>Best Technical Build</li>
           <li>Audience Favourite</li>
         </ul>
-        <p class="muted" style="margin-top:10px;font-size:14px">Each member of the overall winning team receives a £50 Amazon voucher.</p>
+        <p class="muted" style="margin-top:10px;font-size:14px">Best Technical Build is for the best-made thing in any tool: code, Power BI, Excel, or a repeatable, tested cleaning pipeline.</p>
+        <p class="muted" style="margin-top:6px;font-size:14px">Each member of the overall winning team receives a £50 Amazon voucher.</p>
       </div>
     </div>
     <p style="margin-top:20px">A focused, well-explained Tier 1 and Tier 2 beats a half-finished Tier 3.</p>

@@ -2,8 +2,8 @@
 
 The agreement between the people cleaning the data and the people building the tool. **Agree it by the first checkpoint.**
 
-- The data people promise to produce these files, in exactly this shape.
-- The software people build against them. Until the real files exist, write a few sample rows by hand (see the bottom of this page) and build against those.
+- The people cleaning the data promise to produce these files, in exactly this shape.
+- The people building the tool build against them. Until the real files exist, write a few sample rows by hand (see the bottom of this page) and build against those.
 - Change the contract only by agreeing the change together, and note it in the change log.
 
 This is a starting point. Rename, add or remove columns to suit what your team is building.
@@ -43,7 +43,7 @@ Add the members, bikes, weather or maintenance tables here if your tool needs th
 
 ## Sample rows
 
-The software people can start straight away with a hand-written file like this, saved as `data/clean/trips.csv`. Swap it for the real file when it's ready; if the tool needs changing at that point, the contract wasn't clear enough.
+Whoever builds the tool can start straight away with a hand-written file like this, saved as `data/clean/trips.csv`, whether the tool is in Power BI, Excel, Python or code. Swap it for the real file when it's ready; if the tool needs changing at that point, the contract wasn't clear enough.
 
 ```csv
 trip_id,bike_id,member_id,rider_type,start_station_id,start_time,end_station_id,end_time,duration_minutes

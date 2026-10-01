@@ -22,10 +22,12 @@ Trips and members were exported on **31 August 2026**. September's trips are stu
 
 Your team has two jobs that depend on each other.
 
-- **Make the data trustworthy.** Find what's wrong with it, fix it in a way you can repeat, and find out what it really says. Mostly, but not only, for the data people.
-- **Build LoopBike Ops.** A tool Priya's team would actually use, running on the cleaned data. Mostly, but not only, for the software people.
+- **Make the data trustworthy.** Find what's wrong with it, fix it in a way you can repeat, and find out what it really says.
+- **Build LoopBike Ops.** A tool Priya's team would actually use, running on the cleaned data. Build it in whatever your team knows: Power BI, Excel, Python or code.
 
-The two jobs meet in a **data contract** ([`DATA_CONTRACT.md`](DATA_CONTRACT.md)): the names and columns of the cleaned files, agreed by the first checkpoint. The data people produce files that match it; the software people build against it, using a few hand-written sample rows until the real files are ready. Nobody waits for anybody.
+Most teams are mainly data analysts, so expect most tools to be built in Power BI, Excel or Python. Where a team has a developer, they and an analyst lead the build together.
+
+The two jobs meet in a **data contract** ([`DATA_CONTRACT.md`](DATA_CONTRACT.md)): the names and columns of the cleaned files, agreed by the first checkpoint. The people cleaning produce files that match it; the people building the tool build against it, using a few hand-written sample rows until the real files are ready. Nobody waits for anybody.
 
 ## Build LoopBike Ops
 
@@ -41,14 +43,20 @@ What Priya's team has asked for. Build in priority order: a few stories that wor
 | **Could** | operations manager | a map of stations, coloured by how often they run empty | I can see problem areas at a glance |
 | **Could** | operations manager | tomorrow's expected departures for each station (Tier 3) | I can plan the vans the night before |
 
-**Quality bar.** Whatever you build, and in whatever language:
+**Quality bar.** Whatever you build it in:
 
-- Someone outside your team can run it from a fresh clone, using your instructions.
+- Someone outside your team can open it and use it, following your instructions.
 - A non-technical person can use it without you explaining it.
 - Blank or odd values don't break it.
-- It reads the cleaned files, so re-running the cleaning updates the tool with no code changes.
+- It reads the cleaned files, so re-running the cleaning and refreshing the tool brings it up to date, with nothing else to change.
 
-Use any stack your team knows: plain HTML and JavaScript, React, Python (Flask, Streamlit), C#, Power BI, Excel. You're judged on whether it works for the user and whether you can explain your choices, not on the technology.
+**Build it in what your team knows.** These are all equally good routes:
+
+- **Power BI or Excel**: import the cleaned CSVs. Every Must story can be built with tables, slicers and a map visual.
+- **Python**: a Streamlit app, or an interactive notebook.
+- **Code**: the plain web starter, the React starter, or another stack you know, such as C# or Flask.
+
+You're judged on whether it works for the user and whether you can explain your choices, not on the technology.
 
 ## What's in this repo
 
@@ -63,11 +71,13 @@ Use any stack your team knows: plain HTML and JavaScript, React, Python (Flask, 
 | `DATA_QUALITY_LOG.md` | Your record of every data problem found and what you did about it. |
 | `docs/` | The event page. |
 
-Nothing has been cleaned. The starters are there so nobody starts from a blank page; you don't have to use any of them.
+Nothing has been cleaned. The starters are there so nobody starts from a blank page; you don't have to use any of them. Power BI and Excel don't need a starter: point them at the CSVs in `data/`.
 
 ## Getting started
 
-Pick the starter(s) your team will use.
+Pick the tools your team will use.
+
+**Power BI or Excel.** Nothing to set up. In Power BI, choose **Get data**, then **Text/CSV**; in Excel, **Data**, then **From Text/CSV**. Pick files from `data/`, or `data/clean/` once your team has cleaned them.
 
 **Plain web starter** (any browser, plus Python or VS Code). Browsers won't load data files into a page you open by double-clicking, so serve the repo folder instead. From the repo folder:
 
@@ -102,9 +112,9 @@ Then open `notebook/starter.ipynb` in Jupyter, VS Code or Google Colab.
 
 Every tier has somewhere easy to start and no ceiling. You don't need to finish a tier before a teammate starts the next one.
 
-| Tier | Data side | Software side |
+| Tier | Data side | Build side |
 |---|---|---|
-| **1. Clean and explain** | **Start:** find and fix three problems in one file. **Core:** cleaning you can re-run from scratch, and a `DATA_QUALITY_LOG.md` entry for every problem (what, evidence, decision, rows affected). **Further:** find the problems a quick look misses; show a chart where cleaning changes the story. | **Start:** get a starter running and add one view. **Core:** agree the data contract, and get the tool reading the cleaned files (sample rows until they exist) with the first Must story working. **Further:** tests that prove the tool copes with blanks and odd values. |
+| **1. Clean and explain** | **Start:** find and fix three problems in one file. **Core:** cleaning you can re-run from scratch, and a `DATA_QUALITY_LOG.md` entry for every problem (what, evidence, decision, rows affected). **Further:** find the problems a quick look misses; show a chart where cleaning changes the story. | **Start:** get your tool started (Power BI, Excel, Python or a starter) and add one view. **Core:** agree the data contract, and get the tool reading the cleaned files (sample rows until they exist) with the first Must story working. **Further:** show the tool copes with blanks and odd values, or write tests that prove it. |
 | **2. Explore and build** | **Start:** one chart that answers part of a client question. **Core:** answer the three questions, with evidence. **Further:** an insight that needs two or more files joined. | **Start:** a second Must story. **Core:** all three Must stories working on cleaned data. **Further:** the Should and Could stories. |
 | **3. Predict** (optional) | **Start:** run the notebook's naive baseline. **Core:** a model for one of the tasks in `tier3/README.md`, with predictions submitted. **Further:** beat the baseline, and say honestly how wrong your model is and where. | **Start:** load the predictions file into the tool. **Core:** tomorrow's expected departures in the station view. **Further:** show how sure the prediction is, not just the number. |
 
@@ -112,7 +122,7 @@ Every tier has somewhere easy to start and no ceiling. You don't need to finish 
 
 Got time in hand? Each of these is recognised separately at the showcase.
 
-- **Ship it**: deploy your tool to a public URL. The plain web starter works on GitHub Pages: fork this repo, turn on Pages for the `main` branch, and your tool is at `https://<your-username>.github.io/hackathon-october-2026/web/`.
+- **Ship it**: get your tool working somewhere other than your laptop, so the client could use it. The plain web starter works on GitHub Pages: fork this repo, turn on Pages for the `main` branch, and your tool is at `https://<your-username>.github.io/hackathon-october-2026/web/`.
 - **Prove it**: automated tests for your cleaning rules or your tool.
 - **Watch it**: a data quality check that would flag the next bad file automatically.
 - **Open it**: your tool passes a basic accessibility check (contrast, keyboard use, alt text).
@@ -138,6 +148,8 @@ Judges score five things, from the FAQ:
 5. How well the team explains its approach
 
 Awards: **Best Overall Solution**, **Best Data Insight**, **Best Technical Build**, **Audience Favourite**.
+
+**Best Technical Build** is for the best-made thing, whatever it's made in: a coded tool, a well-built Power BI or Excel tool, or a repeatable, tested cleaning pipeline.
 
 A focused, well-explained Tier 1 and Tier 2 beats a half-finished Tier 3.
 
