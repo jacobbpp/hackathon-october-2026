@@ -2,7 +2,7 @@
 
 Optional. Pick one task, or both. Either way, the prediction has to appear in your tool (an API endpoint, a page, a "next week" view), not just in a notebook.
 
-**Submissions close at 15:15.** Hand your file to a facilitator (they'll tell you how on the day). Scores are revealed at the showcase.
+**Submissions close before the showcase.** The facilitators will tell you when, and how to hand your file in. Scores are revealed at the showcase.
 
 ## Option A: demand forecast
 

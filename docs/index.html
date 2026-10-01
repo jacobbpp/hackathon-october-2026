@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Software and Data Hackathon: LoopBike</title>
-<meta name="description" content="BPP Software and Data Hackathon, October 2026: the LoopBike challenge. Brief, timings and setup.">
+<meta name="description" content="BPP Software and Data Hackathon, October 2026: the LoopBike challenge. The brief and how to get set up.">
 <style>
   :root {
     --granite: #3e3a34;
@@ -94,7 +94,6 @@
   td { padding: 9px 12px; border-bottom: 1px solid var(--line); vertical-align: top; }
   td:first-child { width: 72px; font-weight: bold; color: var(--magenta); white-space: nowrap; }
   tr.key td { background: var(--mist); font-weight: bold; }
-  .times h3 { margin-bottom: 8px; }
 
   .steps { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: minmax(0, 1fr); gap: 20px; }
   .steps li { display: flex; gap: 18px; min-width: 0; }
@@ -136,10 +135,9 @@
       <div>
         <p class="eyebrow">Software and Data Hackathon</p>
         <h1>The LoopBike challenge</h1>
-        <p class="lede">One day, mixed teams of developers and data analysts, and six months of messy data from a client who needs answers they can trust.</p>
+        <p class="lede">One day, mixed teams of developers and data analysts, and six months of messy data from a client who needs answers they can trust and a tool they can use.</p>
         <ul class="when">
           <li>October 2026</li>
-          <li>09:30 to 17:00</li>
           <li>In person</li>
         </ul>
         <div class="buttons">
@@ -161,8 +159,8 @@
 <main class="wrap">
 
   <section id="setup" aria-labelledby="setup-h">
-    <h2 id="setup-h">Before the day</h2>
-    <p>Please bring a personal laptop and charger. Work laptops often block the installs you'll need. Then spend ten minutes on the setup check for the tools you're likely to use.</p>
+    <h2 id="setup-h">Getting set up</h2>
+    <p>Get the repo, then get the starter(s) your team will use running. You don't need all three, and you can use any language or tool you know instead.</p>
     <ol class="steps">
       <li>
         <span class="num">1</span>
@@ -175,22 +173,32 @@
       <li>
         <span class="num">2</span>
         <div>
-          <h3>Web starter (Node 20 or newer)</h3>
-          <pre>npm install
-npm run check
-npm run install:all</pre>
+          <h3>Plain web starter: HTML, CSS and JavaScript</h3>
+          <p>Nothing to install beyond Python or VS Code. Browsers won't load data into a page you double-click, so serve the repo folder, then open <code>http://localhost:8000/web/</code>. (Use <code>python3</code> on a Mac.) Or use VS Code's Live Server extension on <code>web/index.html</code>.</p>
+          <pre>python -m http.server 8000</pre>
         </div>
       </li>
       <li>
         <span class="num">3</span>
         <div>
-          <h3>Notebook starter (Python 3.10 or newer)</h3>
+          <h3>React + Node starter (Node 20 or newer)</h3>
+          <p>For teams who already know React. Optional.</p>
+          <pre>cd react
+npm install
+npm run check
+npm run install:all</pre>
+        </div>
+      </li>
+      <li>
+        <span class="num">4</span>
+        <div>
+          <h3>Python notebook starter (Python 3.10 or newer)</h3>
           <pre>pip install -r notebook/requirements.txt
 python notebook/check_setup.py</pre>
         </div>
       </li>
     </ol>
-    <p class="muted" style="margin-top:18px">Each check tells you what, if anything, to fix. If you can't get it working, let the organisers know before the day and we'll help. You don't need to build anything in advance.</p>
+    <p class="muted" style="margin-top:18px">The checks tell you what, if anything, to fix. If something won't install, grab a coach, and pair with a teammate while it's sorted.</p>
   </section>
 
   <section id="client" aria-labelledby="client-h">
@@ -209,6 +217,49 @@ python notebook/check_setup.py</pre>
     </div>
   </section>
 
+  <section id="challenge" aria-labelledby="challenge-h">
+    <h2 id="challenge-h">Two jobs, one team</h2>
+    <div class="grid g2">
+      <div class="card">
+        <h3>Make the data trustworthy</h3>
+        <p>Find what's wrong with it, fix it in a way you can repeat, and find out what it really says. Mostly, but not only, for the data people.</p>
+      </div>
+      <div class="card">
+        <h3>Build LoopBike Ops</h3>
+        <p>A tool Priya's team would actually use, running on the cleaned data. Mostly, but not only, for the software people.</p>
+      </div>
+    </div>
+    <p style="margin-top:20px">The two meet in a <strong>data contract</strong>: the names and columns of the cleaned files, agreed by the first checkpoint. The data people produce files that match it; the software people build against it, using a few hand-written sample rows until the real files are ready. Nobody waits for anybody.</p>
+
+    <h3 style="margin-top:28px;font-size:22px">What Priya's team has asked for</h3>
+    <p>Build in priority order: a few stories that work well beat many that half work.</p>
+    <div class="grid g3">
+      <div class="card">
+        <p class="label" style="margin-top:0">Must</p>
+        <ul class="plain">
+          <li>Every station listed once, with its real departures and arrivals</li>
+          <li>Stations likely to be empty by 09:00 on a weekday, for the van driver</li>
+          <li>Pick a station and see its busiest hours, weekdays and weekends</li>
+        </ul>
+      </div>
+      <div class="card">
+        <p class="label" style="margin-top:0">Should</p>
+        <ul class="plain">
+          <li>Members whose riding has dropped off, before they cancel</li>
+          <li>Filter by date range and rider type</li>
+        </ul>
+      </div>
+      <div class="card">
+        <p class="label" style="margin-top:0">Could</p>
+        <ul class="plain">
+          <li>A map of stations, coloured by how often they run empty</li>
+          <li>Tomorrow's expected departures for each station (Tier 3)</li>
+        </ul>
+      </div>
+    </div>
+    <p style="margin-top:20px"><strong>Quality bar:</strong> someone outside your team can run it from your instructions; a non-technical person can use it unaided; blank or odd values don't break it; and re-running the cleaning updates it with no code changes. Use any stack you know. You're judged on whether it works for the user, not on the technology.</p>
+  </section>
+
   <section id="tiers" aria-labelledby="tiers-h">
     <h2 id="tiers-h">Challenge tiers</h2>
     <p>Every tier has somewhere easy to start and no ceiling. You don't need to finish one tier before a teammate starts the next.</p>
@@ -216,26 +267,26 @@ python notebook/check_setup.py</pre>
       <div class="card">
         <span class="num">1</span>
         <h3>Clean and explain</h3>
-        <p class="label">Start here</p>
-        <p>Find and fix three problems in one file.</p>
-        <p class="label">Going further</p>
-        <p>Cleaning you can re-run from scratch, a log of every decision, and a chart where cleaning changes the story.</p>
+        <p class="label">Data side</p>
+        <p>Cleaning you can re-run from scratch, and a log of every decision. Going further: find what a quick look misses.</p>
+        <p class="label">Software side</p>
+        <p>Agree the data contract, get the tool reading the cleaned files, and get the first Must story working.</p>
       </div>
       <div class="card">
         <span class="num">2</span>
         <h3>Explore and build</h3>
-        <p class="label">Start here</p>
-        <p>Add one chart or filter to a starter.</p>
-        <p class="label">Going further</p>
-        <p>Answer the client's questions in a tool a non-technical person could use. Join files for deeper insight.</p>
+        <p class="label">Data side</p>
+        <p>Answer the three questions with evidence. Going further: an insight that needs two files joined.</p>
+        <p class="label">Software side</p>
+        <p>All three Must stories working on cleaned data. Going further: the Should and Could stories.</p>
       </div>
       <div class="card">
         <span class="num">3</span>
         <h3>Predict (optional)</h3>
-        <p class="label">Start here</p>
-        <p>Run the notebook's baseline.</p>
-        <p class="label">Going further</p>
-        <p>Beat it, show it in your tool, and say honestly how wrong it might be.</p>
+        <p class="label">Data side</p>
+        <p>Beat the notebook's baseline, and say honestly how wrong your model is.</p>
+        <p class="label">Software side</p>
+        <p>Tomorrow's expected departures in the tool, with how sure the prediction is.</p>
       </div>
     </div>
   </section>
@@ -244,8 +295,8 @@ python notebook/check_setup.py</pre>
     <h2 id="stretch-h">Stretch cards</h2>
     <p>Got time in hand? Each of these is recognised separately at the showcase.</p>
     <div class="grid g4">
-      <div class="card"><span class="num teal">A</span><h3>Ship it</h3><p>Deploy your tool to a public URL.</p></div>
-      <div class="card"><span class="num teal">B</span><h3>Prove it</h3><p>Automated tests for your cleaning rules.</p></div>
+      <div class="card"><span class="num teal">A</span><h3>Ship it</h3><p>Deploy your tool to a public URL. The plain web starter runs on GitHub Pages from a fork of the repo.</p></div>
+      <div class="card"><span class="num teal">B</span><h3>Prove it</h3><p>Automated tests for your cleaning rules or your tool.</p></div>
       <div class="card"><span class="num teal">C</span><h3>Watch it</h3><p>A check that flags the next bad file automatically.</p></div>
       <div class="card"><span class="num teal">D</span><h3>Open it</h3><p>Your dashboard passes a basic accessibility check.</p></div>
     </div>
@@ -253,42 +304,13 @@ python notebook/check_setup.py</pre>
 
   <section id="rules" aria-labelledby="rules-h">
     <h2 id="rules-h">Rules of the day</h2>
-    <div class="grid g2">
+    <div class="grid g3">
       <div class="card"><h3>AI assistants are allowed</h3><p>If you can't explain it, it doesn't count. Judges may ask any team member about any part of your work.</p></div>
       <div class="card"><h3>Every decision about the data goes in the log</h3><p>Dropping rows, filling gaps, merging values: write it in <code>DATA_QUALITY_LOG.md</code> with your reason.</p></div>
       <div class="card"><h3>Keep your cleaning repeatable</h3><p>A script or notebook you can run again from scratch, not edits by hand.</p></div>
+      <div class="card"><h3>Agree the data contract early</h3><p>By the first checkpoint, in <code>DATA_CONTRACT.md</code>. Change it only together.</p></div>
+      <div class="card"><h3>Build in priority order</h3><p>Musts first. A few stories that work well beat many that half work.</p></div>
       <div class="card"><h3>Ask the coaches</h3><p>They won't build it for you, but they will help you get unstuck.</p></div>
-    </div>
-  </section>
-
-  <section id="day" aria-labelledby="day-h">
-    <h2 id="day-h">The day</h2>
-    <div class="grid g2 times">
-      <div>
-        <h3>Morning</h3>
-        <table>
-          <tr><td>09:30</td><td>Arrive, clone the repo, run the setup check</td></tr>
-          <tr><td>09:45</td><td>Kick-off</td></tr>
-          <tr><td>10:05</td><td>Teams and roles</td></tr>
-          <tr class="key"><td>10:15</td><td>Sprint 1: explore and clean</td></tr>
-          <tr><td>11:30</td><td>Checkpoint: two minutes per team</td></tr>
-          <tr class="key"><td>11:45</td><td>Sprint 2: build</td></tr>
-          <tr><td>12:45</td><td>Lunch</td></tr>
-        </table>
-      </div>
-      <div>
-        <h3>Afternoon</h3>
-        <table>
-          <tr><td>13:30</td><td>Update from the client</td></tr>
-          <tr class="key"><td>13:40</td><td>Sprint 3</td></tr>
-          <tr><td>15:15</td><td>Tier 3 submissions close</td></tr>
-          <tr><td>15:30</td><td>Code freeze; prepare your demo</td></tr>
-          <tr class="key"><td>15:50</td><td>Showcase</td></tr>
-          <tr><td>16:30</td><td>Audience vote; judges confer</td></tr>
-          <tr><td>16:45</td><td>Awards and wrap-up</td></tr>
-          <tr><td>17:00</td><td>Close</td></tr>
-        </table>
-      </div>
     </div>
   </section>
 

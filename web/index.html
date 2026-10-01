@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>LoopBike Dashboard</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="app">
+    <header>
+      <h1>LoopBike Dashboard</h1>
+      <p class="subtitle">A fictional city bike-share scheme, built for the Software and Data Hackathon.</p>
+    </header>
+
+    <p id="status" class="status">Loading data...</p>
+
+    <section class="stats">
+      <div class="card stat-card"><div class="stat-value" id="stat-trips">-</div><div class="stat-label">Trips (rows in trips.csv)</div></div>
+      <div class="card stat-card"><div class="stat-value" id="stat-stations">-</div><div class="stat-label">Stations</div></div>
+      <div class="card stat-card"><div class="stat-value" id="stat-members">-</div><div class="stat-label">Members (rows in members.csv)</div></div>
+    </section>
+
+    <section class="card wide">
+      <h2>Trips per day</h2>
+      <div id="chart-days" class="line-chart"></div>
+      <p class="note" id="unreadable"></p>
+    </section>
+
+    <section class="charts">
+      <div class="card">
+        <h2>Trips by hour of day</h2>
+        <div id="chart-hours" class="column-chart"></div>
+      </div>
+      <div class="card">
+        <h2>Top 10 start stations</h2>
+        <div id="chart-stations" class="bar-chart"></div>
+      </div>
+    </section>
+
+    <section class="card">
+      <div class="table-header">
+        <h2>Trips (raw)</h2>
+        <input id="station-filter" placeholder="Filter by start station..." aria-label="Filter by start station">
+      </div>
+      <div class="table-scroll">
+        <table>
+          <thead>
+            <tr>
+              <th>Trip</th><th>Bike</th><th>Member</th><th>Rider</th><th>Start station</th>
+              <th>Start time</th><th>End station</th><th>End time</th><th>duration_mins</th>
+            </tr>
+          </thead>
+          <tbody id="trip-rows"></tbody>
+        </table>
+      </div>
+      <p class="note" id="table-note"></p>
+    </section>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

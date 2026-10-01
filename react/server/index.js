@@ -7,7 +7,7 @@ import { parse } from "csv-parse/sync";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 // Once your team has cleaned files in data/clean/, point this at that folder instead.
-const DATA_DIR = path.join(__dirname, "..", "data");
+const DATA_DIR = path.join(__dirname, "..", "..", "data");
 
 function loadCsv(filename) {
   const raw = fs.readFileSync(path.join(DATA_DIR, filename), "utf-8");

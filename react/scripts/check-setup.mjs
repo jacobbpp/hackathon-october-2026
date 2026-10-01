@@ -23,7 +23,7 @@ function version(cmd) {
   }
 }
 
-console.log("LoopBike setup check (web starter)\n");
+console.log("LoopBike setup check (React + Node starter)\n");
 
 const major = Number(process.versions.node.split(".")[0]);
 if (major >= 18) ok(`Node ${process.versions.node}`);
@@ -40,9 +40,9 @@ python
   ? ok(`${python} (for the notebook starter: run notebook/check_setup.py too)`)
   : warn("Python not found. Fine if you are only using the web starter.");
 
-if (!fs.existsSync(new URL("../data", import.meta.url))) {
+if (!fs.existsSync(new URL("../../data", import.meta.url))) {
   ok("No data folder yet: that's expected before the day");
-} else if (fs.existsSync(new URL("../data/trips.csv", import.meta.url))) {
+} else if (fs.existsSync(new URL("../../data/trips.csv", import.meta.url))) {
   ok("data/trips.csv found");
 } else {
   fail("data/trips.csv missing: did the clone finish?");
